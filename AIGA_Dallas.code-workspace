@@ -1,0 +1,9 @@
+{
+  "folders": [{ "path": "." }],
+  "settings": {
+    "search.exclude": {
+      "**/.local/**": true,
+      "**/dist/**": true
+    }
+  }
+}

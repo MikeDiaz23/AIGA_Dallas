@@ -1,0 +1,118 @@
+@import 'mixins';
+@import 'placeholders';
+
+.header .header-search-button-open-image {
+    @include background-image-retina('../../images/button_search', 'svg', 20px, 20px);
+}
+
+.header .header-search-button-open-image-alt {
+    @include background-image-retina('../../images/button_search_alt', 'svg', 20px, 20px);
+}
+
+.header .header-search-button-close-image {
+    @include background-image-retina('../../images/button_search_close', 'svg', 20px, 20px);
+}
+
+.header-compact-menu-item-link-expand-icon-image {
+    @include background-image-retina('../../images/compact_menu_link_expand', 'svg', 20px, 20px);
+}
+
+.header-compact-menu-button-close-image {
+    @include background-image-retina('../../images/compact_menu_close', 'svg', 20px, 20px);
+}
+
+.header-compact-menu-button-open-image {
+    @include background-image-retina('../../images/compact_menu_open', 'svg', 20px, 20px);
+}
+
+.header-compact-button-search-open-image {
+    @include background-image-retina('../../images/compact_search_open', 'svg', 20px, 20px);
+}
+
+.header-compact-button-search-close-image {
+    @include background-image-retina('../../images/compact_search_close', 'svg', 20px, 20px);
+}
+
+.sso-lock-icon {
+    @include background-image-retina('../../images/icon_sso', 'svg', 15px, 15px);
+}
+
+.sso-lock-light .sso-lock-icon {
+    @include background-image-retina('../../images/icon_sso_light', 'svg', 15px, 15px);
+}
+
+.ikit-widget-featured-video .video-item-overlay {
+    @include background-image-retina('../../images/button_play', 'svg', 60px, 60px);
+}
+
+.ikit-widget-featured-video .video-item-image:hover .video-item-overlay {
+    @include background-image-retina('../../images/button_play_hl', 'svg', 60px, 60px);
+}
+
+.ikit-widget-vimeo .vimeo-item-overlay {
+    @include background-image-retina('../../images/button_play', 'svg', 60px, 60px);
+}
+
+.ikit-widget-vimeo .vimeo-item:hover .vimeo-item-overlay {
+    @include background-image-retina('../../images/button_play_hl', 'svg', 60px, 60px);
+}
+
+.ikit-widget-youtube .youtube-item-overlay {
+    @include background-image-retina('../../images/button_play', 'svg', 60px, 60px);
+}
+
+.ikit-widget-youtube .youtube-item:hover .youtube-item-overlay {
+    @include background-image-retina('../../images/button_play_hl', 'svg', 60px, 60px);
+}
+
+.ikit-widget-instagram .instagram-item-video .instagram-item-video-overlay {
+  @include background-image-retina('../../images/button_play', 'svg', 60px, 60px);
+}
+
+.ikit-widget-instagram .instagram-item-video:hover .instagram-item-video-overlay {
+  @include background-image-retina('../../images/button_play_hl', 'svg', 60px, 60px);
+}
+
+.layout .social-share-container .social-share-item-twitter {
+    @include background-image-retina('../../images/social_twitter', 'svg', 30px, 30px);
+}
+
+.layout .social-share-container .social-share-item-twitter:hover {
+    @include background-image-retina('../../images/social_twitter_hl', 'svg', 30px, 30px);
+}
+
+.layout .social-share-container .social-share-item-facebook {
+    @include background-image-retina('../../images/social_facebook', 'svg', 30px, 30px);
+}
+
+.layout .social-share-container .social-share-item-facebook:hover {
+    @include background-image-retina('../../images/social_facebook_hl', 'svg', 30px, 30px);
+}
+
+.layout .social-share-container .social-share-item-linked_in {
+    @include background-image-retina('../../images/social_linkedin', 'svg', 30px, 30px);
+}
+
+.layout .social-share-container .social-share-item-linked_in:hover {
+    @include background-image-retina('../../images/social_linkedin_hl', 'svg', 30px, 30px);
+}
+
+.layout .social-share-container .social-share-item-email {
+    @include background-image-retina('../../images/social_email', 'svg', 30px, 30px);
+}
+
+.layout .social-share-container .social-share-item-email:hover {
+    @include background-image-retina('../../images/social_email_hl', 'svg', 30px, 30px);
+}
+
+.layout .social-share-container .social-share-item-addtocal {
+    @include background-image-retina('../../images/social_addtocal', 'svg', 30px, 30px);
+}
+
+.layout .social-share-container .social-share-item-addtocal:hover {
+    @include background-image-retina('../../images/social_addtocal_hl', 'svg', 30px, 30px);
+}
+
+.layout .sbSelector {
+    @include background-image-retina('../../images/filter_dropdown', 'svg', 20px, 20px);
+}

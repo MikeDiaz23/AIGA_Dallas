@@ -1,0 +1,21 @@
+# Local WordPress configuration, plugins, and generated packages.
+.env
+.env.*
+!.env.example
+.local/
+dist/
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.log
+
+# Full-site backups and database exports may contain private data and secrets.
+/backups/
+backup_*.zip
+backup_*.gz
+*.sql
+*.sql.gz
+*.zip

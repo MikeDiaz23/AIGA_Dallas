@@ -1,0 +1,279 @@
+@mixin font-color($selector, $color, $parent-color:null) {
+    #{$selector} {
+        @if $color {
+            color:$color;
+        }
+        @else {
+            color:$parent-color;
+        }
+    }
+}
+
+@mixin background-color($selector, $color, $parent-color:null) {
+    #{$selector} {
+        @if $color {
+            background-color:$color;
+        }
+        @else {
+            background-color:$parent-color;
+        }
+    }
+}
+
+@mixin link-underline-color($selector, $color-id) {
+    #{$selector} {
+        padding-bottom:6px;
+        @include background-image-text-underline('../../images/underline_color_#{$color-id}', 'svg', 2px, 2px);
+    }
+}
+
+@mixin border-color($selector, $color, $parent-color:null) {
+    #{$selector} {
+        @if $color {
+            border-color:$color;
+        }
+        @else {
+            border-color:$parent-color;
+        }
+    }
+    #{$selector}-top {
+        @if $color {
+            border-top-color:$color;
+        }
+        @else {
+            border-top-color:$parent-color;
+        }
+    }
+    #{$selector}-bottom {
+        @if $color {
+            border-bottom-color:$color;
+        }
+        @else {
+            border-bottom-color:$parent-color;
+        }
+    }
+    #{$selector}-left {
+        @if $color {
+            border-left-color:$color;
+        }
+        @else {
+            border-left-color:$parent-color;
+        }
+    }
+    #{$selector}-right {
+        @if $color {
+            border-right-color:$color;
+        }
+        @else {
+            border-right-color:$parent-color;
+        }
+    }
+}
+
+@mixin font-size($selector, $font_size, $line_height, $font_size_xl, $line_height_xl, $font_size_l, $line_height_l, $font_size_m, $line_height_m, $font_size_s, $line_height_s) {
+
+    #{$selector} {
+        font-size:$font_size;
+        line-height:$line_height;
+    }
+
+    .breakpoint-body-size-xl #{$selector} {
+        font-size:$font_size_xl;
+        line-height:$line_height_xl;
+    }
+
+    .breakpoint-body-size-l #{$selector} {
+        font-size:$font_size_l;
+        line-height:$line_height_l;
+    }
+
+    .breakpoint-body-size-m #{$selector} {
+        font-size:$font_size_m;
+        line-height:$line_height_m;
+    }
+
+    .breakpoint-body-size-s #{$selector} {
+        font-size:$font_size_s;
+        line-height:$line_height_s;
+    }
+
+}
+
+@mixin background-image-retina($file, $type, $width, $height) {
+    background-image: url($file + '.' + $type);
+    -webkit-background-size: $width $height;
+    -moz-background-size: $width $height;
+    -o-background-size: $width $height;
+    background-size: $width $height;
+    @if $type != svg {
+        @media only screen and (-webkit-min-device-pixel-ratio: 2),
+            only screen and (-moz-min-device-pixel-ratio: 2),
+            only screen and (-o-min-device-pixel-ratio: 2/1),
+            only screen and (min-device-pixel-ratio: 2),
+            only screen and (min-resolution: 192dpi),
+            only screen and (min-resolution: 2dppx){
+            & {
+                background-image: url($file + '@2x.' + $type);
+            }
+        }
+    }
+}
+
+@mixin background-image-text-underline($file, $type, $width, $height) {
+    @include background-image-retina($file, $type, $width, $height);
+    background-repeat: repeat-x;
+    display:inline;
+    text-decoration:none !important;
+    background-position: 100% 100%;
+}
+
+@mixin font-family-freight($selector) {
+
+    #{$selector} {
+        font-family: "freight-text-pro",serif;
+        font-style: normal;
+        font-weight: 400;
+    }
+
+    #{$selector} em, #{$selector} i {
+        font-family: "freight-text-pro",serif;
+        font-style: italic;
+        font-weight: 400;
+    }
+
+    #{$selector} strong, #{$selector} b {
+        font-family: "freight-text-pro",serif;
+        font-style: normal;
+        font-weight: 900;
+    }
+
+    #{$selector} strong em, #{$selector} b em,
+    #{$selector} strong i, #{$selector} b i,
+    #{$selector} em strong, #{$selector} em b,
+    #{$selector} i strong, #{$selector} i b {
+        font-family: "freight-text-pro",serif;
+        font-style: italic;
+        font-weight: 900;
+    }
+
+}
+
+@mixin font-family-freight-italic($selector) {
+
+    #{$selector} {
+        font-family: "freight-text-pro",serif;
+        font-style: italic;
+        font-weight: 400;
+    }
+
+}
+
+@mixin font-family-freight-bold($selector) {
+
+    #{$selector} {
+        font-family: "freight-text-pro",serif;
+        font-style: normal;
+        font-weight: 900;
+    }
+
+}
+
+@mixin font-family-freight-bold-italic($selector) {
+
+    #{$selector} {
+        font-family: "freight-text-pro",serif;
+        font-style: italic;
+        font-weight: 900;
+    }
+
+}
+
+@mixin font-family-neue($selector) {
+
+    #{$selector} {
+        font-family: "neue-haas-grotesk-text",sans-serif;
+        font-style:normal;
+        font-weight:400;
+    }
+    #{$selector} em, #{$selector} i {
+        font-family: "neue-haas-grotesk-text",sans-serif;
+        font-style:italic;
+        font-weight:400;
+    }
+    #{$selector} strong, #{$selector} b {
+        font-family: "neue-haas-grotesk-text",sans-serif;
+        font-style:normal;
+        font-weight:700;
+    }
+
+    #{$selector} strong em, #{$selector} b em,
+    #{$selector} strong i, #{$selector} b i,
+    #{$selector} em strong, #{$selector} em b,
+    #{$selector} i strong, #{$selector} i b {
+        font-family: "neue-haas-grotesk-text",sans-serif;
+        font-style: italic;
+        font-weight:700;
+    }
+
+}
+
+@mixin font-family-neue-italic($selector) {
+
+    #{$selector} {
+        font-family: "neue-haas-grotesk-text",sans-serif;
+        font-style:italic;
+        font-weight:400;
+    }
+}
+
+@mixin font-family-neue-bold($selector) {
+
+    #{$selector} {
+        font-family: "neue-haas-grotesk-text",sans-serif;
+        font-style:normal;
+        font-weight:700;
+    }
+}
+
+@mixin font-family-neue-bold-italic($selector) {
+
+    #{$selector} {
+        font-family: "neue-haas-grotesk-text",sans-serif;
+        font-style: italic;
+        font-weight:700;
+    }
+}
+
+@mixin placeholder {
+  &::-webkit-input-placeholder {@content}
+  &::-moz-placeholder {@content}
+  &::-moz-placeholder {@content}
+  &::-ms-input-placeholder {@content}
+}
+
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+  border-radius: $radius;
+  background-clip: padding-box; /* stops bg color from leaking outside the border: */
+}
+
+@mixin aspect-ratio-preserve($width, $height) {
+
+    width:100%;
+    position:relative;
+
+    &:before {
+      content: "";
+      display: block;
+      padding-top: ($height / $width) * 100%;
+    }
+
+    > div {
+      width:100%;
+      height:100%;
+      left:0;
+      top:0;
+      position:absolute;
+    }
+
+}

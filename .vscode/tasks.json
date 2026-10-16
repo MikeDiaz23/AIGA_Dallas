@@ -1,0 +1,67 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "WordPress: Import plugins",
+      "type": "process",
+      "command": "make",
+      "args": ["import-plugins"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "WordPress: Set up",
+      "type": "process",
+      "command": "make",
+      "args": ["setup"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "WordPress: Activate theme",
+      "type": "process",
+      "command": "make",
+      "args": ["prepare-theme"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "WordPress: First run",
+      "dependsOn": ["WordPress: Import plugins", "WordPress: Set up", "WordPress: Activate theme"],
+      "dependsOrder": "sequence",
+      "problemMatcher": []
+    },
+    {
+      "label": "WordPress: Start",
+      "type": "process",
+      "command": "make",
+      "args": ["up"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "WordPress: Check theme",
+      "type": "process",
+      "command": "make",
+      "args": ["theme-smoke"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "WordPress: Package themes",
+      "type": "process",
+      "command": "make",
+      "args": ["package"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "WordPress: Stop",
+      "type": "process",
+      "command": "make",
+      "args": ["down"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    }
+  ]
+}

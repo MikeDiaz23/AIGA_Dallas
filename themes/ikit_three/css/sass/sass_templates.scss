@@ -1,0 +1,469 @@
+@import 'mixins';
+@import 'placeholders';
+
+/*********************************************/
+/* Template section toc
+/*********************************************/
+
+.page-template-section_toc-php .item-title {
+    @extend .font-size-4;
+    @extend .font-color-1;
+    @extend .font-style-3;
+}
+
+.page-template-section_toc-php .item-description {
+    @extend .font-size-6;
+    @extend .font-color-1;
+    @extend .font-style-8;
+}
+
+/*********************************************/
+/* Template section toc alt 1
+/*********************************************/
+
+.page-template-section_toc_alt_1-php .item-title {
+    @extend .font-size-4;
+    @extend .font-color-1;
+    @extend .font-style-3;
+}
+
+.page-template-section_toc_alt_1-php .item-description {
+    @extend .font-size-6;
+    @extend .font-color-1;
+    @extend .font-style-8;
+}
+
+.page-template-section_toc_alt_1-php .item-description a {
+    @extend .font-color-5;
+}
+
+.page-template-section_toc_alt_1-php .item-description a:hover {
+    @extend .font-color-1;
+}
+
+/*********************************************/
+/* Template persons
+/*********************************************/
+
+.page-template-persons-php .person-item-title {
+    @extend .font-style-8;
+    @extend .font-color-1;
+    @extend .font-size-4;
+}
+
+.page-template-persons-php .person-item-positions {
+    @extend .font-size-4;
+    @extend .font-color-3;
+    @extend .font-style-8;
+}
+
+.page-template-persons-php .person-item-description {
+    @extend .font-size-6;
+    @extend .font-style-8;
+    @extend .font-color-1;
+}
+
+.page-template-persons-php .person-item-description a {
+    @extend .font-color-5;
+}
+
+.page-template-persons-php .person-item-description a:hover {
+    @extend .font-color-1;
+}
+
+/*********************************************/
+/* Template events past
+/*********************************************/
+
+.page-template-events_past-php .event-item-title {
+    @extend .font-size-3;
+    @extend .font-style-3;
+    @extend .font-color-1;
+}
+
+.page-template-events_past-php .event-item-description {
+    @extend .font-color-1;
+    @extend .font-size-6;
+    @extend .font-style-8;
+}
+
+.page-template-events_past-php .event-item-location {
+    @extend .font-size-6;
+    @extend .font-color-5;
+}
+
+.page-template-events_past-php .event-item-time,
+.page-template-events_past-php .event-item-date {
+    @extend .font-size-6;
+    @extend .font-color-1;
+}
+
+.page-template-events_past-php .event-item-external-source,
+.page-template-events_past-php .event-item-internal-source {
+    @extend .font-size-6;
+    @extend .font-color-3;
+}
+
+/*********************************************/
+/* Template news / category
+/*********************************************/
+
+.category .page-layout-4-body .news-item-title,
+.page-template-news-php .page-layout-4-body .news-item-title {
+    @extend .font-style-3;
+    @extend .font-color-1;
+    @extend .font-size-3;
+}
+
+.category .page-layout-4-body .news-item-category,
+.page-template-news-php .page-layout-4-body .news-item-category {
+    @extend .background-color-4;
+    @extend .font-color-3;
+    @extend .border-color-4;
+}
+
+.category .page-layout-4-body .news-item-category:hover,
+.page-template-news-php .page-layout-4-body .news-item-category:hover {
+    @extend .background-color-1;
+    @extend .font-color-2;
+    @extend .border-color-1;
+}
+
+.category .page-layout-4-body .news-item-date,
+.page-template-news-php .page-layout-4-body .news-item-date,
+.category .page-layout-4-body .news-item-author,
+.page-template-news-php .page-layout-4-body .news-item-author {
+    @extend .font-size-6;
+    @extend .font-color-1;
+}
+
+.category .page-layout-4-body .news-item-description,
+.page-template-news-php .page-layout-4-body .news-item-description {
+    @extend .font-color-1;
+    @extend .font-size-6;
+    @extend .font-style-8;
+}
+
+.category .page-layout-4-body .news-item-external-source,
+.page-template-news-php .page-layout-4-body .news-item-external-source {
+    @extend .font-size-6;
+    @extend .font-color-1;
+}
+
+/*********************************************/
+/* Template events / events internal
+/*********************************************/
+
+.page-template-events-php .page-layout-4 .view-filter.active,
+.page-template-events_internal-php .page-layout-4 .view-filter.active {
+    @extend .background-color-1;
+    @extend .font-color-2;
+    @extend .border-color-1;
+}
+
+.page-template-events-php .page-layout-4 .view-filter.active:hover,
+.page-template-events_internal-php .page-layout-4 .view-filter.active:hover {
+    @extend .border-color-1;
+}
+
+.page-template-events-php .events-rss-feed-link,
+.page-template-events_internal-php .events-rss-feed-link {
+    color: $color-1;
+    &:hover {
+        color:$color-5;
+    }
+}
+
+/* List */
+
+.page-template-events-php .page-layout-4-body .event-item-title,
+.page-template-events_internal-php .page-layout-4-body .event-item-title {
+    @extend .font-size-3;
+    @extend .font-style-3;
+    @extend .font-color-1;
+}
+
+.page-template-events-php .page-layout-4-body .event-item-description,
+.page-template-events_internal-php .page-layout-4-body .event-item-description {
+    @extend .font-color-1;
+    @extend .font-size-6;
+    @extend .font-style-8;
+}
+
+.page-template-events-php .page-layout-4-body .event-item-location,
+.page-template-events_internal-php .page-layout-4-body .event-item-location {
+    @extend .font-size-6;
+    @extend .font-color-5;
+}
+
+.page-template-events-php .page-layout-4-body .event-item-date,
+.page-template-events-php .page-layout-4-body .event-item-time,
+.page-template-events_internal-php .page-layout-4-body .event-item-date,
+.page-template-events_internal-php .page-layout-4-body .event-item-time {
+    @extend .font-size-6;
+    @extend .font-color-1;
+}
+
+.page-template-events-php .page-layout-4-body .event-item-external-source,
+.page-template-events-php .page-layout-4-body .event-item-internal-source,
+.page-template-events_internal-php .page-layout-4-body .event-item-external-source,
+.page-template-events_internal-php .page-layout-4-body .event-item-internal-source {
+    @extend .font-size-6;
+    @extend .font-color-3;
+}
+
+/* Calendar */
+
+.page-template-events-php .events-calendar-day-content,
+.page-template-events_internal-php .events-calendar-day-content {
+    @extend .border-color-1;
+}
+
+.page-template-events-php .events-calendar-content > table > tbody > tr,
+.page-template-events_internal-php .events-calendar-content > table > tbody > tr {
+   @extend .border-color-1;
+}
+
+.page-template-events-php .events-calendar-content > table > tbody > tr:nth-child(2),
+.page-template-events_internal-php .events-calendar-content > table > tbody > tr:nth-child(2) {
+   @extend .border-color-1;
+}
+
+.page-template-events-php .events-calendar-content > table > tbody > tr:last-child,
+.page-template-events_internal-php .events-calendar-content > table > tbody > tr:last-child {
+   @extend .border-color-1;
+}
+
+.page-template-events-php .events-calendar-title,
+.page-template-events_internal-php .events-calendar-title {
+    @extend .font-style-3;
+    @extend .font-size-3;
+    @extend .font-color-1;
+}
+
+.page-template-events-php .events-calendar-content td,
+.page-template-events-php .events-calendar-content th,
+.page-template-events_internal-php .events-calendar-content td,
+.page-template-events_internal-php .events-calendar-content th {
+    @extend .font-size-6;
+    @extend .font-color-1;
+    @extend .font-style-3;
+}
+
+.page-template-events-php .events-calendar-day-not-in-month .events-calendar-day-event-empty,
+.page-template-events_internal-php .events-calendar-day-not-in-month .events-calendar-day-event-empty {
+    @extend .background-color-4;
+}
+
+.page-template-events-php .events-calendar-day-event-empty,
+.page-template-events_internal-php .events-calendar-day-event-empty {
+    @extend .background-color-2;
+}
+
+.page-template-events-php .tooltipster-base,
+.page-template-events_internal-php .tooltipster-base {
+    @extend .background-color-1;
+}
+
+.page-template-events-php .tooltipster-base .events-calendar-day-event-info-title,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-title {
+    @extend .font-size-6;
+    @extend .font-color-2;
+    @extend .font-style-3;
+}
+
+.page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes {
+    @extend .font-size-6;
+    @extend .font-color-2;
+    @extend .font-style-1; /* Override the tooltipster default of Arial */
+}
+
+.page-template-events-php .events-calendar-day-compact-event-title,
+.page-template-events_internal-php .events-calendar-day-compact-event-title {
+    @extend .font-style-3;
+    @extend .font-size-3;
+    @extend .font-color-1;
+}
+
+.page-template-events-php .events-calendar-day-compact-date,
+.page-template-events_internal-php .events-calendar-day-compact-date {
+    @extend .font-style-3;
+    @extend .font-size-6;
+    @extend .font-color-1;
+}
+
+.page-template-events-php .events-calendar-day-compact,
+.page-template-events_internal-php .events-calendar-day-compact {
+    @extend .border-color-1;
+}
+
+/*********************************************/
+/* Template search
+/*********************************************/
+
+.search .search-result-title {
+    @extend .font-size-4;
+    @extend .font-style-3;
+    @extend .font-color-1;
+}
+
+.search .search-result-type {
+    @extend .font-size-6;
+    @extend .font-color-3;
+}
+
+.search .search-result-date {
+    @extend .font-size-6;
+    @extend .font-color-1;
+}
+
+/* Event specific */
+
+.search .search-result-event-location {
+    @extend .font-size-6;
+    @extend .font-color-1;
+}
+
+/*********************************************/
+/* Template jobs
+/*********************************************/
+
+.page-template-jobs-php .page-layout-4-body .job-item-location,
+.page-template-jobs-php .page-layout-4-body .job-item-date {
+    @extend .font-size-6;
+    @extend .font-color-1;
+}
+
+.page-template-jobs-php .page-layout-4-body .job-item-title {
+    @extend .font-style-3;
+}
+
+.page-template-jobs-php .page-layout-4-body .job-item-company-name,
+.page-template-jobs-php .page-layout-4-body .job-item-title {
+    @extend .font-color-1;
+    @extend .font-size-4;
+}
+
+/*********************************************/
+/* Template portfolios
+/*********************************************/
+
+.page-template-portfolios-php .portfolio-item-project {
+    @extend .font-color-3;
+    @extend .font-size-4;
+    @extend .font-style-8;
+}
+
+.page-template-portfolios-php .portfolio-item-author {
+    @extend .font-color-1;
+    @extend .font-size-4;
+    @extend .font-style-8;
+}
+
+/*********************************************/
+/* Template sponsors
+/*********************************************/
+
+.page-template-sponsors-php .sponsor-category {
+    @extend .font-size-6;
+    @extend .font-style-3;
+    @extend .font-color-1;
+}
+
+.page-template-sponsors-php .sponsor-description {
+    @extend .font-size-6;
+    @extend .font-style-8;
+    @extend .font-color-1;
+}
+
+.page-template-sponsors-php .sponsor-description a {
+    @extend .font-color-5;
+}
+
+.page-template-sponsors-php .sponsor-description a:hover {
+    @extend .font-color-1;
+}
+
+/*********************************************/
+/* Template single
+/*********************************************/
+
+.single .category-button {
+    @extend .background-color-4;
+    @extend .font-color-3;
+    @extend .border-color-4;
+}
+
+.single .category-button:hover {
+    @extend .background-color-1;
+    @extend .font-color-2;
+    @extend .border-color-1;
+}
+
+/*********************************************/
+/* Template single event
+/*********************************************/
+
+.single-ikit_event .attendees {
+    @extend .font-size-5;
+    @extend .font-style-8;
+    @extend .font-color-1;
+}
+
+.single-ikit_event .eventbrite-registration-link-header {
+    @extend .font-color-1;
+}
+
+/*********************************************/
+/* Template single person
+/*********************************************/
+
+.single-ikit_person .header-person-positions {
+    @extend .font-size-1;
+    @extend .font-style-1;
+}
+
+
+/*********************************************/
+/* Template membership rates
+/*********************************************/
+
+.page-template-membership_rates-php .rate-header {
+    @extend .font-style-3;
+}
+
+/*********************************************/
+/* Template member directory
+/*********************************************/
+
+.page-template-member_directory-php .member-item-name {
+    @extend .font-style-8;
+    @extend .font-color-1;
+    @extend .font-size-4;
+}
+
+.page-template-member_directory-php .member-item-company {
+    @extend .font-color-3;
+    @extend .font-size-4;
+    @extend .font-style-8;
+}
+
+.page-template-member_directory-php .member-item-attributes {
+    @extend .font-size-6;
+    @extend .font-color-1;
+}
+
+.page-template-member_directory-php .member-item-attributes .member-item-type {
+    @extend .font-size-6;
+    @extend .font-color-1;
+}
+
+/*********************************************/
+/* Template 404
+/*********************************************/
+.error404 .page-layout-4-body {
+    @extend .font-size-3;
+    @extend .font-color-1;
+    @extend .font-style-3;
+}

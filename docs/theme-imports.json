@@ -1,0 +1,17 @@
+{
+  "description": "Original uploads imported without source changes. Hashes identify the source ZIPs; archives are not stored in Git.",
+  "imports": [
+    {
+      "archive": "ikit_three.zip",
+      "sha256": "fac7f102a32269b926b449ec425d683ff9738dd1e812fdbfb4af46bce0c11f72",
+      "theme_directory": "themes/ikit_three",
+      "files": 107
+    },
+    {
+      "archive": "ikit_three_custom.zip",
+      "sha256": "5dfc6dff7a9c484c7f32b7a64f848974b99735e74a8bc7363b4645f68d20980f",
+      "theme_directory": "themes/ikit_three_custom",
+      "files": 41
+    }
+  ]
+}

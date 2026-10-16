@@ -1,0 +1,996 @@
+/* Colors */
+/* Font color */
+.font-color-0 {
+  color: transparent; }
+
+.font-color-1, .page-template-section_toc-php .item-title, .page-template-section_toc-php .item-description, .page-template-section_toc_alt_1-php .item-title, .page-template-section_toc_alt_1-php .item-description, .page-template-section_toc_alt_1-php .item-description a:hover, .page-template-persons-php .person-item-title, .page-template-persons-php .person-item-description, .page-template-persons-php .person-item-description a:hover, .page-template-events_past-php .event-item-title, .page-template-events_past-php .event-item-description, .page-template-events_past-php .event-item-time,
+.page-template-events_past-php .event-item-date, .category .page-layout-4-body .news-item-title,
+.page-template-news-php .page-layout-4-body .news-item-title, .category .page-layout-4-body .news-item-date,
+.page-template-news-php .page-layout-4-body .news-item-date,
+.category .page-layout-4-body .news-item-author,
+.page-template-news-php .page-layout-4-body .news-item-author, .category .page-layout-4-body .news-item-description,
+.page-template-news-php .page-layout-4-body .news-item-description, .category .page-layout-4-body .news-item-external-source,
+.page-template-news-php .page-layout-4-body .news-item-external-source, .page-template-events-php .page-layout-4-body .event-item-title,
+.page-template-events_internal-php .page-layout-4-body .event-item-title, .page-template-events-php .page-layout-4-body .event-item-description,
+.page-template-events_internal-php .page-layout-4-body .event-item-description, .page-template-events-php .page-layout-4-body .event-item-date,
+.page-template-events-php .page-layout-4-body .event-item-time,
+.page-template-events_internal-php .page-layout-4-body .event-item-date,
+.page-template-events_internal-php .page-layout-4-body .event-item-time, .page-template-events-php .events-calendar-title,
+.page-template-events_internal-php .events-calendar-title, .page-template-events-php .events-calendar-content td,
+.page-template-events-php .events-calendar-content th,
+.page-template-events_internal-php .events-calendar-content td,
+.page-template-events_internal-php .events-calendar-content th, .page-template-events-php .events-calendar-day-compact-event-title,
+.page-template-events_internal-php .events-calendar-day-compact-event-title, .page-template-events-php .events-calendar-day-compact-date,
+.page-template-events_internal-php .events-calendar-day-compact-date, .search .search-result-title, .search .search-result-date, .search .search-result-event-location, .page-template-jobs-php .page-layout-4-body .job-item-location,
+.page-template-jobs-php .page-layout-4-body .job-item-date, .page-template-jobs-php .page-layout-4-body .job-item-company-name,
+.page-template-jobs-php .page-layout-4-body .job-item-title, .page-template-portfolios-php .portfolio-item-author, .page-template-sponsors-php .sponsor-category, .page-template-sponsors-php .sponsor-description, .page-template-sponsors-php .sponsor-description a:hover, .single-ikit_event .attendees, .single-ikit_event .eventbrite-registration-link-header, .page-template-member_directory-php .member-item-name, .page-template-member_directory-php .member-item-attributes, .page-template-member_directory-php .member-item-attributes .member-item-type, .error404 .page-layout-4-body {
+  color: black; }
+
+.font-color-2, .category .page-layout-4-body .news-item-category:hover,
+.page-template-news-php .page-layout-4-body .news-item-category:hover, .page-template-events-php .page-layout-4 .view-filter.active,
+.page-template-events_internal-php .page-layout-4 .view-filter.active, .page-template-events-php .tooltipster-base .events-calendar-day-event-info-title,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-title, .page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes, .single .category-button:hover {
+  color: white; }
+
+.font-color-3, .page-template-persons-php .person-item-positions, .page-template-events_past-php .event-item-external-source,
+.page-template-events_past-php .event-item-internal-source, .category .page-layout-4-body .news-item-category,
+.page-template-news-php .page-layout-4-body .news-item-category, .page-template-events-php .page-layout-4-body .event-item-external-source,
+.page-template-events-php .page-layout-4-body .event-item-internal-source,
+.page-template-events_internal-php .page-layout-4-body .event-item-external-source,
+.page-template-events_internal-php .page-layout-4-body .event-item-internal-source, .search .search-result-type, .page-template-portfolios-php .portfolio-item-project, .single .category-button, .page-template-member_directory-php .member-item-company {
+  color: #a5a5a5; }
+
+.font-color-4 {
+  color: #f0f0f0; }
+
+.font-color-5, .page-template-section_toc_alt_1-php .item-description a, .page-template-persons-php .person-item-description a, .page-template-events_past-php .event-item-location, .page-template-events-php .page-layout-4-body .event-item-location,
+.page-template-events_internal-php .page-layout-4-body .event-item-location, .page-template-sponsors-php .sponsor-description a {
+  color: #0000d2; }
+
+.font-color-6 {
+  color: #f9b30f; }
+
+.font-color-7 {
+  color: #a5d21e; }
+
+.font-color-8 {
+  color: #41c8b9; }
+
+.font-color-9 {
+  color: #ec008c; }
+
+.font-color-3a {
+  color: #a5a5a5; }
+
+.font-color-1b {
+  color: black; }
+
+.font-color-1e {
+  color: black; }
+
+.font-color-3b {
+  color: #a5a5a5; }
+
+.font-color-1g {
+  color: black; }
+
+/* Background color */
+.background-color-0 {
+  background-color: transparent; }
+
+.background-color-1, .category .page-layout-4-body .news-item-category:hover,
+.page-template-news-php .page-layout-4-body .news-item-category:hover, .page-template-events-php .page-layout-4 .view-filter.active,
+.page-template-events_internal-php .page-layout-4 .view-filter.active, .page-template-events-php .tooltipster-base,
+.page-template-events_internal-php .tooltipster-base, .single .category-button:hover {
+  background-color: black; }
+
+.background-color-2, .page-template-events-php .events-calendar-day-event-empty,
+.page-template-events_internal-php .events-calendar-day-event-empty {
+  background-color: white; }
+
+.background-color-3 {
+  background-color: #a5a5a5; }
+
+.background-color-4, .category .page-layout-4-body .news-item-category,
+.page-template-news-php .page-layout-4-body .news-item-category, .page-template-events-php .events-calendar-day-not-in-month .events-calendar-day-event-empty,
+.page-template-events_internal-php .events-calendar-day-not-in-month .events-calendar-day-event-empty, .single .category-button {
+  background-color: #f0f0f0; }
+
+.background-color-5 {
+  background-color: #0000d2; }
+
+.background-color-10 {
+  background-color: #fafafa; }
+
+.background-color-1a {
+  background-color: black; }
+
+.background-color-2a {
+  background-color: white; }
+
+.background-color-2c {
+  background-color: white; }
+
+.background-color-5a {
+  background-color: #0000d2; }
+
+.background-color-4a {
+  background-color: #f0f0f0; }
+
+.background-color-0a {
+  background-color: transparent; }
+
+.background-color-2d {
+  background-color: white; }
+
+.background-color-0b {
+  background-color: white; }
+
+.background-color-10a {
+  background-color: #fafafa; }
+
+/* Border color */
+.border-color-1, .category .page-layout-4-body .news-item-category:hover,
+.page-template-news-php .page-layout-4-body .news-item-category:hover, .page-template-events-php .page-layout-4 .view-filter.active,
+.page-template-events_internal-php .page-layout-4 .view-filter.active, .page-template-events-php .page-layout-4 .view-filter.active:hover,
+.page-template-events_internal-php .page-layout-4 .view-filter.active:hover, .page-template-events-php .events-calendar-day-content,
+.page-template-events_internal-php .events-calendar-day-content, .page-template-events-php .events-calendar-content > table > tbody > tr,
+.page-template-events_internal-php .events-calendar-content > table > tbody > tr, .page-template-events-php .events-calendar-content > table > tbody > tr:nth-child(2),
+.page-template-events_internal-php .events-calendar-content > table > tbody > tr:nth-child(2), .page-template-events-php .events-calendar-content > table > tbody > tr:last-child,
+.page-template-events_internal-php .events-calendar-content > table > tbody > tr:last-child, .page-template-events-php .events-calendar-day-compact,
+.page-template-events_internal-php .events-calendar-day-compact, .single .category-button:hover {
+  border-color: black; }
+
+.border-color-1-top {
+  border-top-color: black; }
+
+.border-color-1-bottom {
+  border-bottom-color: black; }
+
+.border-color-1-left {
+  border-left-color: black; }
+
+.border-color-1-right {
+  border-right-color: black; }
+
+.border-color-2 {
+  border-color: white; }
+
+.border-color-2-top {
+  border-top-color: white; }
+
+.border-color-2-bottom {
+  border-bottom-color: white; }
+
+.border-color-2-left {
+  border-left-color: white; }
+
+.border-color-2-right {
+  border-right-color: white; }
+
+.border-color-3 {
+  border-color: #a5a5a5; }
+
+.border-color-3-top {
+  border-top-color: #a5a5a5; }
+
+.border-color-3-bottom {
+  border-bottom-color: #a5a5a5; }
+
+.border-color-3-left {
+  border-left-color: #a5a5a5; }
+
+.border-color-3-right {
+  border-right-color: #a5a5a5; }
+
+.border-color-4, .category .page-layout-4-body .news-item-category,
+.page-template-news-php .page-layout-4-body .news-item-category, .single .category-button {
+  border-color: #f0f0f0; }
+
+.border-color-4-top {
+  border-top-color: #f0f0f0; }
+
+.border-color-4-bottom {
+  border-bottom-color: #f0f0f0; }
+
+.border-color-4-left {
+  border-left-color: #f0f0f0; }
+
+.border-color-4-right {
+  border-right-color: #f0f0f0; }
+
+.border-color-5 {
+  border-color: #0000d2; }
+
+.border-color-5-top {
+  border-top-color: #0000d2; }
+
+.border-color-5-bottom {
+  border-bottom-color: #0000d2; }
+
+.border-color-5-left {
+  border-left-color: #0000d2; }
+
+.border-color-5-right {
+  border-right-color: #0000d2; }
+
+.border-color-6 {
+  border-color: #f9b30f; }
+
+.border-color-6-top {
+  border-top-color: #f9b30f; }
+
+.border-color-6-bottom {
+  border-bottom-color: #f9b30f; }
+
+.border-color-6-left {
+  border-left-color: #f9b30f; }
+
+.border-color-6-right {
+  border-right-color: #f9b30f; }
+
+.border-color-7 {
+  border-color: #a5d21e; }
+
+.border-color-7-top {
+  border-top-color: #a5d21e; }
+
+.border-color-7-bottom {
+  border-bottom-color: #a5d21e; }
+
+.border-color-7-left {
+  border-left-color: #a5d21e; }
+
+.border-color-7-right {
+  border-right-color: #a5d21e; }
+
+.border-color-8 {
+  border-color: #41c8b9; }
+
+.border-color-8-top {
+  border-top-color: #41c8b9; }
+
+.border-color-8-bottom {
+  border-bottom-color: #41c8b9; }
+
+.border-color-8-left {
+  border-left-color: #41c8b9; }
+
+.border-color-8-right {
+  border-right-color: #41c8b9; }
+
+.border-color-9 {
+  border-color: #ec008c; }
+
+.border-color-9-top {
+  border-top-color: #ec008c; }
+
+.border-color-9-bottom {
+  border-bottom-color: #ec008c; }
+
+.border-color-9-left {
+  border-left-color: #ec008c; }
+
+.border-color-9-right {
+  border-right-color: #ec008c; }
+
+.border-color-1c {
+  border-color: black; }
+
+.border-color-1c-top {
+  border-top-color: black; }
+
+.border-color-1c-bottom {
+  border-bottom-color: black; }
+
+.border-color-1c-left {
+  border-left-color: black; }
+
+.border-color-1c-right {
+  border-right-color: black; }
+
+.border-color-1d {
+  border-color: black; }
+
+.border-color-1d-top {
+  border-top-color: black; }
+
+.border-color-1d-bottom {
+  border-bottom-color: black; }
+
+.border-color-1d-left {
+  border-left-color: black; }
+
+.border-color-1d-right {
+  border-right-color: black; }
+
+.border-color-1f {
+  border-color: black; }
+
+.border-color-1f-top {
+  border-top-color: black; }
+
+.border-color-1f-bottom {
+  border-bottom-color: black; }
+
+.border-color-1f-left {
+  border-left-color: black; }
+
+.border-color-1f-right {
+  border-right-color: black; }
+
+/* Font size */
+.font-size-1, .single-ikit_person .header-person-positions {
+  font-size: 48px;
+  line-height: 54px; }
+
+.breakpoint-body-size-xl .font-size-1, .breakpoint-body-size-xl .single-ikit_person .header-person-positions, .single-ikit_person .breakpoint-body-size-xl .header-person-positions {
+  font-size: 48px;
+  line-height: 54px; }
+
+.breakpoint-body-size-l .font-size-1, .breakpoint-body-size-l .single-ikit_person .header-person-positions, .single-ikit_person .breakpoint-body-size-l .header-person-positions {
+  font-size: 44px;
+  line-height: 48px; }
+
+.breakpoint-body-size-m .font-size-1, .breakpoint-body-size-m .single-ikit_person .header-person-positions, .single-ikit_person .breakpoint-body-size-m .header-person-positions {
+  font-size: 40px;
+  line-height: 44px; }
+
+.breakpoint-body-size-s .font-size-1, .breakpoint-body-size-s .single-ikit_person .header-person-positions, .single-ikit_person .breakpoint-body-size-s .header-person-positions {
+  font-size: 30px;
+  line-height: 34px; }
+
+.font-size-2 {
+  font-size: 36px;
+  line-height: 44px; }
+
+.breakpoint-body-size-xl .font-size-2 {
+  font-size: 36px;
+  line-height: 44px; }
+
+.breakpoint-body-size-l .font-size-2 {
+  font-size: 32px;
+  line-height: 36px; }
+
+.breakpoint-body-size-m .font-size-2 {
+  font-size: 32px;
+  line-height: 36px; }
+
+.breakpoint-body-size-s .font-size-2 {
+  font-size: 28px;
+  line-height: 32px; }
+
+.font-size-3, .page-template-events_past-php .event-item-title, .category .page-layout-4-body .news-item-title,
+.page-template-news-php .page-layout-4-body .news-item-title, .page-template-events-php .page-layout-4-body .event-item-title,
+.page-template-events_internal-php .page-layout-4-body .event-item-title, .page-template-events-php .events-calendar-title,
+.page-template-events_internal-php .events-calendar-title, .page-template-events-php .events-calendar-day-compact-event-title,
+.page-template-events_internal-php .events-calendar-day-compact-event-title, .error404 .page-layout-4-body {
+  font-size: 30px;
+  line-height: 36px; }
+
+.breakpoint-body-size-xl .font-size-3, .breakpoint-body-size-xl .page-template-events_past-php .event-item-title, .page-template-events_past-php .breakpoint-body-size-xl .event-item-title, .breakpoint-body-size-xl .category .page-layout-4-body .news-item-title, .category .page-layout-4-body .breakpoint-body-size-xl .news-item-title, .breakpoint-body-size-xl
+.page-template-news-php .page-layout-4-body .news-item-title,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-xl .news-item-title, .breakpoint-body-size-xl .page-template-events-php .page-layout-4-body .event-item-title, .page-template-events-php .page-layout-4-body .breakpoint-body-size-xl .event-item-title, .breakpoint-body-size-xl
+.page-template-events_internal-php .page-layout-4-body .event-item-title,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-xl .event-item-title, .breakpoint-body-size-xl .page-template-events-php .events-calendar-title, .page-template-events-php .breakpoint-body-size-xl .events-calendar-title, .breakpoint-body-size-xl
+.page-template-events_internal-php .events-calendar-title,
+.page-template-events_internal-php .breakpoint-body-size-xl .events-calendar-title, .breakpoint-body-size-xl .page-template-events-php .events-calendar-day-compact-event-title, .page-template-events-php .breakpoint-body-size-xl .events-calendar-day-compact-event-title, .breakpoint-body-size-xl
+.page-template-events_internal-php .events-calendar-day-compact-event-title,
+.page-template-events_internal-php .breakpoint-body-size-xl .events-calendar-day-compact-event-title, .breakpoint-body-size-xl .error404 .page-layout-4-body, .error404 .breakpoint-body-size-xl .page-layout-4-body {
+  font-size: 30px;
+  line-height: 36px; }
+
+.breakpoint-body-size-l .font-size-3, .breakpoint-body-size-l .page-template-events_past-php .event-item-title, .page-template-events_past-php .breakpoint-body-size-l .event-item-title, .breakpoint-body-size-l .category .page-layout-4-body .news-item-title, .category .page-layout-4-body .breakpoint-body-size-l .news-item-title, .breakpoint-body-size-l
+.page-template-news-php .page-layout-4-body .news-item-title,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-l .news-item-title, .breakpoint-body-size-l .page-template-events-php .page-layout-4-body .event-item-title, .page-template-events-php .page-layout-4-body .breakpoint-body-size-l .event-item-title, .breakpoint-body-size-l
+.page-template-events_internal-php .page-layout-4-body .event-item-title,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-l .event-item-title, .breakpoint-body-size-l .page-template-events-php .events-calendar-title, .page-template-events-php .breakpoint-body-size-l .events-calendar-title, .breakpoint-body-size-l
+.page-template-events_internal-php .events-calendar-title,
+.page-template-events_internal-php .breakpoint-body-size-l .events-calendar-title, .breakpoint-body-size-l .page-template-events-php .events-calendar-day-compact-event-title, .page-template-events-php .breakpoint-body-size-l .events-calendar-day-compact-event-title, .breakpoint-body-size-l
+.page-template-events_internal-php .events-calendar-day-compact-event-title,
+.page-template-events_internal-php .breakpoint-body-size-l .events-calendar-day-compact-event-title, .breakpoint-body-size-l .error404 .page-layout-4-body, .error404 .breakpoint-body-size-l .page-layout-4-body {
+  font-size: 28px;
+  line-height: 34px; }
+
+.breakpoint-body-size-m .font-size-3, .breakpoint-body-size-m .page-template-events_past-php .event-item-title, .page-template-events_past-php .breakpoint-body-size-m .event-item-title, .breakpoint-body-size-m .category .page-layout-4-body .news-item-title, .category .page-layout-4-body .breakpoint-body-size-m .news-item-title, .breakpoint-body-size-m
+.page-template-news-php .page-layout-4-body .news-item-title,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-m .news-item-title, .breakpoint-body-size-m .page-template-events-php .page-layout-4-body .event-item-title, .page-template-events-php .page-layout-4-body .breakpoint-body-size-m .event-item-title, .breakpoint-body-size-m
+.page-template-events_internal-php .page-layout-4-body .event-item-title,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-m .event-item-title, .breakpoint-body-size-m .page-template-events-php .events-calendar-title, .page-template-events-php .breakpoint-body-size-m .events-calendar-title, .breakpoint-body-size-m
+.page-template-events_internal-php .events-calendar-title,
+.page-template-events_internal-php .breakpoint-body-size-m .events-calendar-title, .breakpoint-body-size-m .page-template-events-php .events-calendar-day-compact-event-title, .page-template-events-php .breakpoint-body-size-m .events-calendar-day-compact-event-title, .breakpoint-body-size-m
+.page-template-events_internal-php .events-calendar-day-compact-event-title,
+.page-template-events_internal-php .breakpoint-body-size-m .events-calendar-day-compact-event-title, .breakpoint-body-size-m .error404 .page-layout-4-body, .error404 .breakpoint-body-size-m .page-layout-4-body {
+  font-size: 26px;
+  line-height: 32px; }
+
+.breakpoint-body-size-s .font-size-3, .breakpoint-body-size-s .page-template-events_past-php .event-item-title, .page-template-events_past-php .breakpoint-body-size-s .event-item-title, .breakpoint-body-size-s .category .page-layout-4-body .news-item-title, .category .page-layout-4-body .breakpoint-body-size-s .news-item-title, .breakpoint-body-size-s
+.page-template-news-php .page-layout-4-body .news-item-title,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-s .news-item-title, .breakpoint-body-size-s .page-template-events-php .page-layout-4-body .event-item-title, .page-template-events-php .page-layout-4-body .breakpoint-body-size-s .event-item-title, .breakpoint-body-size-s
+.page-template-events_internal-php .page-layout-4-body .event-item-title,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-s .event-item-title, .breakpoint-body-size-s .page-template-events-php .events-calendar-title, .page-template-events-php .breakpoint-body-size-s .events-calendar-title, .breakpoint-body-size-s
+.page-template-events_internal-php .events-calendar-title,
+.page-template-events_internal-php .breakpoint-body-size-s .events-calendar-title, .breakpoint-body-size-s .page-template-events-php .events-calendar-day-compact-event-title, .page-template-events-php .breakpoint-body-size-s .events-calendar-day-compact-event-title, .breakpoint-body-size-s
+.page-template-events_internal-php .events-calendar-day-compact-event-title,
+.page-template-events_internal-php .breakpoint-body-size-s .events-calendar-day-compact-event-title, .breakpoint-body-size-s .error404 .page-layout-4-body, .error404 .breakpoint-body-size-s .page-layout-4-body {
+  font-size: 24px;
+  line-height: 30px; }
+
+.font-size-4, .page-template-section_toc-php .item-title, .page-template-section_toc_alt_1-php .item-title, .page-template-persons-php .person-item-title, .page-template-persons-php .person-item-positions, .search .search-result-title, .page-template-jobs-php .page-layout-4-body .job-item-company-name,
+.page-template-jobs-php .page-layout-4-body .job-item-title, .page-template-portfolios-php .portfolio-item-project, .page-template-portfolios-php .portfolio-item-author, .page-template-member_directory-php .member-item-name, .page-template-member_directory-php .member-item-company {
+  font-size: 24px;
+  line-height: 28px; }
+
+.breakpoint-body-size-xl .font-size-4, .breakpoint-body-size-xl .page-template-section_toc-php .item-title, .page-template-section_toc-php .breakpoint-body-size-xl .item-title, .breakpoint-body-size-xl .page-template-section_toc_alt_1-php .item-title, .page-template-section_toc_alt_1-php .breakpoint-body-size-xl .item-title, .breakpoint-body-size-xl .page-template-persons-php .person-item-title, .page-template-persons-php .breakpoint-body-size-xl .person-item-title, .breakpoint-body-size-xl .page-template-persons-php .person-item-positions, .page-template-persons-php .breakpoint-body-size-xl .person-item-positions, .breakpoint-body-size-xl .search .search-result-title, .search .breakpoint-body-size-xl .search-result-title, .breakpoint-body-size-xl .page-template-jobs-php .page-layout-4-body .job-item-company-name, .page-template-jobs-php .page-layout-4-body .breakpoint-body-size-xl .job-item-company-name, .breakpoint-body-size-xl
+.page-template-jobs-php .page-layout-4-body .job-item-title,
+.page-template-jobs-php .page-layout-4-body .breakpoint-body-size-xl .job-item-title, .breakpoint-body-size-xl .page-template-portfolios-php .portfolio-item-project, .page-template-portfolios-php .breakpoint-body-size-xl .portfolio-item-project, .breakpoint-body-size-xl .page-template-portfolios-php .portfolio-item-author, .page-template-portfolios-php .breakpoint-body-size-xl .portfolio-item-author, .breakpoint-body-size-xl .page-template-member_directory-php .member-item-name, .page-template-member_directory-php .breakpoint-body-size-xl .member-item-name, .breakpoint-body-size-xl .page-template-member_directory-php .member-item-company, .page-template-member_directory-php .breakpoint-body-size-xl .member-item-company {
+  font-size: 20px;
+  line-height: 24px; }
+
+.breakpoint-body-size-l .font-size-4, .breakpoint-body-size-l .page-template-section_toc-php .item-title, .page-template-section_toc-php .breakpoint-body-size-l .item-title, .breakpoint-body-size-l .page-template-section_toc_alt_1-php .item-title, .page-template-section_toc_alt_1-php .breakpoint-body-size-l .item-title, .breakpoint-body-size-l .page-template-persons-php .person-item-title, .page-template-persons-php .breakpoint-body-size-l .person-item-title, .breakpoint-body-size-l .page-template-persons-php .person-item-positions, .page-template-persons-php .breakpoint-body-size-l .person-item-positions, .breakpoint-body-size-l .search .search-result-title, .search .breakpoint-body-size-l .search-result-title, .breakpoint-body-size-l .page-template-jobs-php .page-layout-4-body .job-item-company-name, .page-template-jobs-php .page-layout-4-body .breakpoint-body-size-l .job-item-company-name, .breakpoint-body-size-l
+.page-template-jobs-php .page-layout-4-body .job-item-title,
+.page-template-jobs-php .page-layout-4-body .breakpoint-body-size-l .job-item-title, .breakpoint-body-size-l .page-template-portfolios-php .portfolio-item-project, .page-template-portfolios-php .breakpoint-body-size-l .portfolio-item-project, .breakpoint-body-size-l .page-template-portfolios-php .portfolio-item-author, .page-template-portfolios-php .breakpoint-body-size-l .portfolio-item-author, .breakpoint-body-size-l .page-template-member_directory-php .member-item-name, .page-template-member_directory-php .breakpoint-body-size-l .member-item-name, .breakpoint-body-size-l .page-template-member_directory-php .member-item-company, .page-template-member_directory-php .breakpoint-body-size-l .member-item-company {
+  font-size: 20px;
+  line-height: 24px; }
+
+.breakpoint-body-size-m .font-size-4, .breakpoint-body-size-m .page-template-section_toc-php .item-title, .page-template-section_toc-php .breakpoint-body-size-m .item-title, .breakpoint-body-size-m .page-template-section_toc_alt_1-php .item-title, .page-template-section_toc_alt_1-php .breakpoint-body-size-m .item-title, .breakpoint-body-size-m .page-template-persons-php .person-item-title, .page-template-persons-php .breakpoint-body-size-m .person-item-title, .breakpoint-body-size-m .page-template-persons-php .person-item-positions, .page-template-persons-php .breakpoint-body-size-m .person-item-positions, .breakpoint-body-size-m .search .search-result-title, .search .breakpoint-body-size-m .search-result-title, .breakpoint-body-size-m .page-template-jobs-php .page-layout-4-body .job-item-company-name, .page-template-jobs-php .page-layout-4-body .breakpoint-body-size-m .job-item-company-name, .breakpoint-body-size-m
+.page-template-jobs-php .page-layout-4-body .job-item-title,
+.page-template-jobs-php .page-layout-4-body .breakpoint-body-size-m .job-item-title, .breakpoint-body-size-m .page-template-portfolios-php .portfolio-item-project, .page-template-portfolios-php .breakpoint-body-size-m .portfolio-item-project, .breakpoint-body-size-m .page-template-portfolios-php .portfolio-item-author, .page-template-portfolios-php .breakpoint-body-size-m .portfolio-item-author, .breakpoint-body-size-m .page-template-member_directory-php .member-item-name, .page-template-member_directory-php .breakpoint-body-size-m .member-item-name, .breakpoint-body-size-m .page-template-member_directory-php .member-item-company, .page-template-member_directory-php .breakpoint-body-size-m .member-item-company {
+  font-size: 20px;
+  line-height: 24px; }
+
+.breakpoint-body-size-s .font-size-4, .breakpoint-body-size-s .page-template-section_toc-php .item-title, .page-template-section_toc-php .breakpoint-body-size-s .item-title, .breakpoint-body-size-s .page-template-section_toc_alt_1-php .item-title, .page-template-section_toc_alt_1-php .breakpoint-body-size-s .item-title, .breakpoint-body-size-s .page-template-persons-php .person-item-title, .page-template-persons-php .breakpoint-body-size-s .person-item-title, .breakpoint-body-size-s .page-template-persons-php .person-item-positions, .page-template-persons-php .breakpoint-body-size-s .person-item-positions, .breakpoint-body-size-s .search .search-result-title, .search .breakpoint-body-size-s .search-result-title, .breakpoint-body-size-s .page-template-jobs-php .page-layout-4-body .job-item-company-name, .page-template-jobs-php .page-layout-4-body .breakpoint-body-size-s .job-item-company-name, .breakpoint-body-size-s
+.page-template-jobs-php .page-layout-4-body .job-item-title,
+.page-template-jobs-php .page-layout-4-body .breakpoint-body-size-s .job-item-title, .breakpoint-body-size-s .page-template-portfolios-php .portfolio-item-project, .page-template-portfolios-php .breakpoint-body-size-s .portfolio-item-project, .breakpoint-body-size-s .page-template-portfolios-php .portfolio-item-author, .page-template-portfolios-php .breakpoint-body-size-s .portfolio-item-author, .breakpoint-body-size-s .page-template-member_directory-php .member-item-name, .page-template-member_directory-php .breakpoint-body-size-s .member-item-name, .breakpoint-body-size-s .page-template-member_directory-php .member-item-company, .page-template-member_directory-php .breakpoint-body-size-s .member-item-company {
+  font-size: 18px;
+  line-height: 22px; }
+
+.font-size-5, .single-ikit_event .attendees {
+  font-size: 18px;
+  line-height: 30px; }
+
+.breakpoint-body-size-xl .font-size-5, .breakpoint-body-size-xl .single-ikit_event .attendees, .single-ikit_event .breakpoint-body-size-xl .attendees {
+  font-size: 18px;
+  line-height: 30px; }
+
+.breakpoint-body-size-l .font-size-5, .breakpoint-body-size-l .single-ikit_event .attendees, .single-ikit_event .breakpoint-body-size-l .attendees {
+  font-size: 16px;
+  line-height: 24px; }
+
+.breakpoint-body-size-m .font-size-5, .breakpoint-body-size-m .single-ikit_event .attendees, .single-ikit_event .breakpoint-body-size-m .attendees {
+  font-size: 16px;
+  line-height: 24px; }
+
+.breakpoint-body-size-s .font-size-5, .breakpoint-body-size-s .single-ikit_event .attendees, .single-ikit_event .breakpoint-body-size-s .attendees {
+  font-size: 16px;
+  line-height: 24px; }
+
+.font-size-6, .page-template-section_toc-php .item-description, .page-template-section_toc_alt_1-php .item-description, .page-template-persons-php .person-item-description, .page-template-events_past-php .event-item-description, .page-template-events_past-php .event-item-location, .page-template-events_past-php .event-item-time,
+.page-template-events_past-php .event-item-date, .page-template-events_past-php .event-item-external-source,
+.page-template-events_past-php .event-item-internal-source, .category .page-layout-4-body .news-item-date,
+.page-template-news-php .page-layout-4-body .news-item-date,
+.category .page-layout-4-body .news-item-author,
+.page-template-news-php .page-layout-4-body .news-item-author, .category .page-layout-4-body .news-item-description,
+.page-template-news-php .page-layout-4-body .news-item-description, .category .page-layout-4-body .news-item-external-source,
+.page-template-news-php .page-layout-4-body .news-item-external-source, .page-template-events-php .page-layout-4-body .event-item-description,
+.page-template-events_internal-php .page-layout-4-body .event-item-description, .page-template-events-php .page-layout-4-body .event-item-location,
+.page-template-events_internal-php .page-layout-4-body .event-item-location, .page-template-events-php .page-layout-4-body .event-item-date,
+.page-template-events-php .page-layout-4-body .event-item-time,
+.page-template-events_internal-php .page-layout-4-body .event-item-date,
+.page-template-events_internal-php .page-layout-4-body .event-item-time, .page-template-events-php .page-layout-4-body .event-item-external-source,
+.page-template-events-php .page-layout-4-body .event-item-internal-source,
+.page-template-events_internal-php .page-layout-4-body .event-item-external-source,
+.page-template-events_internal-php .page-layout-4-body .event-item-internal-source, .page-template-events-php .events-calendar-content td,
+.page-template-events-php .events-calendar-content th,
+.page-template-events_internal-php .events-calendar-content td,
+.page-template-events_internal-php .events-calendar-content th, .page-template-events-php .tooltipster-base .events-calendar-day-event-info-title,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-title, .page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes, .page-template-events-php .events-calendar-day-compact-date,
+.page-template-events_internal-php .events-calendar-day-compact-date, .search .search-result-type, .search .search-result-date, .search .search-result-event-location, .page-template-jobs-php .page-layout-4-body .job-item-location,
+.page-template-jobs-php .page-layout-4-body .job-item-date, .page-template-sponsors-php .sponsor-category, .page-template-sponsors-php .sponsor-description, .page-template-member_directory-php .member-item-attributes, .page-template-member_directory-php .member-item-attributes .member-item-type {
+  font-size: 14px;
+  line-height: 22px; }
+
+.breakpoint-body-size-xl .font-size-6, .breakpoint-body-size-xl .page-template-section_toc-php .item-description, .page-template-section_toc-php .breakpoint-body-size-xl .item-description, .breakpoint-body-size-xl .page-template-section_toc_alt_1-php .item-description, .page-template-section_toc_alt_1-php .breakpoint-body-size-xl .item-description, .breakpoint-body-size-xl .page-template-persons-php .person-item-description, .page-template-persons-php .breakpoint-body-size-xl .person-item-description, .breakpoint-body-size-xl .page-template-events_past-php .event-item-description, .page-template-events_past-php .breakpoint-body-size-xl .event-item-description, .breakpoint-body-size-xl .page-template-events_past-php .event-item-location, .page-template-events_past-php .breakpoint-body-size-xl .event-item-location, .breakpoint-body-size-xl .page-template-events_past-php .event-item-time, .page-template-events_past-php .breakpoint-body-size-xl .event-item-time, .breakpoint-body-size-xl
+.page-template-events_past-php .event-item-date,
+.page-template-events_past-php .breakpoint-body-size-xl .event-item-date, .breakpoint-body-size-xl .page-template-events_past-php .event-item-external-source, .page-template-events_past-php .breakpoint-body-size-xl .event-item-external-source, .breakpoint-body-size-xl
+.page-template-events_past-php .event-item-internal-source,
+.page-template-events_past-php .breakpoint-body-size-xl .event-item-internal-source, .breakpoint-body-size-xl .category .page-layout-4-body .news-item-date, .category .page-layout-4-body .breakpoint-body-size-xl .news-item-date, .breakpoint-body-size-xl
+.page-template-news-php .page-layout-4-body .news-item-date,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-xl .news-item-date, .breakpoint-body-size-xl
+.category .page-layout-4-body .news-item-author,
+.category .page-layout-4-body .breakpoint-body-size-xl .news-item-author, .breakpoint-body-size-xl
+.page-template-news-php .page-layout-4-body .news-item-author,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-xl .news-item-author, .breakpoint-body-size-xl .category .page-layout-4-body .news-item-description, .category .page-layout-4-body .breakpoint-body-size-xl .news-item-description, .breakpoint-body-size-xl
+.page-template-news-php .page-layout-4-body .news-item-description,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-xl .news-item-description, .breakpoint-body-size-xl .category .page-layout-4-body .news-item-external-source, .category .page-layout-4-body .breakpoint-body-size-xl .news-item-external-source, .breakpoint-body-size-xl
+.page-template-news-php .page-layout-4-body .news-item-external-source,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-xl .news-item-external-source, .breakpoint-body-size-xl .page-template-events-php .page-layout-4-body .event-item-description, .page-template-events-php .page-layout-4-body .breakpoint-body-size-xl .event-item-description, .breakpoint-body-size-xl
+.page-template-events_internal-php .page-layout-4-body .event-item-description,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-xl .event-item-description, .breakpoint-body-size-xl .page-template-events-php .page-layout-4-body .event-item-location, .page-template-events-php .page-layout-4-body .breakpoint-body-size-xl .event-item-location, .breakpoint-body-size-xl
+.page-template-events_internal-php .page-layout-4-body .event-item-location,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-xl .event-item-location, .breakpoint-body-size-xl .page-template-events-php .page-layout-4-body .event-item-date, .page-template-events-php .page-layout-4-body .breakpoint-body-size-xl .event-item-date, .breakpoint-body-size-xl
+.page-template-events-php .page-layout-4-body .event-item-time,
+.page-template-events-php .page-layout-4-body .breakpoint-body-size-xl .event-item-time, .breakpoint-body-size-xl
+.page-template-events_internal-php .page-layout-4-body .event-item-date,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-xl .event-item-date, .breakpoint-body-size-xl
+.page-template-events_internal-php .page-layout-4-body .event-item-time,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-xl .event-item-time, .breakpoint-body-size-xl .page-template-events-php .page-layout-4-body .event-item-external-source, .page-template-events-php .page-layout-4-body .breakpoint-body-size-xl .event-item-external-source, .breakpoint-body-size-xl
+.page-template-events-php .page-layout-4-body .event-item-internal-source,
+.page-template-events-php .page-layout-4-body .breakpoint-body-size-xl .event-item-internal-source, .breakpoint-body-size-xl
+.page-template-events_internal-php .page-layout-4-body .event-item-external-source,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-xl .event-item-external-source, .breakpoint-body-size-xl
+.page-template-events_internal-php .page-layout-4-body .event-item-internal-source,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-xl .event-item-internal-source, .breakpoint-body-size-xl .page-template-events-php .events-calendar-content td, .page-template-events-php .events-calendar-content .breakpoint-body-size-xl td, .breakpoint-body-size-xl
+.page-template-events-php .events-calendar-content th,
+.page-template-events-php .events-calendar-content .breakpoint-body-size-xl th, .breakpoint-body-size-xl
+.page-template-events_internal-php .events-calendar-content td,
+.page-template-events_internal-php .events-calendar-content .breakpoint-body-size-xl td, .breakpoint-body-size-xl
+.page-template-events_internal-php .events-calendar-content th,
+.page-template-events_internal-php .events-calendar-content .breakpoint-body-size-xl th, .breakpoint-body-size-xl .page-template-events-php .tooltipster-base .events-calendar-day-event-info-title, .page-template-events-php .tooltipster-base .breakpoint-body-size-xl .events-calendar-day-event-info-title, .breakpoint-body-size-xl
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-title,
+.page-template-events_internal-php .tooltipster-base .breakpoint-body-size-xl .events-calendar-day-event-info-title, .breakpoint-body-size-xl .page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes, .page-template-events-php .tooltipster-base .breakpoint-body-size-xl .events-calendar-day-event-info-attributes, .breakpoint-body-size-xl
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes,
+.page-template-events_internal-php .tooltipster-base .breakpoint-body-size-xl .events-calendar-day-event-info-attributes, .breakpoint-body-size-xl .page-template-events-php .events-calendar-day-compact-date, .page-template-events-php .breakpoint-body-size-xl .events-calendar-day-compact-date, .breakpoint-body-size-xl
+.page-template-events_internal-php .events-calendar-day-compact-date,
+.page-template-events_internal-php .breakpoint-body-size-xl .events-calendar-day-compact-date, .breakpoint-body-size-xl .search .search-result-type, .search .breakpoint-body-size-xl .search-result-type, .breakpoint-body-size-xl .search .search-result-date, .search .breakpoint-body-size-xl .search-result-date, .breakpoint-body-size-xl .search .search-result-event-location, .search .breakpoint-body-size-xl .search-result-event-location, .breakpoint-body-size-xl .page-template-jobs-php .page-layout-4-body .job-item-location, .page-template-jobs-php .page-layout-4-body .breakpoint-body-size-xl .job-item-location, .breakpoint-body-size-xl
+.page-template-jobs-php .page-layout-4-body .job-item-date,
+.page-template-jobs-php .page-layout-4-body .breakpoint-body-size-xl .job-item-date, .breakpoint-body-size-xl .page-template-sponsors-php .sponsor-category, .page-template-sponsors-php .breakpoint-body-size-xl .sponsor-category, .breakpoint-body-size-xl .page-template-sponsors-php .sponsor-description, .page-template-sponsors-php .breakpoint-body-size-xl .sponsor-description, .breakpoint-body-size-xl .page-template-member_directory-php .member-item-attributes, .page-template-member_directory-php .breakpoint-body-size-xl .member-item-attributes, .breakpoint-body-size-xl .page-template-member_directory-php .member-item-attributes .member-item-type, .page-template-member_directory-php .member-item-attributes .breakpoint-body-size-xl .member-item-type {
+  font-size: 14px;
+  line-height: 22px; }
+
+.breakpoint-body-size-l .font-size-6, .breakpoint-body-size-l .page-template-section_toc-php .item-description, .page-template-section_toc-php .breakpoint-body-size-l .item-description, .breakpoint-body-size-l .page-template-section_toc_alt_1-php .item-description, .page-template-section_toc_alt_1-php .breakpoint-body-size-l .item-description, .breakpoint-body-size-l .page-template-persons-php .person-item-description, .page-template-persons-php .breakpoint-body-size-l .person-item-description, .breakpoint-body-size-l .page-template-events_past-php .event-item-description, .page-template-events_past-php .breakpoint-body-size-l .event-item-description, .breakpoint-body-size-l .page-template-events_past-php .event-item-location, .page-template-events_past-php .breakpoint-body-size-l .event-item-location, .breakpoint-body-size-l .page-template-events_past-php .event-item-time, .page-template-events_past-php .breakpoint-body-size-l .event-item-time, .breakpoint-body-size-l
+.page-template-events_past-php .event-item-date,
+.page-template-events_past-php .breakpoint-body-size-l .event-item-date, .breakpoint-body-size-l .page-template-events_past-php .event-item-external-source, .page-template-events_past-php .breakpoint-body-size-l .event-item-external-source, .breakpoint-body-size-l
+.page-template-events_past-php .event-item-internal-source,
+.page-template-events_past-php .breakpoint-body-size-l .event-item-internal-source, .breakpoint-body-size-l .category .page-layout-4-body .news-item-date, .category .page-layout-4-body .breakpoint-body-size-l .news-item-date, .breakpoint-body-size-l
+.page-template-news-php .page-layout-4-body .news-item-date,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-l .news-item-date, .breakpoint-body-size-l
+.category .page-layout-4-body .news-item-author,
+.category .page-layout-4-body .breakpoint-body-size-l .news-item-author, .breakpoint-body-size-l
+.page-template-news-php .page-layout-4-body .news-item-author,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-l .news-item-author, .breakpoint-body-size-l .category .page-layout-4-body .news-item-description, .category .page-layout-4-body .breakpoint-body-size-l .news-item-description, .breakpoint-body-size-l
+.page-template-news-php .page-layout-4-body .news-item-description,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-l .news-item-description, .breakpoint-body-size-l .category .page-layout-4-body .news-item-external-source, .category .page-layout-4-body .breakpoint-body-size-l .news-item-external-source, .breakpoint-body-size-l
+.page-template-news-php .page-layout-4-body .news-item-external-source,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-l .news-item-external-source, .breakpoint-body-size-l .page-template-events-php .page-layout-4-body .event-item-description, .page-template-events-php .page-layout-4-body .breakpoint-body-size-l .event-item-description, .breakpoint-body-size-l
+.page-template-events_internal-php .page-layout-4-body .event-item-description,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-l .event-item-description, .breakpoint-body-size-l .page-template-events-php .page-layout-4-body .event-item-location, .page-template-events-php .page-layout-4-body .breakpoint-body-size-l .event-item-location, .breakpoint-body-size-l
+.page-template-events_internal-php .page-layout-4-body .event-item-location,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-l .event-item-location, .breakpoint-body-size-l .page-template-events-php .page-layout-4-body .event-item-date, .page-template-events-php .page-layout-4-body .breakpoint-body-size-l .event-item-date, .breakpoint-body-size-l
+.page-template-events-php .page-layout-4-body .event-item-time,
+.page-template-events-php .page-layout-4-body .breakpoint-body-size-l .event-item-time, .breakpoint-body-size-l
+.page-template-events_internal-php .page-layout-4-body .event-item-date,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-l .event-item-date, .breakpoint-body-size-l
+.page-template-events_internal-php .page-layout-4-body .event-item-time,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-l .event-item-time, .breakpoint-body-size-l .page-template-events-php .page-layout-4-body .event-item-external-source, .page-template-events-php .page-layout-4-body .breakpoint-body-size-l .event-item-external-source, .breakpoint-body-size-l
+.page-template-events-php .page-layout-4-body .event-item-internal-source,
+.page-template-events-php .page-layout-4-body .breakpoint-body-size-l .event-item-internal-source, .breakpoint-body-size-l
+.page-template-events_internal-php .page-layout-4-body .event-item-external-source,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-l .event-item-external-source, .breakpoint-body-size-l
+.page-template-events_internal-php .page-layout-4-body .event-item-internal-source,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-l .event-item-internal-source, .breakpoint-body-size-l .page-template-events-php .events-calendar-content td, .page-template-events-php .events-calendar-content .breakpoint-body-size-l td, .breakpoint-body-size-l
+.page-template-events-php .events-calendar-content th,
+.page-template-events-php .events-calendar-content .breakpoint-body-size-l th, .breakpoint-body-size-l
+.page-template-events_internal-php .events-calendar-content td,
+.page-template-events_internal-php .events-calendar-content .breakpoint-body-size-l td, .breakpoint-body-size-l
+.page-template-events_internal-php .events-calendar-content th,
+.page-template-events_internal-php .events-calendar-content .breakpoint-body-size-l th, .breakpoint-body-size-l .page-template-events-php .tooltipster-base .events-calendar-day-event-info-title, .page-template-events-php .tooltipster-base .breakpoint-body-size-l .events-calendar-day-event-info-title, .breakpoint-body-size-l
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-title,
+.page-template-events_internal-php .tooltipster-base .breakpoint-body-size-l .events-calendar-day-event-info-title, .breakpoint-body-size-l .page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes, .page-template-events-php .tooltipster-base .breakpoint-body-size-l .events-calendar-day-event-info-attributes, .breakpoint-body-size-l
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes,
+.page-template-events_internal-php .tooltipster-base .breakpoint-body-size-l .events-calendar-day-event-info-attributes, .breakpoint-body-size-l .page-template-events-php .events-calendar-day-compact-date, .page-template-events-php .breakpoint-body-size-l .events-calendar-day-compact-date, .breakpoint-body-size-l
+.page-template-events_internal-php .events-calendar-day-compact-date,
+.page-template-events_internal-php .breakpoint-body-size-l .events-calendar-day-compact-date, .breakpoint-body-size-l .search .search-result-type, .search .breakpoint-body-size-l .search-result-type, .breakpoint-body-size-l .search .search-result-date, .search .breakpoint-body-size-l .search-result-date, .breakpoint-body-size-l .search .search-result-event-location, .search .breakpoint-body-size-l .search-result-event-location, .breakpoint-body-size-l .page-template-jobs-php .page-layout-4-body .job-item-location, .page-template-jobs-php .page-layout-4-body .breakpoint-body-size-l .job-item-location, .breakpoint-body-size-l
+.page-template-jobs-php .page-layout-4-body .job-item-date,
+.page-template-jobs-php .page-layout-4-body .breakpoint-body-size-l .job-item-date, .breakpoint-body-size-l .page-template-sponsors-php .sponsor-category, .page-template-sponsors-php .breakpoint-body-size-l .sponsor-category, .breakpoint-body-size-l .page-template-sponsors-php .sponsor-description, .page-template-sponsors-php .breakpoint-body-size-l .sponsor-description, .breakpoint-body-size-l .page-template-member_directory-php .member-item-attributes, .page-template-member_directory-php .breakpoint-body-size-l .member-item-attributes, .breakpoint-body-size-l .page-template-member_directory-php .member-item-attributes .member-item-type, .page-template-member_directory-php .member-item-attributes .breakpoint-body-size-l .member-item-type {
+  font-size: 14px;
+  line-height: 22px; }
+
+.breakpoint-body-size-m .font-size-6, .breakpoint-body-size-m .page-template-section_toc-php .item-description, .page-template-section_toc-php .breakpoint-body-size-m .item-description, .breakpoint-body-size-m .page-template-section_toc_alt_1-php .item-description, .page-template-section_toc_alt_1-php .breakpoint-body-size-m .item-description, .breakpoint-body-size-m .page-template-persons-php .person-item-description, .page-template-persons-php .breakpoint-body-size-m .person-item-description, .breakpoint-body-size-m .page-template-events_past-php .event-item-description, .page-template-events_past-php .breakpoint-body-size-m .event-item-description, .breakpoint-body-size-m .page-template-events_past-php .event-item-location, .page-template-events_past-php .breakpoint-body-size-m .event-item-location, .breakpoint-body-size-m .page-template-events_past-php .event-item-time, .page-template-events_past-php .breakpoint-body-size-m .event-item-time, .breakpoint-body-size-m
+.page-template-events_past-php .event-item-date,
+.page-template-events_past-php .breakpoint-body-size-m .event-item-date, .breakpoint-body-size-m .page-template-events_past-php .event-item-external-source, .page-template-events_past-php .breakpoint-body-size-m .event-item-external-source, .breakpoint-body-size-m
+.page-template-events_past-php .event-item-internal-source,
+.page-template-events_past-php .breakpoint-body-size-m .event-item-internal-source, .breakpoint-body-size-m .category .page-layout-4-body .news-item-date, .category .page-layout-4-body .breakpoint-body-size-m .news-item-date, .breakpoint-body-size-m
+.page-template-news-php .page-layout-4-body .news-item-date,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-m .news-item-date, .breakpoint-body-size-m
+.category .page-layout-4-body .news-item-author,
+.category .page-layout-4-body .breakpoint-body-size-m .news-item-author, .breakpoint-body-size-m
+.page-template-news-php .page-layout-4-body .news-item-author,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-m .news-item-author, .breakpoint-body-size-m .category .page-layout-4-body .news-item-description, .category .page-layout-4-body .breakpoint-body-size-m .news-item-description, .breakpoint-body-size-m
+.page-template-news-php .page-layout-4-body .news-item-description,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-m .news-item-description, .breakpoint-body-size-m .category .page-layout-4-body .news-item-external-source, .category .page-layout-4-body .breakpoint-body-size-m .news-item-external-source, .breakpoint-body-size-m
+.page-template-news-php .page-layout-4-body .news-item-external-source,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-m .news-item-external-source, .breakpoint-body-size-m .page-template-events-php .page-layout-4-body .event-item-description, .page-template-events-php .page-layout-4-body .breakpoint-body-size-m .event-item-description, .breakpoint-body-size-m
+.page-template-events_internal-php .page-layout-4-body .event-item-description,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-m .event-item-description, .breakpoint-body-size-m .page-template-events-php .page-layout-4-body .event-item-location, .page-template-events-php .page-layout-4-body .breakpoint-body-size-m .event-item-location, .breakpoint-body-size-m
+.page-template-events_internal-php .page-layout-4-body .event-item-location,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-m .event-item-location, .breakpoint-body-size-m .page-template-events-php .page-layout-4-body .event-item-date, .page-template-events-php .page-layout-4-body .breakpoint-body-size-m .event-item-date, .breakpoint-body-size-m
+.page-template-events-php .page-layout-4-body .event-item-time,
+.page-template-events-php .page-layout-4-body .breakpoint-body-size-m .event-item-time, .breakpoint-body-size-m
+.page-template-events_internal-php .page-layout-4-body .event-item-date,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-m .event-item-date, .breakpoint-body-size-m
+.page-template-events_internal-php .page-layout-4-body .event-item-time,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-m .event-item-time, .breakpoint-body-size-m .page-template-events-php .page-layout-4-body .event-item-external-source, .page-template-events-php .page-layout-4-body .breakpoint-body-size-m .event-item-external-source, .breakpoint-body-size-m
+.page-template-events-php .page-layout-4-body .event-item-internal-source,
+.page-template-events-php .page-layout-4-body .breakpoint-body-size-m .event-item-internal-source, .breakpoint-body-size-m
+.page-template-events_internal-php .page-layout-4-body .event-item-external-source,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-m .event-item-external-source, .breakpoint-body-size-m
+.page-template-events_internal-php .page-layout-4-body .event-item-internal-source,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-m .event-item-internal-source, .breakpoint-body-size-m .page-template-events-php .events-calendar-content td, .page-template-events-php .events-calendar-content .breakpoint-body-size-m td, .breakpoint-body-size-m
+.page-template-events-php .events-calendar-content th,
+.page-template-events-php .events-calendar-content .breakpoint-body-size-m th, .breakpoint-body-size-m
+.page-template-events_internal-php .events-calendar-content td,
+.page-template-events_internal-php .events-calendar-content .breakpoint-body-size-m td, .breakpoint-body-size-m
+.page-template-events_internal-php .events-calendar-content th,
+.page-template-events_internal-php .events-calendar-content .breakpoint-body-size-m th, .breakpoint-body-size-m .page-template-events-php .tooltipster-base .events-calendar-day-event-info-title, .page-template-events-php .tooltipster-base .breakpoint-body-size-m .events-calendar-day-event-info-title, .breakpoint-body-size-m
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-title,
+.page-template-events_internal-php .tooltipster-base .breakpoint-body-size-m .events-calendar-day-event-info-title, .breakpoint-body-size-m .page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes, .page-template-events-php .tooltipster-base .breakpoint-body-size-m .events-calendar-day-event-info-attributes, .breakpoint-body-size-m
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes,
+.page-template-events_internal-php .tooltipster-base .breakpoint-body-size-m .events-calendar-day-event-info-attributes, .breakpoint-body-size-m .page-template-events-php .events-calendar-day-compact-date, .page-template-events-php .breakpoint-body-size-m .events-calendar-day-compact-date, .breakpoint-body-size-m
+.page-template-events_internal-php .events-calendar-day-compact-date,
+.page-template-events_internal-php .breakpoint-body-size-m .events-calendar-day-compact-date, .breakpoint-body-size-m .search .search-result-type, .search .breakpoint-body-size-m .search-result-type, .breakpoint-body-size-m .search .search-result-date, .search .breakpoint-body-size-m .search-result-date, .breakpoint-body-size-m .search .search-result-event-location, .search .breakpoint-body-size-m .search-result-event-location, .breakpoint-body-size-m .page-template-jobs-php .page-layout-4-body .job-item-location, .page-template-jobs-php .page-layout-4-body .breakpoint-body-size-m .job-item-location, .breakpoint-body-size-m
+.page-template-jobs-php .page-layout-4-body .job-item-date,
+.page-template-jobs-php .page-layout-4-body .breakpoint-body-size-m .job-item-date, .breakpoint-body-size-m .page-template-sponsors-php .sponsor-category, .page-template-sponsors-php .breakpoint-body-size-m .sponsor-category, .breakpoint-body-size-m .page-template-sponsors-php .sponsor-description, .page-template-sponsors-php .breakpoint-body-size-m .sponsor-description, .breakpoint-body-size-m .page-template-member_directory-php .member-item-attributes, .page-template-member_directory-php .breakpoint-body-size-m .member-item-attributes, .breakpoint-body-size-m .page-template-member_directory-php .member-item-attributes .member-item-type, .page-template-member_directory-php .member-item-attributes .breakpoint-body-size-m .member-item-type {
+  font-size: 13px;
+  line-height: 20px; }
+
+.breakpoint-body-size-s .font-size-6, .breakpoint-body-size-s .page-template-section_toc-php .item-description, .page-template-section_toc-php .breakpoint-body-size-s .item-description, .breakpoint-body-size-s .page-template-section_toc_alt_1-php .item-description, .page-template-section_toc_alt_1-php .breakpoint-body-size-s .item-description, .breakpoint-body-size-s .page-template-persons-php .person-item-description, .page-template-persons-php .breakpoint-body-size-s .person-item-description, .breakpoint-body-size-s .page-template-events_past-php .event-item-description, .page-template-events_past-php .breakpoint-body-size-s .event-item-description, .breakpoint-body-size-s .page-template-events_past-php .event-item-location, .page-template-events_past-php .breakpoint-body-size-s .event-item-location, .breakpoint-body-size-s .page-template-events_past-php .event-item-time, .page-template-events_past-php .breakpoint-body-size-s .event-item-time, .breakpoint-body-size-s
+.page-template-events_past-php .event-item-date,
+.page-template-events_past-php .breakpoint-body-size-s .event-item-date, .breakpoint-body-size-s .page-template-events_past-php .event-item-external-source, .page-template-events_past-php .breakpoint-body-size-s .event-item-external-source, .breakpoint-body-size-s
+.page-template-events_past-php .event-item-internal-source,
+.page-template-events_past-php .breakpoint-body-size-s .event-item-internal-source, .breakpoint-body-size-s .category .page-layout-4-body .news-item-date, .category .page-layout-4-body .breakpoint-body-size-s .news-item-date, .breakpoint-body-size-s
+.page-template-news-php .page-layout-4-body .news-item-date,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-s .news-item-date, .breakpoint-body-size-s
+.category .page-layout-4-body .news-item-author,
+.category .page-layout-4-body .breakpoint-body-size-s .news-item-author, .breakpoint-body-size-s
+.page-template-news-php .page-layout-4-body .news-item-author,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-s .news-item-author, .breakpoint-body-size-s .category .page-layout-4-body .news-item-description, .category .page-layout-4-body .breakpoint-body-size-s .news-item-description, .breakpoint-body-size-s
+.page-template-news-php .page-layout-4-body .news-item-description,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-s .news-item-description, .breakpoint-body-size-s .category .page-layout-4-body .news-item-external-source, .category .page-layout-4-body .breakpoint-body-size-s .news-item-external-source, .breakpoint-body-size-s
+.page-template-news-php .page-layout-4-body .news-item-external-source,
+.page-template-news-php .page-layout-4-body .breakpoint-body-size-s .news-item-external-source, .breakpoint-body-size-s .page-template-events-php .page-layout-4-body .event-item-description, .page-template-events-php .page-layout-4-body .breakpoint-body-size-s .event-item-description, .breakpoint-body-size-s
+.page-template-events_internal-php .page-layout-4-body .event-item-description,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-s .event-item-description, .breakpoint-body-size-s .page-template-events-php .page-layout-4-body .event-item-location, .page-template-events-php .page-layout-4-body .breakpoint-body-size-s .event-item-location, .breakpoint-body-size-s
+.page-template-events_internal-php .page-layout-4-body .event-item-location,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-s .event-item-location, .breakpoint-body-size-s .page-template-events-php .page-layout-4-body .event-item-date, .page-template-events-php .page-layout-4-body .breakpoint-body-size-s .event-item-date, .breakpoint-body-size-s
+.page-template-events-php .page-layout-4-body .event-item-time,
+.page-template-events-php .page-layout-4-body .breakpoint-body-size-s .event-item-time, .breakpoint-body-size-s
+.page-template-events_internal-php .page-layout-4-body .event-item-date,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-s .event-item-date, .breakpoint-body-size-s
+.page-template-events_internal-php .page-layout-4-body .event-item-time,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-s .event-item-time, .breakpoint-body-size-s .page-template-events-php .page-layout-4-body .event-item-external-source, .page-template-events-php .page-layout-4-body .breakpoint-body-size-s .event-item-external-source, .breakpoint-body-size-s
+.page-template-events-php .page-layout-4-body .event-item-internal-source,
+.page-template-events-php .page-layout-4-body .breakpoint-body-size-s .event-item-internal-source, .breakpoint-body-size-s
+.page-template-events_internal-php .page-layout-4-body .event-item-external-source,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-s .event-item-external-source, .breakpoint-body-size-s
+.page-template-events_internal-php .page-layout-4-body .event-item-internal-source,
+.page-template-events_internal-php .page-layout-4-body .breakpoint-body-size-s .event-item-internal-source, .breakpoint-body-size-s .page-template-events-php .events-calendar-content td, .page-template-events-php .events-calendar-content .breakpoint-body-size-s td, .breakpoint-body-size-s
+.page-template-events-php .events-calendar-content th,
+.page-template-events-php .events-calendar-content .breakpoint-body-size-s th, .breakpoint-body-size-s
+.page-template-events_internal-php .events-calendar-content td,
+.page-template-events_internal-php .events-calendar-content .breakpoint-body-size-s td, .breakpoint-body-size-s
+.page-template-events_internal-php .events-calendar-content th,
+.page-template-events_internal-php .events-calendar-content .breakpoint-body-size-s th, .breakpoint-body-size-s .page-template-events-php .tooltipster-base .events-calendar-day-event-info-title, .page-template-events-php .tooltipster-base .breakpoint-body-size-s .events-calendar-day-event-info-title, .breakpoint-body-size-s
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-title,
+.page-template-events_internal-php .tooltipster-base .breakpoint-body-size-s .events-calendar-day-event-info-title, .breakpoint-body-size-s .page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes, .page-template-events-php .tooltipster-base .breakpoint-body-size-s .events-calendar-day-event-info-attributes, .breakpoint-body-size-s
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes,
+.page-template-events_internal-php .tooltipster-base .breakpoint-body-size-s .events-calendar-day-event-info-attributes, .breakpoint-body-size-s .page-template-events-php .events-calendar-day-compact-date, .page-template-events-php .breakpoint-body-size-s .events-calendar-day-compact-date, .breakpoint-body-size-s
+.page-template-events_internal-php .events-calendar-day-compact-date,
+.page-template-events_internal-php .breakpoint-body-size-s .events-calendar-day-compact-date, .breakpoint-body-size-s .search .search-result-type, .search .breakpoint-body-size-s .search-result-type, .breakpoint-body-size-s .search .search-result-date, .search .breakpoint-body-size-s .search-result-date, .breakpoint-body-size-s .search .search-result-event-location, .search .breakpoint-body-size-s .search-result-event-location, .breakpoint-body-size-s .page-template-jobs-php .page-layout-4-body .job-item-location, .page-template-jobs-php .page-layout-4-body .breakpoint-body-size-s .job-item-location, .breakpoint-body-size-s
+.page-template-jobs-php .page-layout-4-body .job-item-date,
+.page-template-jobs-php .page-layout-4-body .breakpoint-body-size-s .job-item-date, .breakpoint-body-size-s .page-template-sponsors-php .sponsor-category, .page-template-sponsors-php .breakpoint-body-size-s .sponsor-category, .breakpoint-body-size-s .page-template-sponsors-php .sponsor-description, .page-template-sponsors-php .breakpoint-body-size-s .sponsor-description, .breakpoint-body-size-s .page-template-member_directory-php .member-item-attributes, .page-template-member_directory-php .breakpoint-body-size-s .member-item-attributes, .breakpoint-body-size-s .page-template-member_directory-php .member-item-attributes .member-item-type, .page-template-member_directory-php .member-item-attributes .breakpoint-body-size-s .member-item-type {
+  font-size: 13px;
+  line-height: 20px; }
+
+.font-size-7 {
+  font-size: 12px;
+  line-height: 18px; }
+
+.breakpoint-body-size-xl .font-size-7 {
+  font-size: 12px;
+  line-height: 18px; }
+
+.breakpoint-body-size-l .font-size-7 {
+  font-size: 12px;
+  line-height: 18px; }
+
+.breakpoint-body-size-m .font-size-7 {
+  font-size: 12px;
+  line-height: 18px; }
+
+.breakpoint-body-size-s .font-size-7 {
+  font-size: 12px;
+  line-height: 18px; }
+
+/* Font family */
+body {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: normal;
+  font-weight: 400; }
+
+body em, body i {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: italic;
+  font-weight: 400; }
+
+body strong, body b {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: normal;
+  font-weight: 700; }
+
+body strong em, body b em,
+body strong i, body b i,
+body em strong, body em b,
+body i strong, body i b {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: italic;
+  font-weight: 700; }
+
+input {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: normal;
+  font-weight: 400; }
+
+input em, input i {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: italic;
+  font-weight: 400; }
+
+input strong, input b {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: normal;
+  font-weight: 700; }
+
+input strong em, input b em,
+input strong i, input b i,
+input em strong, input em b,
+input i strong, input i b {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: italic;
+  font-weight: 700; }
+
+/* Font style */
+.font-style-1, .page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes, .single-ikit_person .header-person-positions {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: normal;
+  font-weight: 400; }
+
+.font-style-1 em, .page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes em,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes em, .single-ikit_person .header-person-positions em, .font-style-1 i, .page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes i,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes i, .single-ikit_person .header-person-positions i {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: italic;
+  font-weight: 400; }
+
+.font-style-1 strong, .page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes strong,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes strong, .single-ikit_person .header-person-positions strong, .font-style-1 b, .page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes b,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes b, .single-ikit_person .header-person-positions b {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: normal;
+  font-weight: 700; }
+
+.font-style-1 strong em, .page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes strong em,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes strong em, .single-ikit_person .header-person-positions strong em, .font-style-1 b em, .page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes b em,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes b em, .single-ikit_person .header-person-positions b em,
+.font-style-1 strong i, .page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes strong i,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes strong i, .single-ikit_person .header-person-positions strong i, .font-style-1 b i, .page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes b i,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes b i, .single-ikit_person .header-person-positions b i,
+.font-style-1 em strong, .page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes em strong,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes em strong, .single-ikit_person .header-person-positions em strong, .font-style-1 em b, .page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes em b,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes em b, .single-ikit_person .header-person-positions em b,
+.font-style-1 i strong, .page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes i strong,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes i strong, .single-ikit_person .header-person-positions i strong, .font-style-1 i b, .page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes i b,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes i b, .single-ikit_person .header-person-positions i b {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: italic;
+  font-weight: 700; }
+
+.font-style-3, .page-template-section_toc-php .item-title, .page-template-section_toc_alt_1-php .item-title, .page-template-events_past-php .event-item-title, .category .page-layout-4-body .news-item-title,
+.page-template-news-php .page-layout-4-body .news-item-title, .page-template-events-php .page-layout-4-body .event-item-title,
+.page-template-events_internal-php .page-layout-4-body .event-item-title, .page-template-events-php .events-calendar-title,
+.page-template-events_internal-php .events-calendar-title, .page-template-events-php .events-calendar-content td,
+.page-template-events-php .events-calendar-content th,
+.page-template-events_internal-php .events-calendar-content td,
+.page-template-events_internal-php .events-calendar-content th, .page-template-events-php .tooltipster-base .events-calendar-day-event-info-title,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-title, .page-template-events-php .events-calendar-day-compact-event-title,
+.page-template-events_internal-php .events-calendar-day-compact-event-title, .page-template-events-php .events-calendar-day-compact-date,
+.page-template-events_internal-php .events-calendar-day-compact-date, .search .search-result-title, .page-template-jobs-php .page-layout-4-body .job-item-title, .page-template-sponsors-php .sponsor-category, .page-template-membership_rates-php .rate-header, .error404 .page-layout-4-body {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: normal;
+  font-weight: 700; }
+
+.font-style-8, .page-template-section_toc-php .item-description, .page-template-section_toc_alt_1-php .item-description, .page-template-persons-php .person-item-title, .page-template-persons-php .person-item-positions, .page-template-persons-php .person-item-description, .page-template-events_past-php .event-item-description, .category .page-layout-4-body .news-item-description,
+.page-template-news-php .page-layout-4-body .news-item-description, .page-template-events-php .page-layout-4-body .event-item-description,
+.page-template-events_internal-php .page-layout-4-body .event-item-description, .page-template-portfolios-php .portfolio-item-project, .page-template-portfolios-php .portfolio-item-author, .page-template-sponsors-php .sponsor-description, .single-ikit_event .attendees, .page-template-member_directory-php .member-item-name, .page-template-member_directory-php .member-item-company {
+  font-family: "freight-text-pro",serif;
+  font-style: normal;
+  font-weight: 400; }
+
+.font-style-8 em, .page-template-section_toc-php .item-description em, .page-template-section_toc_alt_1-php .item-description em, .page-template-persons-php .person-item-title em, .page-template-persons-php .person-item-positions em, .page-template-persons-php .person-item-description em, .page-template-events_past-php .event-item-description em, .category .page-layout-4-body .news-item-description em,
+.page-template-news-php .page-layout-4-body .news-item-description em, .page-template-events-php .page-layout-4-body .event-item-description em,
+.page-template-events_internal-php .page-layout-4-body .event-item-description em, .page-template-portfolios-php .portfolio-item-project em, .page-template-portfolios-php .portfolio-item-author em, .page-template-sponsors-php .sponsor-description em, .single-ikit_event .attendees em, .page-template-member_directory-php .member-item-name em, .page-template-member_directory-php .member-item-company em, .font-style-8 i, .page-template-section_toc-php .item-description i, .page-template-section_toc_alt_1-php .item-description i, .page-template-persons-php .person-item-title i, .page-template-persons-php .person-item-positions i, .page-template-persons-php .person-item-description i, .page-template-events_past-php .event-item-description i, .category .page-layout-4-body .news-item-description i,
+.page-template-news-php .page-layout-4-body .news-item-description i, .page-template-events-php .page-layout-4-body .event-item-description i,
+.page-template-events_internal-php .page-layout-4-body .event-item-description i, .page-template-portfolios-php .portfolio-item-project i, .page-template-portfolios-php .portfolio-item-author i, .page-template-sponsors-php .sponsor-description i, .single-ikit_event .attendees i, .page-template-member_directory-php .member-item-name i, .page-template-member_directory-php .member-item-company i {
+  font-family: "freight-text-pro",serif;
+  font-style: italic;
+  font-weight: 400; }
+
+.font-style-8 strong, .page-template-section_toc-php .item-description strong, .page-template-section_toc_alt_1-php .item-description strong, .page-template-persons-php .person-item-title strong, .page-template-persons-php .person-item-positions strong, .page-template-persons-php .person-item-description strong, .page-template-events_past-php .event-item-description strong, .category .page-layout-4-body .news-item-description strong,
+.page-template-news-php .page-layout-4-body .news-item-description strong, .page-template-events-php .page-layout-4-body .event-item-description strong,
+.page-template-events_internal-php .page-layout-4-body .event-item-description strong, .page-template-portfolios-php .portfolio-item-project strong, .page-template-portfolios-php .portfolio-item-author strong, .page-template-sponsors-php .sponsor-description strong, .single-ikit_event .attendees strong, .page-template-member_directory-php .member-item-name strong, .page-template-member_directory-php .member-item-company strong, .font-style-8 b, .page-template-section_toc-php .item-description b, .page-template-section_toc_alt_1-php .item-description b, .page-template-persons-php .person-item-title b, .page-template-persons-php .person-item-positions b, .page-template-persons-php .person-item-description b, .page-template-events_past-php .event-item-description b, .category .page-layout-4-body .news-item-description b,
+.page-template-news-php .page-layout-4-body .news-item-description b, .page-template-events-php .page-layout-4-body .event-item-description b,
+.page-template-events_internal-php .page-layout-4-body .event-item-description b, .page-template-portfolios-php .portfolio-item-project b, .page-template-portfolios-php .portfolio-item-author b, .page-template-sponsors-php .sponsor-description b, .single-ikit_event .attendees b, .page-template-member_directory-php .member-item-name b, .page-template-member_directory-php .member-item-company b {
+  font-family: "freight-text-pro",serif;
+  font-style: normal;
+  font-weight: 900; }
+
+.font-style-8 strong em, .page-template-section_toc-php .item-description strong em, .page-template-section_toc_alt_1-php .item-description strong em, .page-template-persons-php .person-item-title strong em, .page-template-persons-php .person-item-positions strong em, .page-template-persons-php .person-item-description strong em, .page-template-events_past-php .event-item-description strong em, .category .page-layout-4-body .news-item-description strong em,
+.page-template-news-php .page-layout-4-body .news-item-description strong em, .page-template-events-php .page-layout-4-body .event-item-description strong em,
+.page-template-events_internal-php .page-layout-4-body .event-item-description strong em, .page-template-portfolios-php .portfolio-item-project strong em, .page-template-portfolios-php .portfolio-item-author strong em, .page-template-sponsors-php .sponsor-description strong em, .single-ikit_event .attendees strong em, .page-template-member_directory-php .member-item-name strong em, .page-template-member_directory-php .member-item-company strong em, .font-style-8 b em, .page-template-section_toc-php .item-description b em, .page-template-section_toc_alt_1-php .item-description b em, .page-template-persons-php .person-item-title b em, .page-template-persons-php .person-item-positions b em, .page-template-persons-php .person-item-description b em, .page-template-events_past-php .event-item-description b em, .category .page-layout-4-body .news-item-description b em,
+.page-template-news-php .page-layout-4-body .news-item-description b em, .page-template-events-php .page-layout-4-body .event-item-description b em,
+.page-template-events_internal-php .page-layout-4-body .event-item-description b em, .page-template-portfolios-php .portfolio-item-project b em, .page-template-portfolios-php .portfolio-item-author b em, .page-template-sponsors-php .sponsor-description b em, .single-ikit_event .attendees b em, .page-template-member_directory-php .member-item-name b em, .page-template-member_directory-php .member-item-company b em,
+.font-style-8 strong i, .page-template-section_toc-php .item-description strong i, .page-template-section_toc_alt_1-php .item-description strong i, .page-template-persons-php .person-item-title strong i, .page-template-persons-php .person-item-positions strong i, .page-template-persons-php .person-item-description strong i, .page-template-events_past-php .event-item-description strong i, .category .page-layout-4-body .news-item-description strong i,
+.page-template-news-php .page-layout-4-body .news-item-description strong i, .page-template-events-php .page-layout-4-body .event-item-description strong i,
+.page-template-events_internal-php .page-layout-4-body .event-item-description strong i, .page-template-portfolios-php .portfolio-item-project strong i, .page-template-portfolios-php .portfolio-item-author strong i, .page-template-sponsors-php .sponsor-description strong i, .single-ikit_event .attendees strong i, .page-template-member_directory-php .member-item-name strong i, .page-template-member_directory-php .member-item-company strong i, .font-style-8 b i, .page-template-section_toc-php .item-description b i, .page-template-section_toc_alt_1-php .item-description b i, .page-template-persons-php .person-item-title b i, .page-template-persons-php .person-item-positions b i, .page-template-persons-php .person-item-description b i, .page-template-events_past-php .event-item-description b i, .category .page-layout-4-body .news-item-description b i,
+.page-template-news-php .page-layout-4-body .news-item-description b i, .page-template-events-php .page-layout-4-body .event-item-description b i,
+.page-template-events_internal-php .page-layout-4-body .event-item-description b i, .page-template-portfolios-php .portfolio-item-project b i, .page-template-portfolios-php .portfolio-item-author b i, .page-template-sponsors-php .sponsor-description b i, .single-ikit_event .attendees b i, .page-template-member_directory-php .member-item-name b i, .page-template-member_directory-php .member-item-company b i,
+.font-style-8 em strong, .page-template-section_toc-php .item-description em strong, .page-template-section_toc_alt_1-php .item-description em strong, .page-template-persons-php .person-item-title em strong, .page-template-persons-php .person-item-positions em strong, .page-template-persons-php .person-item-description em strong, .page-template-events_past-php .event-item-description em strong, .category .page-layout-4-body .news-item-description em strong,
+.page-template-news-php .page-layout-4-body .news-item-description em strong, .page-template-events-php .page-layout-4-body .event-item-description em strong,
+.page-template-events_internal-php .page-layout-4-body .event-item-description em strong, .page-template-portfolios-php .portfolio-item-project em strong, .page-template-portfolios-php .portfolio-item-author em strong, .page-template-sponsors-php .sponsor-description em strong, .single-ikit_event .attendees em strong, .page-template-member_directory-php .member-item-name em strong, .page-template-member_directory-php .member-item-company em strong, .font-style-8 em b, .page-template-section_toc-php .item-description em b, .page-template-section_toc_alt_1-php .item-description em b, .page-template-persons-php .person-item-title em b, .page-template-persons-php .person-item-positions em b, .page-template-persons-php .person-item-description em b, .page-template-events_past-php .event-item-description em b, .category .page-layout-4-body .news-item-description em b,
+.page-template-news-php .page-layout-4-body .news-item-description em b, .page-template-events-php .page-layout-4-body .event-item-description em b,
+.page-template-events_internal-php .page-layout-4-body .event-item-description em b, .page-template-portfolios-php .portfolio-item-project em b, .page-template-portfolios-php .portfolio-item-author em b, .page-template-sponsors-php .sponsor-description em b, .single-ikit_event .attendees em b, .page-template-member_directory-php .member-item-name em b, .page-template-member_directory-php .member-item-company em b,
+.font-style-8 i strong, .page-template-section_toc-php .item-description i strong, .page-template-section_toc_alt_1-php .item-description i strong, .page-template-persons-php .person-item-title i strong, .page-template-persons-php .person-item-positions i strong, .page-template-persons-php .person-item-description i strong, .page-template-events_past-php .event-item-description i strong, .category .page-layout-4-body .news-item-description i strong,
+.page-template-news-php .page-layout-4-body .news-item-description i strong, .page-template-events-php .page-layout-4-body .event-item-description i strong,
+.page-template-events_internal-php .page-layout-4-body .event-item-description i strong, .page-template-portfolios-php .portfolio-item-project i strong, .page-template-portfolios-php .portfolio-item-author i strong, .page-template-sponsors-php .sponsor-description i strong, .single-ikit_event .attendees i strong, .page-template-member_directory-php .member-item-name i strong, .page-template-member_directory-php .member-item-company i strong, .font-style-8 i b, .page-template-section_toc-php .item-description i b, .page-template-section_toc_alt_1-php .item-description i b, .page-template-persons-php .person-item-title i b, .page-template-persons-php .person-item-positions i b, .page-template-persons-php .person-item-description i b, .page-template-events_past-php .event-item-description i b, .category .page-layout-4-body .news-item-description i b,
+.page-template-news-php .page-layout-4-body .news-item-description i b, .page-template-events-php .page-layout-4-body .event-item-description i b,
+.page-template-events_internal-php .page-layout-4-body .event-item-description i b, .page-template-portfolios-php .portfolio-item-project i b, .page-template-portfolios-php .portfolio-item-author i b, .page-template-sponsors-php .sponsor-description i b, .single-ikit_event .attendees i b, .page-template-member_directory-php .member-item-name i b, .page-template-member_directory-php .member-item-company i b {
+  font-family: "freight-text-pro",serif;
+  font-style: italic;
+  font-weight: 900; }
+
+/* Box shadow border, allows us to have borders that do not change the box model as they are inset */
+.box-shadow-border-color-0 {
+  box-shadow: none; }
+
+.box-shadow-border-color-5 {
+  box-shadow: inset 0 0 0px 2px #0000d2; }
+
+/* Placeholder colors */
+.placeholder-color-2::-webkit-input-placeholder {
+  color: white; }
+
+.placeholder-color-2::-moz-placeholder {
+  color: white; }
+
+.placeholder-color-2::-moz-placeholder {
+  color: white; }
+
+.placeholder-color-2::-ms-input-placeholder {
+  color: white; }
+
+/* Link underline colors */
+.link-underline-color-1 {
+  padding-bottom: 6px;
+  background-image: url("../../images/underline_color_1.svg");
+  -webkit-background-size: 2px 2px;
+  -moz-background-size: 2px 2px;
+  -o-background-size: 2px 2px;
+  background-size: 2px 2px;
+  background-repeat: repeat-x;
+  display: inline;
+  text-decoration: none !important;
+  background-position: 100% 100%; }
+
+.link-underline-color-2 {
+  padding-bottom: 6px;
+  background-image: url("../../images/underline_color_2.svg");
+  -webkit-background-size: 2px 2px;
+  -moz-background-size: 2px 2px;
+  -o-background-size: 2px 2px;
+  background-size: 2px 2px;
+  background-repeat: repeat-x;
+  display: inline;
+  text-decoration: none !important;
+  background-position: 100% 100%; }
+
+.link-underline-color-3 {
+  padding-bottom: 6px;
+  background-image: url("../../images/underline_color_3.svg");
+  -webkit-background-size: 2px 2px;
+  -moz-background-size: 2px 2px;
+  -o-background-size: 2px 2px;
+  background-size: 2px 2px;
+  background-repeat: repeat-x;
+  display: inline;
+  text-decoration: none !important;
+  background-position: 100% 100%; }
+
+.link-underline-color-3a {
+  padding-bottom: 6px;
+  background-image: url("../../images/underline_color_3a.svg");
+  -webkit-background-size: 2px 2px;
+  -moz-background-size: 2px 2px;
+  -o-background-size: 2px 2px;
+  background-size: 2px 2px;
+  background-repeat: repeat-x;
+  display: inline;
+  text-decoration: none !important;
+  background-position: 100% 100%; }
+
+.link-underline-color-1b {
+  padding-bottom: 6px;
+  background-image: url("../../images/underline_color_1b.svg");
+  -webkit-background-size: 2px 2px;
+  -moz-background-size: 2px 2px;
+  -o-background-size: 2px 2px;
+  background-size: 2px 2px;
+  background-repeat: repeat-x;
+  display: inline;
+  text-decoration: none !important;
+  background-position: 100% 100%; }
+
+/*********************************************/
+/* Template section toc
+/*********************************************/
+/*********************************************/
+/* Template section toc alt 1
+/*********************************************/
+/*********************************************/
+/* Template persons
+/*********************************************/
+/*********************************************/
+/* Template events past
+/*********************************************/
+/*********************************************/
+/* Template news / category
+/*********************************************/
+/*********************************************/
+/* Template events / events internal
+/*********************************************/
+.page-template-events-php .events-rss-feed-link,
+.page-template-events_internal-php .events-rss-feed-link {
+  color: black; }
+  .page-template-events-php .events-rss-feed-link:hover,
+  .page-template-events_internal-php .events-rss-feed-link:hover {
+    color: #0000d2; }
+
+/* List */
+/* Calendar */
+.page-template-events-php .tooltipster-base .events-calendar-day-event-info-attributes,
+.page-template-events_internal-php .tooltipster-base .events-calendar-day-event-info-attributes {
+  /* Override the tooltipster default of Arial */ }
+
+/*********************************************/
+/* Template search
+/*********************************************/
+/* Event specific */
+/*********************************************/
+/* Template jobs
+/*********************************************/
+/*********************************************/
+/* Template portfolios
+/*********************************************/
+/*********************************************/
+/* Template sponsors
+/*********************************************/
+/*********************************************/
+/* Template single
+/*********************************************/
+/*********************************************/
+/* Template single event
+/*********************************************/
+/*********************************************/
+/* Template single person
+/*********************************************/
+/*********************************************/
+/* Template membership rates
+/*********************************************/
+/*********************************************/
+/* Template member directory
+/*********************************************/
+/*********************************************/
+/* Template 404
+/*********************************************/

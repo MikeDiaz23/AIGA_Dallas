@@ -1,0 +1,1148 @@
+/* Colors */
+/* Font color */
+.font-color-0 {
+  color: transparent; }
+
+.font-color-1, .ikit-three-widget-featured-events-news-billboard .items .item-description, .ikit-three-widget-featured-events-news-billboard .items .item-attributes, .ikit-three-widget-featured-events-news-billboard .items .item-title, .ikit-three-widget-latest-events-news-billboard .items .item-description, .ikit-three-widget-latest-events-news-billboard .items .item-title, .ikit-widget-featured-video, .ikit-widget-mailing-list .mailing-list-description, .ikit-widget-featured-job .job-item-company, .ikit-widget-featured-job .job-item-title, .ikit-widget-featured-portfolio .portfolio-item-author, .ikit-widget-i-am-aiga .member-item-name, .ikit-widget-twitter .twitter-item-text a:hover, .ikit-widget-twitter .twitter-item, .ikit-widget-news .news-item-external-source, .ikit-widget-news .news-item-author,
+.ikit-widget-news .news-item-date, .ikit-widget-news .news-item-title, .ikit-widget-events-internal .event-item-time,
+.ikit-widget-events-internal .event-item-date, .ikit-widget-events-internal .event-item-description, .ikit-widget-events-internal .event-item-title, .ikit-widget-events .event-item-time,
+.ikit-widget-events .event-item-date, .ikit-widget-events .event-item-title, .ikit-widget-facebook .facebook-item-message a:hover, .ikit-widget-facebook .facebook-item-message,
+.ikit-widget-facebook .facebook-item-name, .ikit-widget-new-members .link-block:hover .member-item-name,
+.ikit-widget-new-members .link-block:hover .member-item-type,
+.ikit-widget-new-members .link-block:hover .member-item-date, .ikit-widget-eyeondesign .eyeondesign-item-title, .widget_text .widget-content, .ikit-widget-promo .promo-item.promo-item-style-1 .promo-item-link:hover, .ikit-widget-quote .quote-item-attribution a,
+.ikit-widget-quote .quote-item-attribution, .ikit-widget-quote .quote-item-text, .ikit-widget-page .page-content a:hover, .ikit-widget-page .page-content, .page-layout-5-body-title, .page-layout-4-body-paragraph-text a:hover, .page-layout-4-body-paragraph-text, .page-header-3-title a,
+.page-header-3-title, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text],
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email],
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel], .layout .gform_wrapper .gfield_required, .gform_wrapper .top_label textarea, .gform_wrapper .top_label .gfield_label, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label, .layout .gform_wrapper .gfield_checkbox label,
+.layout .gform_wrapper .gfield_radio label, .layout .gform_wrapper .gfield_html, .layout .gform_wrapper .gsection, .header-layout .header-search-button:hover, .header-layout .header-menu-item-children-item, .header-layout .header-menu-item-link:hover,
+.header-layout .header-menu-item-children-item-link:hover, .header-layout .header-layout-right a, .footer-social-links li,
+.footer-social-links a, .footer-copyright a:hover, .footer-contact-info,
+.footer-copyright,
+.footer-mailing-list-help, .footer-credit a:hover, .footer-credit, .footer .footer-header, .page-header-5-title-container, .page-header-4-title-container, .widgettitle, .toc-link.active, .toc-link:hover, .related-items .news-item-external-source, .related-items .news-item-author,
+.related-items .news-item-date, .related-items .news-item-title, .related-items .event-item-time,
+.related-items .event-item-date, .related-items .event-item-title, .box-input, .sso-lock-label, html body .layout .comments #disqus_thread,
+html body .layout .comments #disqus_thread iframe, .comments a:hover, .comments .comments-disclaimer,
+.comments .nocomments, .no-results {
+  color: black; }
+
+.font-color-2, .ikit-widget-new-members .member-item-type,
+.ikit-widget-new-members .member-item-date, .ikit-widget-new-members .member-item-name, .ikit-widget-promo .promo-item-link, .ikit-widget-promo .promo-item-text, .header-compact-menu-item[data-expanded="true"] .header-compact-menu-item-link-expand-title, .header-compact-menu-item:hover .header-compact-menu-item-link-expand-title,
+.header-compact-menu-item:hover .header-compact-menu-item-link,
+.header-compact-menu-item-children-item-link:hover, .header-compact-menu-item-children-item-link, .header-compact-menu a, .header .header-compact-search input, .header-layout-container-collapsed .header-layout .header-search-button, .header-layout-container-collapsed .header-layout .header-menu-item-children-item,
+.header-layout-container-collapsed .header-layout .header-layout-right a, .header-layout-container-collapsed .header-layout .header-menu-item-link,
+.header-layout-container-collapsed .header-layout .header-menu-item-children-item-link, .header-layout-container-collapsed .header-layout .header-menu-item-link.active, .header-layout .header-search-button-close, .header-layout .header-search-bar input, .layout .social-share-container .atcb-item a, .sso-lock-light .sso-lock-label {
+  color: white; }
+
+.font-color-3, .ikit-three-widget-latest-events-news-billboard .items .item-attributes, .ikit-widget-featured-portfolio .portfolio-item-project, .ikit-widget-twitter .twitter-item-timestamp, .ikit-widget-news .news-item-description, .ikit-widget-events-internal .event-item-external-source,
+.ikit-widget-events-internal .event-item-internal-source, .ikit-widget-events .event-item-external-source,
+.ikit-widget-events .event-item-internal-source, .ikit-widget-events .event-item-description, .page-layout-4-attribute-text, .page-layout-4-attribute-header, .page-header-3-title a:hover, .toc-link, .related-items .news-item-description, .related-items .event-item-external-source,
+.related-items .event-item-internal-source, .related-items .event-item-description, .editor-shortcode-image-gallery-slideshow-caption, .editor-shortcode-service-video-caption, .editor-shortcode-image-caption, .wp-caption, pre {
+  color: #a5a5a5; }
+
+.font-color-4 {
+  color: #f0f0f0; }
+
+.font-color-5, .ikit-three-widget-featured-events-news-billboard .items .link-block:hover .item-title,
+.ikit-three-widget-featured-events-news-billboard .items .link-block:hover .item-description,
+.ikit-three-widget-featured-events-news-billboard .items .link-block:hover .item-attributes, .ikit-three-widget-latest-events-news-billboard .items .link-block:hover .item-title,
+.ikit-three-widget-latest-events-news-billboard .items .link-block:hover .item-description,
+.ikit-three-widget-latest-events-news-billboard .items .link-block:hover .item-attributes, .ikit-widget-twitter .twitter-item-text a, .ikit-widget-events-internal .event-item-location, .ikit-widget-events .event-item-location, .ikit-widget-facebook .facebook-item-message a, .ikit-widget-promo .promo-item-link:hover, .ikit-widget-quote .quote-item-attribution a:hover, .ikit-widget-page .page-content a, .page-layout-4-body-paragraph-text a, .layout .gform_wrapper .validation_message,
+.layout .gform_wrapper .validation_error,
+.layout .gform_wrapper .top_label .gfield_error,
+.layout .gform_wrapper .top_label .gfield_error .gfield_label, .footer-social-links a:hover, .footer-contact-info a,
+.footer-copyright a, .footer-credit a, .widgettitle .cat-plugin-click-redirect-loaded:hover, .related-items .event-item-location, .layout .link-block:hover div,
+.layout .link-block:hover span, .box-input:hover, .box-button:hover, .gform_wrapper .gform_footer input[type=submit].button:hover, .comments a, .editor-shortcode-pull-quote {
+  color: #0000d2; }
+
+.font-color-6 {
+  color: #f9b30f; }
+
+.font-color-7 {
+  color: #a5d21e; }
+
+.font-color-8 {
+  color: #41c8b9; }
+
+.font-color-9 {
+  color: #ec008c; }
+
+.font-color-3a, .page-layout-4-body-description-inner a, .page-layout-4-body-description-inner {
+  color: #a5a5a5; }
+
+.font-color-1b, .page-layout-4-body-description-inner a:hover {
+  color: black; }
+
+.font-color-1e, .layout .sbHolder a {
+  color: black; }
+
+.font-color-3b, .layout .sbOptions li a:hover {
+  color: #a5a5a5; }
+
+.font-color-1g, .box-button, .gform_wrapper .gform_footer input[type=submit].button {
+  color: black; }
+
+/* Background color */
+.background-color-0, .ikit-widget-promo .promo-item-link, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text],
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email],
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel], .gform_wrapper .top_label textarea, .gform_wrapper .gform_footer input[type=submit].button, .layout .gform_wrapper .gform_body li.gfield.gfield_error, .header .header-compact-search input, .header-layout .header-search-bar input, .header-layout .header-search-collapse-panel, .header-layout .header-menu-item-children-container, .box-input {
+  background-color: transparent; }
+
+.background-color-1, .ikit-widget-promo .promo-item.promo-item-style-1, .header-compact-menu-button-open, .header-compact-menu-item, .header-compact-menu, .layout .social-share-container .atcb-item,
+.layout .social-share-container .atcb-list {
+  background-color: black; }
+
+.background-color-2, .ikit-widget-promo .promo-item-link:hover {
+  background-color: white; }
+
+.background-color-3 {
+  background-color: #a5a5a5; }
+
+.background-color-4, .header .header-compact-layout-right {
+  background-color: #f0f0f0; }
+
+.background-color-5, .ikit-three-widget-featured-events-news-billboard .item-slides-pager span.cycle-pager-active, .ikit-widget-instagram .instagram-item-slides-pager span.cycle-pager-active, .ikit-widget-new-members .member-items, .ikit-widget-promo .promo-item, .header-layout-container-collapsed .header-layout .header-menu-item-children, .header-layout-container-collapsed .header-layout, #cssload-line, .editor-shortcode-image-gallery-slideshow-pager span.cycle-pager-active {
+  background-color: #0000d2; }
+
+.background-color-10, .ikit-widget-page .page-content, .related-items {
+  background-color: #fafafa; }
+
+.background-color-1a, .header-layout .header-search-bar {
+  background-color: black; }
+
+.background-color-2a, .header-layout .header-menu-item-children, .header-layout, .layout-content, html body.ikit-three.ikit {
+  background-color: white; }
+
+.background-color-2c, .header .header-compact-layout {
+  background-color: white; }
+
+.background-color-5a, .header .header-compact-search {
+  background-color: #0000d2; }
+
+.background-color-4a, .page-layout-4-body-description-inner {
+  background-color: #f0f0f0; }
+
+.background-color-0a, .ikit-widget-featured-job .job-items, .ikit-widget-news .news-items, .ikit-widget-events .event-items, .box-item {
+  background-color: transparent; }
+
+.background-color-2d, .layout .sbOptions, .layout .sbSelector {
+  background-color: white; }
+
+.background-color-0b, .box-button, .gform_wrapper .gform_footer input[type=submit].button {
+  background-color: white; }
+
+.background-color-10a, .footer {
+  background-color: #fafafa; }
+
+/* Border color */
+.border-color-1, .ikit-three-widget-featured-events-news-billboard .item-slides-pager span, .ikit-widget-events-internal .event-items, .ikit-widget-instagram .instagram-item-slides-pager span, .layout .gform_wrapper .ginput_container, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label, .layout .gform_wrapper, .layout .social-share-container .social-share-item, .box-input, .editor-shortcode-image-gallery-slideshow-pager span {
+  border-color: black; }
+
+.border-color-1-top {
+  border-top-color: black; }
+
+.border-color-1-bottom {
+  border-bottom-color: black; }
+
+.border-color-1-left, .social-share-container .atcb-list:after {
+  border-left-color: black; }
+
+.border-color-1-right {
+  border-right-color: black; }
+
+.border-color-2, .ikit-widget-promo .promo-item-link:hover, .ikit-widget-promo .promo-item-link {
+  border-color: white; }
+
+.border-color-2-top {
+  border-top-color: white; }
+
+.border-color-2-bottom {
+  border-bottom-color: white; }
+
+.border-color-2-left {
+  border-left-color: white; }
+
+.border-color-2-right {
+  border-right-color: white; }
+
+.border-color-3 {
+  border-color: #a5a5a5; }
+
+.border-color-3-top {
+  border-top-color: #a5a5a5; }
+
+.border-color-3-bottom {
+  border-bottom-color: #a5a5a5; }
+
+.border-color-3-left {
+  border-left-color: #a5a5a5; }
+
+.border-color-3-right {
+  border-right-color: #a5a5a5; }
+
+.border-color-4, .page-layout-5-sidebar,
+.page-layout-5-body, #page-loader-indicator {
+  border-color: #f0f0f0; }
+
+.border-color-4-top {
+  border-top-color: #f0f0f0; }
+
+.border-color-4-bottom {
+  border-bottom-color: #f0f0f0; }
+
+.border-color-4-left {
+  border-left-color: #f0f0f0; }
+
+.border-color-4-right {
+  border-right-color: #f0f0f0; }
+
+.border-color-5, .ikit-three-widget-featured-events-news-billboard .item-slides-pager span.cycle-pager-active, .ikit-widget-i-am-aiga .link-block:hover .link-block-image-overlay, .ikit-widget-instagram .instagram-item-slides-pager span.cycle-pager-active, .ikit-widget-new-members .member-items, .ikit-widget-eyeondesign .link-block:hover .link-block-image-overlay, .layout .social-share-container .social-share-item:hover, .layout .link-block:hover .box-button, .layout .link-block:hover .gform_wrapper .gform_footer input[type=submit].button, .gform_wrapper .gform_footer .layout .link-block:hover input[type=submit].button, .layout .link-block:hover .box-item, .box-input:hover, .layout .infinity-fetcher-fetch-button.loading, .box-button:hover, .gform_wrapper .gform_footer input[type=submit].button:hover, .editor-shortcode-image-gallery-slideshow-pager span.cycle-pager-active {
+  border-color: #0000d2; }
+
+.border-color-5-top, #page-loader-indicator {
+  border-top-color: #0000d2; }
+
+.border-color-5-bottom {
+  border-bottom-color: #0000d2; }
+
+.border-color-5-left {
+  border-left-color: #0000d2; }
+
+.border-color-5-right, #page-loader-indicator {
+  border-right-color: #0000d2; }
+
+.border-color-6 {
+  border-color: #f9b30f; }
+
+.border-color-6-top {
+  border-top-color: #f9b30f; }
+
+.border-color-6-bottom {
+  border-bottom-color: #f9b30f; }
+
+.border-color-6-left {
+  border-left-color: #f9b30f; }
+
+.border-color-6-right {
+  border-right-color: #f9b30f; }
+
+.border-color-7 {
+  border-color: #a5d21e; }
+
+.border-color-7-top {
+  border-top-color: #a5d21e; }
+
+.border-color-7-bottom {
+  border-bottom-color: #a5d21e; }
+
+.border-color-7-left {
+  border-left-color: #a5d21e; }
+
+.border-color-7-right {
+  border-right-color: #a5d21e; }
+
+.border-color-8 {
+  border-color: #41c8b9; }
+
+.border-color-8-top {
+  border-top-color: #41c8b9; }
+
+.border-color-8-bottom {
+  border-bottom-color: #41c8b9; }
+
+.border-color-8-left {
+  border-left-color: #41c8b9; }
+
+.border-color-8-right {
+  border-right-color: #41c8b9; }
+
+.border-color-9 {
+  border-color: #ec008c; }
+
+.border-color-9-top {
+  border-top-color: #ec008c; }
+
+.border-color-9-bottom {
+  border-bottom-color: #ec008c; }
+
+.border-color-9-left {
+  border-left-color: #ec008c; }
+
+.border-color-9-right {
+  border-right-color: #ec008c; }
+
+.border-color-1c, .ikit-widget-featured-job .job-items, .ikit-widget-news .news-items, .ikit-widget-events .event-items, .box-item {
+  border-color: black; }
+
+.border-color-1c-top {
+  border-top-color: black; }
+
+.border-color-1c-bottom {
+  border-bottom-color: black; }
+
+.border-color-1c-left {
+  border-left-color: black; }
+
+.border-color-1c-right {
+  border-right-color: black; }
+
+.border-color-1d, .layout .sbOptions, .layout .sbSelector {
+  border-color: black; }
+
+.border-color-1d-top {
+  border-top-color: black; }
+
+.border-color-1d-bottom {
+  border-bottom-color: black; }
+
+.border-color-1d-left {
+  border-left-color: black; }
+
+.border-color-1d-right {
+  border-right-color: black; }
+
+.border-color-1f, .box-button, .gform_wrapper .gform_footer input[type=submit].button {
+  border-color: black; }
+
+.border-color-1f-top {
+  border-top-color: black; }
+
+.border-color-1f-bottom {
+  border-bottom-color: black; }
+
+.border-color-1f-left {
+  border-left-color: black; }
+
+.border-color-1f-right {
+  border-right-color: black; }
+
+/* Font size */
+.font-size-1, .page-header-5-title, .page-header-4-title {
+  font-size: 48px;
+  line-height: 54px; }
+
+.breakpoint-body-size-xl .font-size-1, .breakpoint-body-size-xl .page-header-5-title, .breakpoint-body-size-xl .page-header-4-title {
+  font-size: 48px;
+  line-height: 54px; }
+
+.breakpoint-body-size-l .font-size-1, .breakpoint-body-size-l .page-header-5-title, .breakpoint-body-size-l .page-header-4-title {
+  font-size: 44px;
+  line-height: 48px; }
+
+.breakpoint-body-size-m .font-size-1, .breakpoint-body-size-m .page-header-5-title, .breakpoint-body-size-m .page-header-4-title {
+  font-size: 40px;
+  line-height: 44px; }
+
+.breakpoint-body-size-s .font-size-1, .breakpoint-body-size-s .page-header-5-title, .breakpoint-body-size-s .page-header-4-title {
+  font-size: 30px;
+  line-height: 34px; }
+
+.font-size-2, .ikit-three-widget-featured-events-news-billboard .items .item-attributes, .ikit-three-widget-featured-events-news-billboard .items .item-title, .editor-shortcode-pull-quote {
+  font-size: 36px;
+  line-height: 44px; }
+
+.breakpoint-body-size-xl .font-size-2, .breakpoint-body-size-xl .ikit-three-widget-featured-events-news-billboard .items .item-attributes, .ikit-three-widget-featured-events-news-billboard .items .breakpoint-body-size-xl .item-attributes, .breakpoint-body-size-xl .ikit-three-widget-featured-events-news-billboard .items .item-title, .ikit-three-widget-featured-events-news-billboard .items .breakpoint-body-size-xl .item-title, .breakpoint-body-size-xl .editor-shortcode-pull-quote {
+  font-size: 36px;
+  line-height: 44px; }
+
+.breakpoint-body-size-l .font-size-2, .breakpoint-body-size-l .ikit-three-widget-featured-events-news-billboard .items .item-attributes, .ikit-three-widget-featured-events-news-billboard .items .breakpoint-body-size-l .item-attributes, .breakpoint-body-size-l .ikit-three-widget-featured-events-news-billboard .items .item-title, .ikit-three-widget-featured-events-news-billboard .items .breakpoint-body-size-l .item-title, .breakpoint-body-size-l .editor-shortcode-pull-quote {
+  font-size: 32px;
+  line-height: 36px; }
+
+.breakpoint-body-size-m .font-size-2, .breakpoint-body-size-m .ikit-three-widget-featured-events-news-billboard .items .item-attributes, .ikit-three-widget-featured-events-news-billboard .items .breakpoint-body-size-m .item-attributes, .breakpoint-body-size-m .ikit-three-widget-featured-events-news-billboard .items .item-title, .ikit-three-widget-featured-events-news-billboard .items .breakpoint-body-size-m .item-title, .breakpoint-body-size-m .editor-shortcode-pull-quote {
+  font-size: 32px;
+  line-height: 36px; }
+
+.breakpoint-body-size-s .font-size-2, .breakpoint-body-size-s .ikit-three-widget-featured-events-news-billboard .items .item-attributes, .ikit-three-widget-featured-events-news-billboard .items .breakpoint-body-size-s .item-attributes, .breakpoint-body-size-s .ikit-three-widget-featured-events-news-billboard .items .item-title, .ikit-three-widget-featured-events-news-billboard .items .breakpoint-body-size-s .item-title, .breakpoint-body-size-s .editor-shortcode-pull-quote {
+  font-size: 28px;
+  line-height: 32px; }
+
+.font-size-3, .ikit-widget-quote .quote-item-attribution a,
+.ikit-widget-quote .quote-item-attribution, .ikit-widget-quote .quote-item-text, .page-header-3-title a,
+.page-header-3-title, .no-results {
+  font-size: 30px;
+  line-height: 36px; }
+
+.breakpoint-body-size-xl .font-size-3, .breakpoint-body-size-xl .ikit-widget-quote .quote-item-attribution a, .ikit-widget-quote .quote-item-attribution .breakpoint-body-size-xl a,
+.breakpoint-body-size-xl .ikit-widget-quote .quote-item-attribution,
+.ikit-widget-quote .breakpoint-body-size-xl .quote-item-attribution, .breakpoint-body-size-xl .ikit-widget-quote .quote-item-text, .ikit-widget-quote .breakpoint-body-size-xl .quote-item-text, .breakpoint-body-size-xl .page-header-3-title a, .page-header-3-title .breakpoint-body-size-xl a,
+.breakpoint-body-size-xl .page-header-3-title, .breakpoint-body-size-xl .no-results {
+  font-size: 30px;
+  line-height: 36px; }
+
+.breakpoint-body-size-l .font-size-3, .breakpoint-body-size-l .ikit-widget-quote .quote-item-attribution a, .ikit-widget-quote .quote-item-attribution .breakpoint-body-size-l a,
+.breakpoint-body-size-l .ikit-widget-quote .quote-item-attribution,
+.ikit-widget-quote .breakpoint-body-size-l .quote-item-attribution, .breakpoint-body-size-l .ikit-widget-quote .quote-item-text, .ikit-widget-quote .breakpoint-body-size-l .quote-item-text, .breakpoint-body-size-l .page-header-3-title a, .page-header-3-title .breakpoint-body-size-l a,
+.breakpoint-body-size-l .page-header-3-title, .breakpoint-body-size-l .no-results {
+  font-size: 28px;
+  line-height: 34px; }
+
+.breakpoint-body-size-m .font-size-3, .breakpoint-body-size-m .ikit-widget-quote .quote-item-attribution a, .ikit-widget-quote .quote-item-attribution .breakpoint-body-size-m a,
+.breakpoint-body-size-m .ikit-widget-quote .quote-item-attribution,
+.ikit-widget-quote .breakpoint-body-size-m .quote-item-attribution, .breakpoint-body-size-m .ikit-widget-quote .quote-item-text, .ikit-widget-quote .breakpoint-body-size-m .quote-item-text, .breakpoint-body-size-m .page-header-3-title a, .page-header-3-title .breakpoint-body-size-m a,
+.breakpoint-body-size-m .page-header-3-title, .breakpoint-body-size-m .no-results {
+  font-size: 26px;
+  line-height: 32px; }
+
+.breakpoint-body-size-s .font-size-3, .breakpoint-body-size-s .ikit-widget-quote .quote-item-attribution a, .ikit-widget-quote .quote-item-attribution .breakpoint-body-size-s a,
+.breakpoint-body-size-s .ikit-widget-quote .quote-item-attribution,
+.ikit-widget-quote .breakpoint-body-size-s .quote-item-attribution, .breakpoint-body-size-s .ikit-widget-quote .quote-item-text, .ikit-widget-quote .breakpoint-body-size-s .quote-item-text, .breakpoint-body-size-s .page-header-3-title a, .page-header-3-title .breakpoint-body-size-s a,
+.breakpoint-body-size-s .page-header-3-title, .breakpoint-body-size-s .no-results {
+  font-size: 24px;
+  line-height: 30px; }
+
+.font-size-4, .ikit-three-widget-latest-events-news-billboard .items .item-title, .ikit-widget-featured-video, .ikit-widget-featured-job .job-item-title, .ikit-widget-featured-portfolio .portfolio-item-author, .ikit-widget-featured-portfolio .portfolio-item-project, .ikit-widget-i-am-aiga .member-item-name, .ikit-widget-news .news-item-title, .ikit-widget-events-internal .event-item-title, .ikit-widget-events .event-item-title, .ikit-widget-new-members .member-item-name, .ikit-widget-eyeondesign .eyeondesign-item-title, .ikit-widget-promo .promo-item-text, .related-items .news-item-title, .related-items .event-item-title {
+  font-size: 24px;
+  line-height: 28px; }
+
+.breakpoint-body-size-xl .font-size-4, .breakpoint-body-size-xl .ikit-three-widget-latest-events-news-billboard .items .item-title, .ikit-three-widget-latest-events-news-billboard .items .breakpoint-body-size-xl .item-title, .breakpoint-body-size-xl .ikit-widget-featured-video, .breakpoint-body-size-xl .ikit-widget-featured-job .job-item-title, .ikit-widget-featured-job .breakpoint-body-size-xl .job-item-title, .breakpoint-body-size-xl .ikit-widget-featured-portfolio .portfolio-item-author, .ikit-widget-featured-portfolio .breakpoint-body-size-xl .portfolio-item-author, .breakpoint-body-size-xl .ikit-widget-featured-portfolio .portfolio-item-project, .ikit-widget-featured-portfolio .breakpoint-body-size-xl .portfolio-item-project, .breakpoint-body-size-xl .ikit-widget-i-am-aiga .member-item-name, .ikit-widget-i-am-aiga .breakpoint-body-size-xl .member-item-name, .breakpoint-body-size-xl .ikit-widget-news .news-item-title, .ikit-widget-news .breakpoint-body-size-xl .news-item-title, .breakpoint-body-size-xl .ikit-widget-events-internal .event-item-title, .ikit-widget-events-internal .breakpoint-body-size-xl .event-item-title, .breakpoint-body-size-xl .ikit-widget-events .event-item-title, .ikit-widget-events .breakpoint-body-size-xl .event-item-title, .breakpoint-body-size-xl .ikit-widget-new-members .member-item-name, .ikit-widget-new-members .breakpoint-body-size-xl .member-item-name, .breakpoint-body-size-xl .ikit-widget-eyeondesign .eyeondesign-item-title, .ikit-widget-eyeondesign .breakpoint-body-size-xl .eyeondesign-item-title, .breakpoint-body-size-xl .ikit-widget-promo .promo-item-text, .ikit-widget-promo .breakpoint-body-size-xl .promo-item-text, .breakpoint-body-size-xl .related-items .news-item-title, .related-items .breakpoint-body-size-xl .news-item-title, .breakpoint-body-size-xl .related-items .event-item-title, .related-items .breakpoint-body-size-xl .event-item-title {
+  font-size: 20px;
+  line-height: 24px; }
+
+.breakpoint-body-size-l .font-size-4, .breakpoint-body-size-l .ikit-three-widget-latest-events-news-billboard .items .item-title, .ikit-three-widget-latest-events-news-billboard .items .breakpoint-body-size-l .item-title, .breakpoint-body-size-l .ikit-widget-featured-video, .breakpoint-body-size-l .ikit-widget-featured-job .job-item-title, .ikit-widget-featured-job .breakpoint-body-size-l .job-item-title, .breakpoint-body-size-l .ikit-widget-featured-portfolio .portfolio-item-author, .ikit-widget-featured-portfolio .breakpoint-body-size-l .portfolio-item-author, .breakpoint-body-size-l .ikit-widget-featured-portfolio .portfolio-item-project, .ikit-widget-featured-portfolio .breakpoint-body-size-l .portfolio-item-project, .breakpoint-body-size-l .ikit-widget-i-am-aiga .member-item-name, .ikit-widget-i-am-aiga .breakpoint-body-size-l .member-item-name, .breakpoint-body-size-l .ikit-widget-news .news-item-title, .ikit-widget-news .breakpoint-body-size-l .news-item-title, .breakpoint-body-size-l .ikit-widget-events-internal .event-item-title, .ikit-widget-events-internal .breakpoint-body-size-l .event-item-title, .breakpoint-body-size-l .ikit-widget-events .event-item-title, .ikit-widget-events .breakpoint-body-size-l .event-item-title, .breakpoint-body-size-l .ikit-widget-new-members .member-item-name, .ikit-widget-new-members .breakpoint-body-size-l .member-item-name, .breakpoint-body-size-l .ikit-widget-eyeondesign .eyeondesign-item-title, .ikit-widget-eyeondesign .breakpoint-body-size-l .eyeondesign-item-title, .breakpoint-body-size-l .ikit-widget-promo .promo-item-text, .ikit-widget-promo .breakpoint-body-size-l .promo-item-text, .breakpoint-body-size-l .related-items .news-item-title, .related-items .breakpoint-body-size-l .news-item-title, .breakpoint-body-size-l .related-items .event-item-title, .related-items .breakpoint-body-size-l .event-item-title {
+  font-size: 20px;
+  line-height: 24px; }
+
+.breakpoint-body-size-m .font-size-4, .breakpoint-body-size-m .ikit-three-widget-latest-events-news-billboard .items .item-title, .ikit-three-widget-latest-events-news-billboard .items .breakpoint-body-size-m .item-title, .breakpoint-body-size-m .ikit-widget-featured-video, .breakpoint-body-size-m .ikit-widget-featured-job .job-item-title, .ikit-widget-featured-job .breakpoint-body-size-m .job-item-title, .breakpoint-body-size-m .ikit-widget-featured-portfolio .portfolio-item-author, .ikit-widget-featured-portfolio .breakpoint-body-size-m .portfolio-item-author, .breakpoint-body-size-m .ikit-widget-featured-portfolio .portfolio-item-project, .ikit-widget-featured-portfolio .breakpoint-body-size-m .portfolio-item-project, .breakpoint-body-size-m .ikit-widget-i-am-aiga .member-item-name, .ikit-widget-i-am-aiga .breakpoint-body-size-m .member-item-name, .breakpoint-body-size-m .ikit-widget-news .news-item-title, .ikit-widget-news .breakpoint-body-size-m .news-item-title, .breakpoint-body-size-m .ikit-widget-events-internal .event-item-title, .ikit-widget-events-internal .breakpoint-body-size-m .event-item-title, .breakpoint-body-size-m .ikit-widget-events .event-item-title, .ikit-widget-events .breakpoint-body-size-m .event-item-title, .breakpoint-body-size-m .ikit-widget-new-members .member-item-name, .ikit-widget-new-members .breakpoint-body-size-m .member-item-name, .breakpoint-body-size-m .ikit-widget-eyeondesign .eyeondesign-item-title, .ikit-widget-eyeondesign .breakpoint-body-size-m .eyeondesign-item-title, .breakpoint-body-size-m .ikit-widget-promo .promo-item-text, .ikit-widget-promo .breakpoint-body-size-m .promo-item-text, .breakpoint-body-size-m .related-items .news-item-title, .related-items .breakpoint-body-size-m .news-item-title, .breakpoint-body-size-m .related-items .event-item-title, .related-items .breakpoint-body-size-m .event-item-title {
+  font-size: 20px;
+  line-height: 24px; }
+
+.breakpoint-body-size-s .font-size-4, .breakpoint-body-size-s .ikit-three-widget-latest-events-news-billboard .items .item-title, .ikit-three-widget-latest-events-news-billboard .items .breakpoint-body-size-s .item-title, .breakpoint-body-size-s .ikit-widget-featured-video, .breakpoint-body-size-s .ikit-widget-featured-job .job-item-title, .ikit-widget-featured-job .breakpoint-body-size-s .job-item-title, .breakpoint-body-size-s .ikit-widget-featured-portfolio .portfolio-item-author, .ikit-widget-featured-portfolio .breakpoint-body-size-s .portfolio-item-author, .breakpoint-body-size-s .ikit-widget-featured-portfolio .portfolio-item-project, .ikit-widget-featured-portfolio .breakpoint-body-size-s .portfolio-item-project, .breakpoint-body-size-s .ikit-widget-i-am-aiga .member-item-name, .ikit-widget-i-am-aiga .breakpoint-body-size-s .member-item-name, .breakpoint-body-size-s .ikit-widget-news .news-item-title, .ikit-widget-news .breakpoint-body-size-s .news-item-title, .breakpoint-body-size-s .ikit-widget-events-internal .event-item-title, .ikit-widget-events-internal .breakpoint-body-size-s .event-item-title, .breakpoint-body-size-s .ikit-widget-events .event-item-title, .ikit-widget-events .breakpoint-body-size-s .event-item-title, .breakpoint-body-size-s .ikit-widget-new-members .member-item-name, .ikit-widget-new-members .breakpoint-body-size-s .member-item-name, .breakpoint-body-size-s .ikit-widget-eyeondesign .eyeondesign-item-title, .ikit-widget-eyeondesign .breakpoint-body-size-s .eyeondesign-item-title, .breakpoint-body-size-s .ikit-widget-promo .promo-item-text, .ikit-widget-promo .breakpoint-body-size-s .promo-item-text, .breakpoint-body-size-s .related-items .news-item-title, .related-items .breakpoint-body-size-s .news-item-title, .breakpoint-body-size-s .related-items .event-item-title, .related-items .breakpoint-body-size-s .event-item-title {
+  font-size: 18px;
+  line-height: 22px; }
+
+.font-size-5, .ikit-three-widget-featured-events-news-billboard .items .item-description, .page-layout-4-body-paragraph-text, .layout .gform_wrapper .gsection, .header .header-compact-search input, .comments .comments-disclaimer,
+.comments .nocomments {
+  font-size: 18px;
+  line-height: 30px; }
+
+.breakpoint-body-size-xl .font-size-5, .breakpoint-body-size-xl .ikit-three-widget-featured-events-news-billboard .items .item-description, .ikit-three-widget-featured-events-news-billboard .items .breakpoint-body-size-xl .item-description, .breakpoint-body-size-xl .page-layout-4-body-paragraph-text, .breakpoint-body-size-xl .layout .gform_wrapper .gsection, .layout .gform_wrapper .breakpoint-body-size-xl .gsection, .breakpoint-body-size-xl .header .header-compact-search input, .header .header-compact-search .breakpoint-body-size-xl input, .breakpoint-body-size-xl .comments .comments-disclaimer, .comments .breakpoint-body-size-xl .comments-disclaimer,
+.breakpoint-body-size-xl .comments .nocomments,
+.comments .breakpoint-body-size-xl .nocomments {
+  font-size: 18px;
+  line-height: 30px; }
+
+.breakpoint-body-size-l .font-size-5, .breakpoint-body-size-l .ikit-three-widget-featured-events-news-billboard .items .item-description, .ikit-three-widget-featured-events-news-billboard .items .breakpoint-body-size-l .item-description, .breakpoint-body-size-l .page-layout-4-body-paragraph-text, .breakpoint-body-size-l .layout .gform_wrapper .gsection, .layout .gform_wrapper .breakpoint-body-size-l .gsection, .breakpoint-body-size-l .header .header-compact-search input, .header .header-compact-search .breakpoint-body-size-l input, .breakpoint-body-size-l .comments .comments-disclaimer, .comments .breakpoint-body-size-l .comments-disclaimer,
+.breakpoint-body-size-l .comments .nocomments,
+.comments .breakpoint-body-size-l .nocomments {
+  font-size: 16px;
+  line-height: 24px; }
+
+.breakpoint-body-size-m .font-size-5, .breakpoint-body-size-m .ikit-three-widget-featured-events-news-billboard .items .item-description, .ikit-three-widget-featured-events-news-billboard .items .breakpoint-body-size-m .item-description, .breakpoint-body-size-m .page-layout-4-body-paragraph-text, .breakpoint-body-size-m .layout .gform_wrapper .gsection, .layout .gform_wrapper .breakpoint-body-size-m .gsection, .breakpoint-body-size-m .header .header-compact-search input, .header .header-compact-search .breakpoint-body-size-m input, .breakpoint-body-size-m .comments .comments-disclaimer, .comments .breakpoint-body-size-m .comments-disclaimer,
+.breakpoint-body-size-m .comments .nocomments,
+.comments .breakpoint-body-size-m .nocomments {
+  font-size: 16px;
+  line-height: 24px; }
+
+.breakpoint-body-size-s .font-size-5, .breakpoint-body-size-s .ikit-three-widget-featured-events-news-billboard .items .item-description, .ikit-three-widget-featured-events-news-billboard .items .breakpoint-body-size-s .item-description, .breakpoint-body-size-s .page-layout-4-body-paragraph-text, .breakpoint-body-size-s .layout .gform_wrapper .gsection, .layout .gform_wrapper .breakpoint-body-size-s .gsection, .breakpoint-body-size-s .header .header-compact-search input, .header .header-compact-search .breakpoint-body-size-s input, .breakpoint-body-size-s .comments .comments-disclaimer, .comments .breakpoint-body-size-s .comments-disclaimer,
+.breakpoint-body-size-s .comments .nocomments,
+.comments .breakpoint-body-size-s .nocomments {
+  font-size: 16px;
+  line-height: 24px; }
+
+.font-size-6, .ikit-three-widget-latest-events-news-billboard .items .item-attributes, .ikit-three-widget-latest-events-news-billboard .items .item-description, .ikit-widget-mailing-list .mailing-list-description, .ikit-widget-featured-job .job-item-company, .ikit-widget-twitter .twitter-item, .ikit-widget-news .news-item-external-source, .ikit-widget-news .news-item-author,
+.ikit-widget-news .news-item-date, .ikit-widget-news .news-item-description, .ikit-widget-events-internal .event-item-external-source,
+.ikit-widget-events-internal .event-item-internal-source, .ikit-widget-events-internal .event-item-time,
+.ikit-widget-events-internal .event-item-date, .ikit-widget-events-internal .event-item-location, .ikit-widget-events-internal .event-item-description, .ikit-widget-events .event-item-external-source,
+.ikit-widget-events .event-item-internal-source, .ikit-widget-events .event-item-time,
+.ikit-widget-events .event-item-date, .ikit-widget-events .event-item-location, .ikit-widget-events .event-item-description, .ikit-widget-facebook .facebook-item-message,
+.ikit-widget-facebook .facebook-item-name, .ikit-widget-new-members .member-item-type,
+.ikit-widget-new-members .member-item-date, .widget_text .widget-content, .ikit-widget-page .page-content, .page-layout-5-body-title, .page-layout-4-attribute-text, .page-layout-4-body-description-inner, .page-layout-4-attribute-header, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text],
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email],
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel], .layout .gform_wrapper .gfield_required, .gform_wrapper .top_label textarea, .layout .gform_wrapper .validation_message,
+.layout .gform_wrapper .validation_error, .gform_wrapper .top_label .gfield_label, .layout .gform_wrapper .gfield_checkbox label,
+.layout .gform_wrapper .gfield_radio label, .layout .gform_wrapper .gfield_html, .layout .sbHolder a, .header-compact-menu, .header-layout .header-search-bar input, .header-layout, .footer-social-links li,
+.footer-social-links a, .footer-contact-info,
+.footer-copyright,
+.footer-mailing-list-help, .footer-credit, .footer .footer-header, .widgettitle, .toc-link, .related-items .news-item-external-source, .related-items .news-item-author,
+.related-items .news-item-date, .related-items .news-item-description, .related-items .event-item-external-source,
+.related-items .event-item-internal-source, .related-items .event-item-time,
+.related-items .event-item-date, .related-items .event-item-location, .related-items .event-item-description, .layout .social-share-container .atcb-item a, .box-input, .box-button, .gform_wrapper .gform_footer input[type=submit].button, .editor-shortcode-image-gallery-slideshow-caption, .editor-shortcode-service-video-caption, .editor-shortcode-image-caption, .wp-caption {
+  font-size: 14px;
+  line-height: 22px; }
+
+.breakpoint-body-size-xl .font-size-6, .breakpoint-body-size-xl .ikit-three-widget-latest-events-news-billboard .items .item-attributes, .ikit-three-widget-latest-events-news-billboard .items .breakpoint-body-size-xl .item-attributes, .breakpoint-body-size-xl .ikit-three-widget-latest-events-news-billboard .items .item-description, .ikit-three-widget-latest-events-news-billboard .items .breakpoint-body-size-xl .item-description, .breakpoint-body-size-xl .ikit-widget-mailing-list .mailing-list-description, .ikit-widget-mailing-list .breakpoint-body-size-xl .mailing-list-description, .breakpoint-body-size-xl .ikit-widget-featured-job .job-item-company, .ikit-widget-featured-job .breakpoint-body-size-xl .job-item-company, .breakpoint-body-size-xl .ikit-widget-twitter .twitter-item, .ikit-widget-twitter .breakpoint-body-size-xl .twitter-item, .breakpoint-body-size-xl .ikit-widget-news .news-item-external-source, .ikit-widget-news .breakpoint-body-size-xl .news-item-external-source, .breakpoint-body-size-xl .ikit-widget-news .news-item-author, .ikit-widget-news .breakpoint-body-size-xl .news-item-author,
+.breakpoint-body-size-xl .ikit-widget-news .news-item-date,
+.ikit-widget-news .breakpoint-body-size-xl .news-item-date, .breakpoint-body-size-xl .ikit-widget-news .news-item-description, .ikit-widget-news .breakpoint-body-size-xl .news-item-description, .breakpoint-body-size-xl .ikit-widget-events-internal .event-item-external-source, .ikit-widget-events-internal .breakpoint-body-size-xl .event-item-external-source,
+.breakpoint-body-size-xl .ikit-widget-events-internal .event-item-internal-source,
+.ikit-widget-events-internal .breakpoint-body-size-xl .event-item-internal-source, .breakpoint-body-size-xl .ikit-widget-events-internal .event-item-time, .ikit-widget-events-internal .breakpoint-body-size-xl .event-item-time,
+.breakpoint-body-size-xl .ikit-widget-events-internal .event-item-date,
+.ikit-widget-events-internal .breakpoint-body-size-xl .event-item-date, .breakpoint-body-size-xl .ikit-widget-events-internal .event-item-location, .ikit-widget-events-internal .breakpoint-body-size-xl .event-item-location, .breakpoint-body-size-xl .ikit-widget-events-internal .event-item-description, .ikit-widget-events-internal .breakpoint-body-size-xl .event-item-description, .breakpoint-body-size-xl .ikit-widget-events .event-item-external-source, .ikit-widget-events .breakpoint-body-size-xl .event-item-external-source,
+.breakpoint-body-size-xl .ikit-widget-events .event-item-internal-source,
+.ikit-widget-events .breakpoint-body-size-xl .event-item-internal-source, .breakpoint-body-size-xl .ikit-widget-events .event-item-time, .ikit-widget-events .breakpoint-body-size-xl .event-item-time,
+.breakpoint-body-size-xl .ikit-widget-events .event-item-date,
+.ikit-widget-events .breakpoint-body-size-xl .event-item-date, .breakpoint-body-size-xl .ikit-widget-events .event-item-location, .ikit-widget-events .breakpoint-body-size-xl .event-item-location, .breakpoint-body-size-xl .ikit-widget-events .event-item-description, .ikit-widget-events .breakpoint-body-size-xl .event-item-description, .breakpoint-body-size-xl .ikit-widget-facebook .facebook-item-message, .ikit-widget-facebook .breakpoint-body-size-xl .facebook-item-message,
+.breakpoint-body-size-xl .ikit-widget-facebook .facebook-item-name,
+.ikit-widget-facebook .breakpoint-body-size-xl .facebook-item-name, .breakpoint-body-size-xl .ikit-widget-new-members .member-item-type, .ikit-widget-new-members .breakpoint-body-size-xl .member-item-type,
+.breakpoint-body-size-xl .ikit-widget-new-members .member-item-date,
+.ikit-widget-new-members .breakpoint-body-size-xl .member-item-date, .breakpoint-body-size-xl .widget_text .widget-content, .widget_text .breakpoint-body-size-xl .widget-content, .breakpoint-body-size-xl .ikit-widget-page .page-content, .ikit-widget-page .breakpoint-body-size-xl .page-content, .breakpoint-body-size-xl .page-layout-5-body-title, .breakpoint-body-size-xl .page-layout-4-attribute-text, .breakpoint-body-size-xl .page-layout-4-body-description-inner, .breakpoint-body-size-xl .page-layout-4-attribute-header, .breakpoint-body-size-xl body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text], body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container .breakpoint-body-size-xl input[type=text],
+.breakpoint-body-size-xl body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email],
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container .breakpoint-body-size-xl input[type=email],
+.breakpoint-body-size-xl body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel],
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container .breakpoint-body-size-xl input[type=tel], .breakpoint-body-size-xl .layout .gform_wrapper .gfield_required, .layout .gform_wrapper .breakpoint-body-size-xl .gfield_required, .breakpoint-body-size-xl .gform_wrapper .top_label textarea, .gform_wrapper .top_label .breakpoint-body-size-xl textarea, .breakpoint-body-size-xl .layout .gform_wrapper .validation_message, .layout .gform_wrapper .breakpoint-body-size-xl .validation_message,
+.breakpoint-body-size-xl .layout .gform_wrapper .validation_error,
+.layout .gform_wrapper .breakpoint-body-size-xl .validation_error, .breakpoint-body-size-xl .gform_wrapper .top_label .gfield_label, .gform_wrapper .top_label .breakpoint-body-size-xl .gfield_label, .breakpoint-body-size-xl .layout .gform_wrapper .gfield_checkbox label, .layout .gform_wrapper .gfield_checkbox .breakpoint-body-size-xl label,
+.breakpoint-body-size-xl .layout .gform_wrapper .gfield_radio label,
+.layout .gform_wrapper .gfield_radio .breakpoint-body-size-xl label, .breakpoint-body-size-xl .layout .gform_wrapper .gfield_html, .layout .gform_wrapper .breakpoint-body-size-xl .gfield_html, .breakpoint-body-size-xl .layout .sbHolder a, .layout .sbHolder .breakpoint-body-size-xl a, .breakpoint-body-size-xl .header-compact-menu, .breakpoint-body-size-xl .header-layout .header-search-bar input, .header-layout .header-search-bar .breakpoint-body-size-xl input, .breakpoint-body-size-xl .header-layout, .breakpoint-body-size-xl .footer-social-links li, .footer-social-links .breakpoint-body-size-xl li,
+.breakpoint-body-size-xl .footer-social-links a,
+.footer-social-links .breakpoint-body-size-xl a, .breakpoint-body-size-xl .footer-contact-info,
+.breakpoint-body-size-xl .footer-copyright,
+.breakpoint-body-size-xl .footer-mailing-list-help, .breakpoint-body-size-xl .footer-credit, .breakpoint-body-size-xl .footer .footer-header, .footer .breakpoint-body-size-xl .footer-header, .breakpoint-body-size-xl .widgettitle, .breakpoint-body-size-xl .toc-link, .breakpoint-body-size-xl .related-items .news-item-external-source, .related-items .breakpoint-body-size-xl .news-item-external-source, .breakpoint-body-size-xl .related-items .news-item-author, .related-items .breakpoint-body-size-xl .news-item-author,
+.breakpoint-body-size-xl .related-items .news-item-date,
+.related-items .breakpoint-body-size-xl .news-item-date, .breakpoint-body-size-xl .related-items .news-item-description, .related-items .breakpoint-body-size-xl .news-item-description, .breakpoint-body-size-xl .related-items .event-item-external-source, .related-items .breakpoint-body-size-xl .event-item-external-source,
+.breakpoint-body-size-xl .related-items .event-item-internal-source,
+.related-items .breakpoint-body-size-xl .event-item-internal-source, .breakpoint-body-size-xl .related-items .event-item-time, .related-items .breakpoint-body-size-xl .event-item-time,
+.breakpoint-body-size-xl .related-items .event-item-date,
+.related-items .breakpoint-body-size-xl .event-item-date, .breakpoint-body-size-xl .related-items .event-item-location, .related-items .breakpoint-body-size-xl .event-item-location, .breakpoint-body-size-xl .related-items .event-item-description, .related-items .breakpoint-body-size-xl .event-item-description, .breakpoint-body-size-xl .layout .social-share-container .atcb-item a, .layout .social-share-container .atcb-item .breakpoint-body-size-xl a, .breakpoint-body-size-xl .box-input, .breakpoint-body-size-xl .box-button, .breakpoint-body-size-xl .gform_wrapper .gform_footer input[type=submit].button, .gform_wrapper .gform_footer .breakpoint-body-size-xl input[type=submit].button, .breakpoint-body-size-xl .editor-shortcode-image-gallery-slideshow-caption, .breakpoint-body-size-xl .editor-shortcode-service-video-caption, .breakpoint-body-size-xl .editor-shortcode-image-caption, .breakpoint-body-size-xl .wp-caption {
+  font-size: 14px;
+  line-height: 22px; }
+
+.breakpoint-body-size-l .font-size-6, .breakpoint-body-size-l .ikit-three-widget-latest-events-news-billboard .items .item-attributes, .ikit-three-widget-latest-events-news-billboard .items .breakpoint-body-size-l .item-attributes, .breakpoint-body-size-l .ikit-three-widget-latest-events-news-billboard .items .item-description, .ikit-three-widget-latest-events-news-billboard .items .breakpoint-body-size-l .item-description, .breakpoint-body-size-l .ikit-widget-mailing-list .mailing-list-description, .ikit-widget-mailing-list .breakpoint-body-size-l .mailing-list-description, .breakpoint-body-size-l .ikit-widget-featured-job .job-item-company, .ikit-widget-featured-job .breakpoint-body-size-l .job-item-company, .breakpoint-body-size-l .ikit-widget-twitter .twitter-item, .ikit-widget-twitter .breakpoint-body-size-l .twitter-item, .breakpoint-body-size-l .ikit-widget-news .news-item-external-source, .ikit-widget-news .breakpoint-body-size-l .news-item-external-source, .breakpoint-body-size-l .ikit-widget-news .news-item-author, .ikit-widget-news .breakpoint-body-size-l .news-item-author,
+.breakpoint-body-size-l .ikit-widget-news .news-item-date,
+.ikit-widget-news .breakpoint-body-size-l .news-item-date, .breakpoint-body-size-l .ikit-widget-news .news-item-description, .ikit-widget-news .breakpoint-body-size-l .news-item-description, .breakpoint-body-size-l .ikit-widget-events-internal .event-item-external-source, .ikit-widget-events-internal .breakpoint-body-size-l .event-item-external-source,
+.breakpoint-body-size-l .ikit-widget-events-internal .event-item-internal-source,
+.ikit-widget-events-internal .breakpoint-body-size-l .event-item-internal-source, .breakpoint-body-size-l .ikit-widget-events-internal .event-item-time, .ikit-widget-events-internal .breakpoint-body-size-l .event-item-time,
+.breakpoint-body-size-l .ikit-widget-events-internal .event-item-date,
+.ikit-widget-events-internal .breakpoint-body-size-l .event-item-date, .breakpoint-body-size-l .ikit-widget-events-internal .event-item-location, .ikit-widget-events-internal .breakpoint-body-size-l .event-item-location, .breakpoint-body-size-l .ikit-widget-events-internal .event-item-description, .ikit-widget-events-internal .breakpoint-body-size-l .event-item-description, .breakpoint-body-size-l .ikit-widget-events .event-item-external-source, .ikit-widget-events .breakpoint-body-size-l .event-item-external-source,
+.breakpoint-body-size-l .ikit-widget-events .event-item-internal-source,
+.ikit-widget-events .breakpoint-body-size-l .event-item-internal-source, .breakpoint-body-size-l .ikit-widget-events .event-item-time, .ikit-widget-events .breakpoint-body-size-l .event-item-time,
+.breakpoint-body-size-l .ikit-widget-events .event-item-date,
+.ikit-widget-events .breakpoint-body-size-l .event-item-date, .breakpoint-body-size-l .ikit-widget-events .event-item-location, .ikit-widget-events .breakpoint-body-size-l .event-item-location, .breakpoint-body-size-l .ikit-widget-events .event-item-description, .ikit-widget-events .breakpoint-body-size-l .event-item-description, .breakpoint-body-size-l .ikit-widget-facebook .facebook-item-message, .ikit-widget-facebook .breakpoint-body-size-l .facebook-item-message,
+.breakpoint-body-size-l .ikit-widget-facebook .facebook-item-name,
+.ikit-widget-facebook .breakpoint-body-size-l .facebook-item-name, .breakpoint-body-size-l .ikit-widget-new-members .member-item-type, .ikit-widget-new-members .breakpoint-body-size-l .member-item-type,
+.breakpoint-body-size-l .ikit-widget-new-members .member-item-date,
+.ikit-widget-new-members .breakpoint-body-size-l .member-item-date, .breakpoint-body-size-l .widget_text .widget-content, .widget_text .breakpoint-body-size-l .widget-content, .breakpoint-body-size-l .ikit-widget-page .page-content, .ikit-widget-page .breakpoint-body-size-l .page-content, .breakpoint-body-size-l .page-layout-5-body-title, .breakpoint-body-size-l .page-layout-4-attribute-text, .breakpoint-body-size-l .page-layout-4-body-description-inner, .breakpoint-body-size-l .page-layout-4-attribute-header, .breakpoint-body-size-l body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text], body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container .breakpoint-body-size-l input[type=text],
+.breakpoint-body-size-l body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email],
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container .breakpoint-body-size-l input[type=email],
+.breakpoint-body-size-l body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel],
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container .breakpoint-body-size-l input[type=tel], .breakpoint-body-size-l .layout .gform_wrapper .gfield_required, .layout .gform_wrapper .breakpoint-body-size-l .gfield_required, .breakpoint-body-size-l .gform_wrapper .top_label textarea, .gform_wrapper .top_label .breakpoint-body-size-l textarea, .breakpoint-body-size-l .layout .gform_wrapper .validation_message, .layout .gform_wrapper .breakpoint-body-size-l .validation_message,
+.breakpoint-body-size-l .layout .gform_wrapper .validation_error,
+.layout .gform_wrapper .breakpoint-body-size-l .validation_error, .breakpoint-body-size-l .gform_wrapper .top_label .gfield_label, .gform_wrapper .top_label .breakpoint-body-size-l .gfield_label, .breakpoint-body-size-l .layout .gform_wrapper .gfield_checkbox label, .layout .gform_wrapper .gfield_checkbox .breakpoint-body-size-l label,
+.breakpoint-body-size-l .layout .gform_wrapper .gfield_radio label,
+.layout .gform_wrapper .gfield_radio .breakpoint-body-size-l label, .breakpoint-body-size-l .layout .gform_wrapper .gfield_html, .layout .gform_wrapper .breakpoint-body-size-l .gfield_html, .breakpoint-body-size-l .layout .sbHolder a, .layout .sbHolder .breakpoint-body-size-l a, .breakpoint-body-size-l .header-compact-menu, .breakpoint-body-size-l .header-layout .header-search-bar input, .header-layout .header-search-bar .breakpoint-body-size-l input, .breakpoint-body-size-l .header-layout, .breakpoint-body-size-l .footer-social-links li, .footer-social-links .breakpoint-body-size-l li,
+.breakpoint-body-size-l .footer-social-links a,
+.footer-social-links .breakpoint-body-size-l a, .breakpoint-body-size-l .footer-contact-info,
+.breakpoint-body-size-l .footer-copyright,
+.breakpoint-body-size-l .footer-mailing-list-help, .breakpoint-body-size-l .footer-credit, .breakpoint-body-size-l .footer .footer-header, .footer .breakpoint-body-size-l .footer-header, .breakpoint-body-size-l .widgettitle, .breakpoint-body-size-l .toc-link, .breakpoint-body-size-l .related-items .news-item-external-source, .related-items .breakpoint-body-size-l .news-item-external-source, .breakpoint-body-size-l .related-items .news-item-author, .related-items .breakpoint-body-size-l .news-item-author,
+.breakpoint-body-size-l .related-items .news-item-date,
+.related-items .breakpoint-body-size-l .news-item-date, .breakpoint-body-size-l .related-items .news-item-description, .related-items .breakpoint-body-size-l .news-item-description, .breakpoint-body-size-l .related-items .event-item-external-source, .related-items .breakpoint-body-size-l .event-item-external-source,
+.breakpoint-body-size-l .related-items .event-item-internal-source,
+.related-items .breakpoint-body-size-l .event-item-internal-source, .breakpoint-body-size-l .related-items .event-item-time, .related-items .breakpoint-body-size-l .event-item-time,
+.breakpoint-body-size-l .related-items .event-item-date,
+.related-items .breakpoint-body-size-l .event-item-date, .breakpoint-body-size-l .related-items .event-item-location, .related-items .breakpoint-body-size-l .event-item-location, .breakpoint-body-size-l .related-items .event-item-description, .related-items .breakpoint-body-size-l .event-item-description, .breakpoint-body-size-l .layout .social-share-container .atcb-item a, .layout .social-share-container .atcb-item .breakpoint-body-size-l a, .breakpoint-body-size-l .box-input, .breakpoint-body-size-l .box-button, .breakpoint-body-size-l .gform_wrapper .gform_footer input[type=submit].button, .gform_wrapper .gform_footer .breakpoint-body-size-l input[type=submit].button, .breakpoint-body-size-l .editor-shortcode-image-gallery-slideshow-caption, .breakpoint-body-size-l .editor-shortcode-service-video-caption, .breakpoint-body-size-l .editor-shortcode-image-caption, .breakpoint-body-size-l .wp-caption {
+  font-size: 14px;
+  line-height: 22px; }
+
+.breakpoint-body-size-m .font-size-6, .breakpoint-body-size-m .ikit-three-widget-latest-events-news-billboard .items .item-attributes, .ikit-three-widget-latest-events-news-billboard .items .breakpoint-body-size-m .item-attributes, .breakpoint-body-size-m .ikit-three-widget-latest-events-news-billboard .items .item-description, .ikit-three-widget-latest-events-news-billboard .items .breakpoint-body-size-m .item-description, .breakpoint-body-size-m .ikit-widget-mailing-list .mailing-list-description, .ikit-widget-mailing-list .breakpoint-body-size-m .mailing-list-description, .breakpoint-body-size-m .ikit-widget-featured-job .job-item-company, .ikit-widget-featured-job .breakpoint-body-size-m .job-item-company, .breakpoint-body-size-m .ikit-widget-twitter .twitter-item, .ikit-widget-twitter .breakpoint-body-size-m .twitter-item, .breakpoint-body-size-m .ikit-widget-news .news-item-external-source, .ikit-widget-news .breakpoint-body-size-m .news-item-external-source, .breakpoint-body-size-m .ikit-widget-news .news-item-author, .ikit-widget-news .breakpoint-body-size-m .news-item-author,
+.breakpoint-body-size-m .ikit-widget-news .news-item-date,
+.ikit-widget-news .breakpoint-body-size-m .news-item-date, .breakpoint-body-size-m .ikit-widget-news .news-item-description, .ikit-widget-news .breakpoint-body-size-m .news-item-description, .breakpoint-body-size-m .ikit-widget-events-internal .event-item-external-source, .ikit-widget-events-internal .breakpoint-body-size-m .event-item-external-source,
+.breakpoint-body-size-m .ikit-widget-events-internal .event-item-internal-source,
+.ikit-widget-events-internal .breakpoint-body-size-m .event-item-internal-source, .breakpoint-body-size-m .ikit-widget-events-internal .event-item-time, .ikit-widget-events-internal .breakpoint-body-size-m .event-item-time,
+.breakpoint-body-size-m .ikit-widget-events-internal .event-item-date,
+.ikit-widget-events-internal .breakpoint-body-size-m .event-item-date, .breakpoint-body-size-m .ikit-widget-events-internal .event-item-location, .ikit-widget-events-internal .breakpoint-body-size-m .event-item-location, .breakpoint-body-size-m .ikit-widget-events-internal .event-item-description, .ikit-widget-events-internal .breakpoint-body-size-m .event-item-description, .breakpoint-body-size-m .ikit-widget-events .event-item-external-source, .ikit-widget-events .breakpoint-body-size-m .event-item-external-source,
+.breakpoint-body-size-m .ikit-widget-events .event-item-internal-source,
+.ikit-widget-events .breakpoint-body-size-m .event-item-internal-source, .breakpoint-body-size-m .ikit-widget-events .event-item-time, .ikit-widget-events .breakpoint-body-size-m .event-item-time,
+.breakpoint-body-size-m .ikit-widget-events .event-item-date,
+.ikit-widget-events .breakpoint-body-size-m .event-item-date, .breakpoint-body-size-m .ikit-widget-events .event-item-location, .ikit-widget-events .breakpoint-body-size-m .event-item-location, .breakpoint-body-size-m .ikit-widget-events .event-item-description, .ikit-widget-events .breakpoint-body-size-m .event-item-description, .breakpoint-body-size-m .ikit-widget-facebook .facebook-item-message, .ikit-widget-facebook .breakpoint-body-size-m .facebook-item-message,
+.breakpoint-body-size-m .ikit-widget-facebook .facebook-item-name,
+.ikit-widget-facebook .breakpoint-body-size-m .facebook-item-name, .breakpoint-body-size-m .ikit-widget-new-members .member-item-type, .ikit-widget-new-members .breakpoint-body-size-m .member-item-type,
+.breakpoint-body-size-m .ikit-widget-new-members .member-item-date,
+.ikit-widget-new-members .breakpoint-body-size-m .member-item-date, .breakpoint-body-size-m .widget_text .widget-content, .widget_text .breakpoint-body-size-m .widget-content, .breakpoint-body-size-m .ikit-widget-page .page-content, .ikit-widget-page .breakpoint-body-size-m .page-content, .breakpoint-body-size-m .page-layout-5-body-title, .breakpoint-body-size-m .page-layout-4-attribute-text, .breakpoint-body-size-m .page-layout-4-body-description-inner, .breakpoint-body-size-m .page-layout-4-attribute-header, .breakpoint-body-size-m body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text], body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container .breakpoint-body-size-m input[type=text],
+.breakpoint-body-size-m body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email],
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container .breakpoint-body-size-m input[type=email],
+.breakpoint-body-size-m body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel],
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container .breakpoint-body-size-m input[type=tel], .breakpoint-body-size-m .layout .gform_wrapper .gfield_required, .layout .gform_wrapper .breakpoint-body-size-m .gfield_required, .breakpoint-body-size-m .gform_wrapper .top_label textarea, .gform_wrapper .top_label .breakpoint-body-size-m textarea, .breakpoint-body-size-m .layout .gform_wrapper .validation_message, .layout .gform_wrapper .breakpoint-body-size-m .validation_message,
+.breakpoint-body-size-m .layout .gform_wrapper .validation_error,
+.layout .gform_wrapper .breakpoint-body-size-m .validation_error, .breakpoint-body-size-m .gform_wrapper .top_label .gfield_label, .gform_wrapper .top_label .breakpoint-body-size-m .gfield_label, .breakpoint-body-size-m .layout .gform_wrapper .gfield_checkbox label, .layout .gform_wrapper .gfield_checkbox .breakpoint-body-size-m label,
+.breakpoint-body-size-m .layout .gform_wrapper .gfield_radio label,
+.layout .gform_wrapper .gfield_radio .breakpoint-body-size-m label, .breakpoint-body-size-m .layout .gform_wrapper .gfield_html, .layout .gform_wrapper .breakpoint-body-size-m .gfield_html, .breakpoint-body-size-m .layout .sbHolder a, .layout .sbHolder .breakpoint-body-size-m a, .breakpoint-body-size-m .header-compact-menu, .breakpoint-body-size-m .header-layout .header-search-bar input, .header-layout .header-search-bar .breakpoint-body-size-m input, .breakpoint-body-size-m .header-layout, .breakpoint-body-size-m .footer-social-links li, .footer-social-links .breakpoint-body-size-m li,
+.breakpoint-body-size-m .footer-social-links a,
+.footer-social-links .breakpoint-body-size-m a, .breakpoint-body-size-m .footer-contact-info,
+.breakpoint-body-size-m .footer-copyright,
+.breakpoint-body-size-m .footer-mailing-list-help, .breakpoint-body-size-m .footer-credit, .breakpoint-body-size-m .footer .footer-header, .footer .breakpoint-body-size-m .footer-header, .breakpoint-body-size-m .widgettitle, .breakpoint-body-size-m .toc-link, .breakpoint-body-size-m .related-items .news-item-external-source, .related-items .breakpoint-body-size-m .news-item-external-source, .breakpoint-body-size-m .related-items .news-item-author, .related-items .breakpoint-body-size-m .news-item-author,
+.breakpoint-body-size-m .related-items .news-item-date,
+.related-items .breakpoint-body-size-m .news-item-date, .breakpoint-body-size-m .related-items .news-item-description, .related-items .breakpoint-body-size-m .news-item-description, .breakpoint-body-size-m .related-items .event-item-external-source, .related-items .breakpoint-body-size-m .event-item-external-source,
+.breakpoint-body-size-m .related-items .event-item-internal-source,
+.related-items .breakpoint-body-size-m .event-item-internal-source, .breakpoint-body-size-m .related-items .event-item-time, .related-items .breakpoint-body-size-m .event-item-time,
+.breakpoint-body-size-m .related-items .event-item-date,
+.related-items .breakpoint-body-size-m .event-item-date, .breakpoint-body-size-m .related-items .event-item-location, .related-items .breakpoint-body-size-m .event-item-location, .breakpoint-body-size-m .related-items .event-item-description, .related-items .breakpoint-body-size-m .event-item-description, .breakpoint-body-size-m .layout .social-share-container .atcb-item a, .layout .social-share-container .atcb-item .breakpoint-body-size-m a, .breakpoint-body-size-m .box-input, .breakpoint-body-size-m .box-button, .breakpoint-body-size-m .gform_wrapper .gform_footer input[type=submit].button, .gform_wrapper .gform_footer .breakpoint-body-size-m input[type=submit].button, .breakpoint-body-size-m .editor-shortcode-image-gallery-slideshow-caption, .breakpoint-body-size-m .editor-shortcode-service-video-caption, .breakpoint-body-size-m .editor-shortcode-image-caption, .breakpoint-body-size-m .wp-caption {
+  font-size: 13px;
+  line-height: 20px; }
+
+.breakpoint-body-size-s .font-size-6, .breakpoint-body-size-s .ikit-three-widget-latest-events-news-billboard .items .item-attributes, .ikit-three-widget-latest-events-news-billboard .items .breakpoint-body-size-s .item-attributes, .breakpoint-body-size-s .ikit-three-widget-latest-events-news-billboard .items .item-description, .ikit-three-widget-latest-events-news-billboard .items .breakpoint-body-size-s .item-description, .breakpoint-body-size-s .ikit-widget-mailing-list .mailing-list-description, .ikit-widget-mailing-list .breakpoint-body-size-s .mailing-list-description, .breakpoint-body-size-s .ikit-widget-featured-job .job-item-company, .ikit-widget-featured-job .breakpoint-body-size-s .job-item-company, .breakpoint-body-size-s .ikit-widget-twitter .twitter-item, .ikit-widget-twitter .breakpoint-body-size-s .twitter-item, .breakpoint-body-size-s .ikit-widget-news .news-item-external-source, .ikit-widget-news .breakpoint-body-size-s .news-item-external-source, .breakpoint-body-size-s .ikit-widget-news .news-item-author, .ikit-widget-news .breakpoint-body-size-s .news-item-author,
+.breakpoint-body-size-s .ikit-widget-news .news-item-date,
+.ikit-widget-news .breakpoint-body-size-s .news-item-date, .breakpoint-body-size-s .ikit-widget-news .news-item-description, .ikit-widget-news .breakpoint-body-size-s .news-item-description, .breakpoint-body-size-s .ikit-widget-events-internal .event-item-external-source, .ikit-widget-events-internal .breakpoint-body-size-s .event-item-external-source,
+.breakpoint-body-size-s .ikit-widget-events-internal .event-item-internal-source,
+.ikit-widget-events-internal .breakpoint-body-size-s .event-item-internal-source, .breakpoint-body-size-s .ikit-widget-events-internal .event-item-time, .ikit-widget-events-internal .breakpoint-body-size-s .event-item-time,
+.breakpoint-body-size-s .ikit-widget-events-internal .event-item-date,
+.ikit-widget-events-internal .breakpoint-body-size-s .event-item-date, .breakpoint-body-size-s .ikit-widget-events-internal .event-item-location, .ikit-widget-events-internal .breakpoint-body-size-s .event-item-location, .breakpoint-body-size-s .ikit-widget-events-internal .event-item-description, .ikit-widget-events-internal .breakpoint-body-size-s .event-item-description, .breakpoint-body-size-s .ikit-widget-events .event-item-external-source, .ikit-widget-events .breakpoint-body-size-s .event-item-external-source,
+.breakpoint-body-size-s .ikit-widget-events .event-item-internal-source,
+.ikit-widget-events .breakpoint-body-size-s .event-item-internal-source, .breakpoint-body-size-s .ikit-widget-events .event-item-time, .ikit-widget-events .breakpoint-body-size-s .event-item-time,
+.breakpoint-body-size-s .ikit-widget-events .event-item-date,
+.ikit-widget-events .breakpoint-body-size-s .event-item-date, .breakpoint-body-size-s .ikit-widget-events .event-item-location, .ikit-widget-events .breakpoint-body-size-s .event-item-location, .breakpoint-body-size-s .ikit-widget-events .event-item-description, .ikit-widget-events .breakpoint-body-size-s .event-item-description, .breakpoint-body-size-s .ikit-widget-facebook .facebook-item-message, .ikit-widget-facebook .breakpoint-body-size-s .facebook-item-message,
+.breakpoint-body-size-s .ikit-widget-facebook .facebook-item-name,
+.ikit-widget-facebook .breakpoint-body-size-s .facebook-item-name, .breakpoint-body-size-s .ikit-widget-new-members .member-item-type, .ikit-widget-new-members .breakpoint-body-size-s .member-item-type,
+.breakpoint-body-size-s .ikit-widget-new-members .member-item-date,
+.ikit-widget-new-members .breakpoint-body-size-s .member-item-date, .breakpoint-body-size-s .widget_text .widget-content, .widget_text .breakpoint-body-size-s .widget-content, .breakpoint-body-size-s .ikit-widget-page .page-content, .ikit-widget-page .breakpoint-body-size-s .page-content, .breakpoint-body-size-s .page-layout-5-body-title, .breakpoint-body-size-s .page-layout-4-attribute-text, .breakpoint-body-size-s .page-layout-4-body-description-inner, .breakpoint-body-size-s .page-layout-4-attribute-header, .breakpoint-body-size-s body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text], body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container .breakpoint-body-size-s input[type=text],
+.breakpoint-body-size-s body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email],
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container .breakpoint-body-size-s input[type=email],
+.breakpoint-body-size-s body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel],
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container .breakpoint-body-size-s input[type=tel], .breakpoint-body-size-s .layout .gform_wrapper .gfield_required, .layout .gform_wrapper .breakpoint-body-size-s .gfield_required, .breakpoint-body-size-s .gform_wrapper .top_label textarea, .gform_wrapper .top_label .breakpoint-body-size-s textarea, .breakpoint-body-size-s .layout .gform_wrapper .validation_message, .layout .gform_wrapper .breakpoint-body-size-s .validation_message,
+.breakpoint-body-size-s .layout .gform_wrapper .validation_error,
+.layout .gform_wrapper .breakpoint-body-size-s .validation_error, .breakpoint-body-size-s .gform_wrapper .top_label .gfield_label, .gform_wrapper .top_label .breakpoint-body-size-s .gfield_label, .breakpoint-body-size-s .layout .gform_wrapper .gfield_checkbox label, .layout .gform_wrapper .gfield_checkbox .breakpoint-body-size-s label,
+.breakpoint-body-size-s .layout .gform_wrapper .gfield_radio label,
+.layout .gform_wrapper .gfield_radio .breakpoint-body-size-s label, .breakpoint-body-size-s .layout .gform_wrapper .gfield_html, .layout .gform_wrapper .breakpoint-body-size-s .gfield_html, .breakpoint-body-size-s .layout .sbHolder a, .layout .sbHolder .breakpoint-body-size-s a, .breakpoint-body-size-s .header-compact-menu, .breakpoint-body-size-s .header-layout .header-search-bar input, .header-layout .header-search-bar .breakpoint-body-size-s input, .breakpoint-body-size-s .header-layout, .breakpoint-body-size-s .footer-social-links li, .footer-social-links .breakpoint-body-size-s li,
+.breakpoint-body-size-s .footer-social-links a,
+.footer-social-links .breakpoint-body-size-s a, .breakpoint-body-size-s .footer-contact-info,
+.breakpoint-body-size-s .footer-copyright,
+.breakpoint-body-size-s .footer-mailing-list-help, .breakpoint-body-size-s .footer-credit, .breakpoint-body-size-s .footer .footer-header, .footer .breakpoint-body-size-s .footer-header, .breakpoint-body-size-s .widgettitle, .breakpoint-body-size-s .toc-link, .breakpoint-body-size-s .related-items .news-item-external-source, .related-items .breakpoint-body-size-s .news-item-external-source, .breakpoint-body-size-s .related-items .news-item-author, .related-items .breakpoint-body-size-s .news-item-author,
+.breakpoint-body-size-s .related-items .news-item-date,
+.related-items .breakpoint-body-size-s .news-item-date, .breakpoint-body-size-s .related-items .news-item-description, .related-items .breakpoint-body-size-s .news-item-description, .breakpoint-body-size-s .related-items .event-item-external-source, .related-items .breakpoint-body-size-s .event-item-external-source,
+.breakpoint-body-size-s .related-items .event-item-internal-source,
+.related-items .breakpoint-body-size-s .event-item-internal-source, .breakpoint-body-size-s .related-items .event-item-time, .related-items .breakpoint-body-size-s .event-item-time,
+.breakpoint-body-size-s .related-items .event-item-date,
+.related-items .breakpoint-body-size-s .event-item-date, .breakpoint-body-size-s .related-items .event-item-location, .related-items .breakpoint-body-size-s .event-item-location, .breakpoint-body-size-s .related-items .event-item-description, .related-items .breakpoint-body-size-s .event-item-description, .breakpoint-body-size-s .layout .social-share-container .atcb-item a, .layout .social-share-container .atcb-item .breakpoint-body-size-s a, .breakpoint-body-size-s .box-input, .breakpoint-body-size-s .box-button, .breakpoint-body-size-s .gform_wrapper .gform_footer input[type=submit].button, .gform_wrapper .gform_footer .breakpoint-body-size-s input[type=submit].button, .breakpoint-body-size-s .editor-shortcode-image-gallery-slideshow-caption, .breakpoint-body-size-s .editor-shortcode-service-video-caption, .breakpoint-body-size-s .editor-shortcode-image-caption, .breakpoint-body-size-s .wp-caption {
+  font-size: 13px;
+  line-height: 20px; }
+
+.font-size-7, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label, .sso-lock-label {
+  font-size: 12px;
+  line-height: 18px; }
+
+.breakpoint-body-size-xl .font-size-7, .breakpoint-body-size-xl body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex .breakpoint-body-size-xl label, .breakpoint-body-size-xl .sso-lock-label {
+  font-size: 12px;
+  line-height: 18px; }
+
+.breakpoint-body-size-l .font-size-7, .breakpoint-body-size-l body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex .breakpoint-body-size-l label, .breakpoint-body-size-l .sso-lock-label {
+  font-size: 12px;
+  line-height: 18px; }
+
+.breakpoint-body-size-m .font-size-7, .breakpoint-body-size-m body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex .breakpoint-body-size-m label, .breakpoint-body-size-m .sso-lock-label {
+  font-size: 12px;
+  line-height: 18px; }
+
+.breakpoint-body-size-s .font-size-7, .breakpoint-body-size-s body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex .breakpoint-body-size-s label, .breakpoint-body-size-s .sso-lock-label {
+  font-size: 12px;
+  line-height: 18px; }
+
+/* Font family */
+body {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: normal;
+  font-weight: 400; }
+
+body em, body i {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: italic;
+  font-weight: 400; }
+
+body strong, body b {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: normal;
+  font-weight: 700; }
+
+body strong em, body b em,
+body strong i, body b i,
+body em strong, body em b,
+body i strong, body i b {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: italic;
+  font-weight: 700; }
+
+input {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: normal;
+  font-weight: 400; }
+
+input em, input i {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: italic;
+  font-weight: 400; }
+
+input strong, input b {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: normal;
+  font-weight: 700; }
+
+input strong em, input b em,
+input strong i, input b i,
+input em strong, input em b,
+input i strong, input i b {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: italic;
+  font-weight: 700; }
+
+/* Font style */
+.font-style-1, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text],
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email],
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel], .layout .gform_wrapper .gfield_required, .gform_wrapper .top_label textarea, .layout .gform_wrapper .validation_message,
+.layout .gform_wrapper .validation_error,
+.layout .gform_wrapper .top_label .gfield_error,
+.layout .gform_wrapper .top_label .gfield_error .gfield_label, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label, .layout .gform_wrapper .gfield_checkbox label,
+.layout .gform_wrapper .gfield_radio label, .layout .gform_wrapper .gfield_html, .layout .social-share-container .atcb-item a, .editor-shortcode-image-gallery-slideshow-caption, .editor-shortcode-service-video-caption, .editor-shortcode-image-caption, .wp-caption, pre {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: normal;
+  font-weight: 400; }
+
+.font-style-1 em, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text] em,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email] em,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel] em, .layout .gform_wrapper .gfield_required em, .gform_wrapper .top_label textarea em, .layout .gform_wrapper .validation_message em,
+.layout .gform_wrapper .validation_error em,
+.layout .gform_wrapper .top_label .gfield_error em,
+.layout .gform_wrapper .top_label .gfield_error .gfield_label em, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label em, .layout .gform_wrapper .gfield_checkbox label em,
+.layout .gform_wrapper .gfield_radio label em, .layout .gform_wrapper .gfield_html em, .layout .social-share-container .atcb-item a em, .editor-shortcode-image-gallery-slideshow-caption em, .editor-shortcode-service-video-caption em, .editor-shortcode-image-caption em, .wp-caption em, pre em, .font-style-1 i, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text] i,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email] i,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel] i, .layout .gform_wrapper .gfield_required i, .gform_wrapper .top_label textarea i, .layout .gform_wrapper .validation_message i,
+.layout .gform_wrapper .validation_error i,
+.layout .gform_wrapper .top_label .gfield_error i,
+.layout .gform_wrapper .top_label .gfield_error .gfield_label i, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label i, .layout .gform_wrapper .gfield_checkbox label i,
+.layout .gform_wrapper .gfield_radio label i, .layout .gform_wrapper .gfield_html i, .layout .social-share-container .atcb-item a i, .editor-shortcode-image-gallery-slideshow-caption i, .editor-shortcode-service-video-caption i, .editor-shortcode-image-caption i, .wp-caption i, pre i {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: italic;
+  font-weight: 400; }
+
+.font-style-1 strong, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text] strong,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email] strong,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel] strong, .layout .gform_wrapper .gfield_required strong, .gform_wrapper .top_label textarea strong, .layout .gform_wrapper .validation_message strong,
+.layout .gform_wrapper .validation_error strong,
+.layout .gform_wrapper .top_label .gfield_error strong,
+.layout .gform_wrapper .top_label .gfield_error .gfield_label strong, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label strong, .layout .gform_wrapper .gfield_checkbox label strong,
+.layout .gform_wrapper .gfield_radio label strong, .layout .gform_wrapper .gfield_html strong, .layout .social-share-container .atcb-item a strong, .editor-shortcode-image-gallery-slideshow-caption strong, .editor-shortcode-service-video-caption strong, .editor-shortcode-image-caption strong, .wp-caption strong, pre strong, .font-style-1 b, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text] b,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email] b,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel] b, .layout .gform_wrapper .gfield_required b, .gform_wrapper .top_label textarea b, .layout .gform_wrapper .validation_message b,
+.layout .gform_wrapper .validation_error b,
+.layout .gform_wrapper .top_label .gfield_error b,
+.layout .gform_wrapper .top_label .gfield_error .gfield_label b, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label b, .layout .gform_wrapper .gfield_checkbox label b,
+.layout .gform_wrapper .gfield_radio label b, .layout .gform_wrapper .gfield_html b, .layout .social-share-container .atcb-item a b, .editor-shortcode-image-gallery-slideshow-caption b, .editor-shortcode-service-video-caption b, .editor-shortcode-image-caption b, .wp-caption b, pre b {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: normal;
+  font-weight: 700; }
+
+.font-style-1 strong em, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text] strong em,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email] strong em,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel] strong em, .layout .gform_wrapper .gfield_required strong em, .gform_wrapper .top_label textarea strong em, .layout .gform_wrapper .validation_message strong em,
+.layout .gform_wrapper .validation_error strong em,
+.layout .gform_wrapper .top_label .gfield_error strong em,
+.layout .gform_wrapper .top_label .gfield_error .gfield_label strong em, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label strong em, .layout .gform_wrapper .gfield_checkbox label strong em,
+.layout .gform_wrapper .gfield_radio label strong em, .layout .gform_wrapper .gfield_html strong em, .layout .social-share-container .atcb-item a strong em, .editor-shortcode-image-gallery-slideshow-caption strong em, .editor-shortcode-service-video-caption strong em, .editor-shortcode-image-caption strong em, .wp-caption strong em, pre strong em, .font-style-1 b em, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text] b em,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email] b em,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel] b em, .layout .gform_wrapper .gfield_required b em, .gform_wrapper .top_label textarea b em, .layout .gform_wrapper .validation_message b em,
+.layout .gform_wrapper .validation_error b em,
+.layout .gform_wrapper .top_label .gfield_error b em,
+.layout .gform_wrapper .top_label .gfield_error .gfield_label b em, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label b em, .layout .gform_wrapper .gfield_checkbox label b em,
+.layout .gform_wrapper .gfield_radio label b em, .layout .gform_wrapper .gfield_html b em, .layout .social-share-container .atcb-item a b em, .editor-shortcode-image-gallery-slideshow-caption b em, .editor-shortcode-service-video-caption b em, .editor-shortcode-image-caption b em, .wp-caption b em, pre b em,
+.font-style-1 strong i,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text] strong i,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email] strong i,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel] strong i,
+.layout .gform_wrapper .gfield_required strong i,
+.gform_wrapper .top_label textarea strong i,
+.layout .gform_wrapper .validation_message strong i,
+.layout .gform_wrapper .validation_error strong i,
+.layout .gform_wrapper .top_label .gfield_error strong i,
+.layout .gform_wrapper .top_label .gfield_error .gfield_label strong i,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label strong i,
+.layout .gform_wrapper .gfield_checkbox label strong i,
+.layout .gform_wrapper .gfield_radio label strong i,
+.layout .gform_wrapper .gfield_html strong i,
+.layout .social-share-container .atcb-item a strong i,
+.editor-shortcode-image-gallery-slideshow-caption strong i,
+.editor-shortcode-service-video-caption strong i,
+.editor-shortcode-image-caption strong i,
+.wp-caption strong i,
+pre strong i, .font-style-1 b i, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text] b i,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email] b i,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel] b i, .layout .gform_wrapper .gfield_required b i, .gform_wrapper .top_label textarea b i, .layout .gform_wrapper .validation_message b i,
+.layout .gform_wrapper .validation_error b i,
+.layout .gform_wrapper .top_label .gfield_error b i,
+.layout .gform_wrapper .top_label .gfield_error .gfield_label b i, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label b i, .layout .gform_wrapper .gfield_checkbox label b i,
+.layout .gform_wrapper .gfield_radio label b i, .layout .gform_wrapper .gfield_html b i, .layout .social-share-container .atcb-item a b i, .editor-shortcode-image-gallery-slideshow-caption b i, .editor-shortcode-service-video-caption b i, .editor-shortcode-image-caption b i, .wp-caption b i, pre b i,
+.font-style-1 em strong,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text] em strong,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email] em strong,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel] em strong,
+.layout .gform_wrapper .gfield_required em strong,
+.gform_wrapper .top_label textarea em strong,
+.layout .gform_wrapper .validation_message em strong,
+.layout .gform_wrapper .validation_error em strong,
+.layout .gform_wrapper .top_label .gfield_error em strong,
+.layout .gform_wrapper .top_label .gfield_error .gfield_label em strong,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label em strong,
+.layout .gform_wrapper .gfield_checkbox label em strong,
+.layout .gform_wrapper .gfield_radio label em strong,
+.layout .gform_wrapper .gfield_html em strong,
+.layout .social-share-container .atcb-item a em strong,
+.editor-shortcode-image-gallery-slideshow-caption em strong,
+.editor-shortcode-service-video-caption em strong,
+.editor-shortcode-image-caption em strong,
+.wp-caption em strong,
+pre em strong, .font-style-1 em b, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text] em b,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email] em b,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel] em b, .layout .gform_wrapper .gfield_required em b, .gform_wrapper .top_label textarea em b, .layout .gform_wrapper .validation_message em b,
+.layout .gform_wrapper .validation_error em b,
+.layout .gform_wrapper .top_label .gfield_error em b,
+.layout .gform_wrapper .top_label .gfield_error .gfield_label em b, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label em b, .layout .gform_wrapper .gfield_checkbox label em b,
+.layout .gform_wrapper .gfield_radio label em b, .layout .gform_wrapper .gfield_html em b, .layout .social-share-container .atcb-item a em b, .editor-shortcode-image-gallery-slideshow-caption em b, .editor-shortcode-service-video-caption em b, .editor-shortcode-image-caption em b, .wp-caption em b, pre em b,
+.font-style-1 i strong,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text] i strong,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email] i strong,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel] i strong,
+.layout .gform_wrapper .gfield_required i strong,
+.gform_wrapper .top_label textarea i strong,
+.layout .gform_wrapper .validation_message i strong,
+.layout .gform_wrapper .validation_error i strong,
+.layout .gform_wrapper .top_label .gfield_error i strong,
+.layout .gform_wrapper .top_label .gfield_error .gfield_label i strong,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label i strong,
+.layout .gform_wrapper .gfield_checkbox label i strong,
+.layout .gform_wrapper .gfield_radio label i strong,
+.layout .gform_wrapper .gfield_html i strong,
+.layout .social-share-container .atcb-item a i strong,
+.editor-shortcode-image-gallery-slideshow-caption i strong,
+.editor-shortcode-service-video-caption i strong,
+.editor-shortcode-image-caption i strong,
+.wp-caption i strong,
+pre i strong, .font-style-1 i b, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=text] i b,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=email] i b,
+body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_container input[type=tel] i b, .layout .gform_wrapper .gfield_required i b, .gform_wrapper .top_label textarea i b, .layout .gform_wrapper .validation_message i b,
+.layout .gform_wrapper .validation_error i b,
+.layout .gform_wrapper .top_label .gfield_error i b,
+.layout .gform_wrapper .top_label .gfield_error .gfield_label i b, body .layout .layout-content .gform_wrapper .gform_body .top_label .ginput_complex label i b, .layout .gform_wrapper .gfield_checkbox label i b,
+.layout .gform_wrapper .gfield_radio label i b, .layout .gform_wrapper .gfield_html i b, .layout .social-share-container .atcb-item a i b, .editor-shortcode-image-gallery-slideshow-caption i b, .editor-shortcode-service-video-caption i b, .editor-shortcode-image-caption i b, .wp-caption i b, pre i b {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: italic;
+  font-weight: 700; }
+
+.font-style-3, .ikit-three-widget-featured-events-news-billboard .items .item-title, .ikit-three-widget-latest-events-news-billboard .items .item-title, .ikit-widget-featured-job .job-item-title, .ikit-widget-news .news-item-title, .ikit-widget-events-internal .event-item-title, .ikit-widget-events .event-item-title, .page-layout-5-body-title, .page-layout-4-body-description-inner, .page-layout-4-attribute-header, .page-header-3-title a,
+.page-header-3-title, .gform_wrapper .top_label .gfield_label, .layout .gform_wrapper .gsection, .layout .sbHolder a, .header-compact-menu a, .header .header-compact-search input, .header-layout .header-search-bar input, .header-layout, .footer .footer-header, .page-header-5-title, .page-header-4-title, .widgettitle, .toc-link, .related-items .news-item-title, .related-items .event-item-title, .box-button, .gform_wrapper .gform_footer input[type=submit].button, .sso-lock-label, .no-results, .editor-shortcode-pull-quote, h1, h2, h3, h4, h5, h6 {
+  font-family: "neue-haas-grotesk-text",sans-serif;
+  font-style: normal;
+  font-weight: 700; }
+
+.font-style-8, .ikit-three-widget-featured-events-news-billboard .items .item-description, .ikit-three-widget-latest-events-news-billboard .items .item-description, .ikit-widget-featured-video, .ikit-widget-mailing-list .mailing-list-description, .ikit-widget-featured-portfolio .portfolio-item-author, .ikit-widget-featured-portfolio .portfolio-item-project, .ikit-widget-i-am-aiga .member-item-name, .ikit-widget-twitter .twitter-item, .ikit-widget-news .news-item-description, .ikit-widget-events-internal .event-item-description, .ikit-widget-events .event-item-description, .ikit-widget-facebook .facebook-item-message,
+.ikit-widget-facebook .facebook-item-name, .ikit-widget-new-members .member-item-name, .ikit-widget-eyeondesign .eyeondesign-item-title, .ikit-widget-promo .promo-item-text, .ikit-widget-quote .quote-item-attribution a,
+.ikit-widget-quote .quote-item-attribution, .ikit-widget-quote .quote-item-text, .ikit-widget-page .page-content, .page-layout-4-body-paragraph-text, .footer-mailing-list-help, .related-items .news-item-description, .related-items .event-item-description, .comments .comments-disclaimer,
+.comments .nocomments {
+  font-family: "freight-text-pro",serif;
+  font-style: normal;
+  font-weight: 400; }
+
+.font-style-8 em, .ikit-three-widget-featured-events-news-billboard .items .item-description em, .ikit-three-widget-latest-events-news-billboard .items .item-description em, .ikit-widget-featured-video em, .ikit-widget-mailing-list .mailing-list-description em, .ikit-widget-featured-portfolio .portfolio-item-author em, .ikit-widget-featured-portfolio .portfolio-item-project em, .ikit-widget-i-am-aiga .member-item-name em, .ikit-widget-twitter .twitter-item em, .ikit-widget-news .news-item-description em, .ikit-widget-events-internal .event-item-description em, .ikit-widget-events .event-item-description em, .ikit-widget-facebook .facebook-item-message em,
+.ikit-widget-facebook .facebook-item-name em, .ikit-widget-new-members .member-item-name em, .ikit-widget-eyeondesign .eyeondesign-item-title em, .ikit-widget-promo .promo-item-text em,
+.ikit-widget-quote .quote-item-attribution em, .ikit-widget-quote .quote-item-text em, .ikit-widget-page .page-content em, .page-layout-4-body-paragraph-text em, .footer-mailing-list-help em, .related-items .news-item-description em, .related-items .event-item-description em, .comments .comments-disclaimer em,
+.comments .nocomments em, .font-style-8 i, .ikit-three-widget-featured-events-news-billboard .items .item-description i, .ikit-three-widget-latest-events-news-billboard .items .item-description i, .ikit-widget-featured-video i, .ikit-widget-mailing-list .mailing-list-description i, .ikit-widget-featured-portfolio .portfolio-item-author i, .ikit-widget-featured-portfolio .portfolio-item-project i, .ikit-widget-i-am-aiga .member-item-name i, .ikit-widget-twitter .twitter-item i, .ikit-widget-news .news-item-description i, .ikit-widget-events-internal .event-item-description i, .ikit-widget-events .event-item-description i, .ikit-widget-facebook .facebook-item-message i,
+.ikit-widget-facebook .facebook-item-name i, .ikit-widget-new-members .member-item-name i, .ikit-widget-eyeondesign .eyeondesign-item-title i, .ikit-widget-promo .promo-item-text i,
+.ikit-widget-quote .quote-item-attribution i, .ikit-widget-quote .quote-item-text i, .ikit-widget-page .page-content i, .page-layout-4-body-paragraph-text i, .footer-mailing-list-help i, .related-items .news-item-description i, .related-items .event-item-description i, .comments .comments-disclaimer i,
+.comments .nocomments i {
+  font-family: "freight-text-pro",serif;
+  font-style: italic;
+  font-weight: 400; }
+
+.font-style-8 strong, .ikit-three-widget-featured-events-news-billboard .items .item-description strong, .ikit-three-widget-latest-events-news-billboard .items .item-description strong, .ikit-widget-featured-video strong, .ikit-widget-mailing-list .mailing-list-description strong, .ikit-widget-featured-portfolio .portfolio-item-author strong, .ikit-widget-featured-portfolio .portfolio-item-project strong, .ikit-widget-i-am-aiga .member-item-name strong, .ikit-widget-twitter .twitter-item strong, .ikit-widget-news .news-item-description strong, .ikit-widget-events-internal .event-item-description strong, .ikit-widget-events .event-item-description strong, .ikit-widget-facebook .facebook-item-message strong,
+.ikit-widget-facebook .facebook-item-name strong, .ikit-widget-new-members .member-item-name strong, .ikit-widget-eyeondesign .eyeondesign-item-title strong, .ikit-widget-promo .promo-item-text strong,
+.ikit-widget-quote .quote-item-attribution strong, .ikit-widget-quote .quote-item-text strong, .ikit-widget-page .page-content strong, .page-layout-4-body-paragraph-text strong, .footer-mailing-list-help strong, .related-items .news-item-description strong, .related-items .event-item-description strong, .comments .comments-disclaimer strong,
+.comments .nocomments strong, .font-style-8 b, .ikit-three-widget-featured-events-news-billboard .items .item-description b, .ikit-three-widget-latest-events-news-billboard .items .item-description b, .ikit-widget-featured-video b, .ikit-widget-mailing-list .mailing-list-description b, .ikit-widget-featured-portfolio .portfolio-item-author b, .ikit-widget-featured-portfolio .portfolio-item-project b, .ikit-widget-i-am-aiga .member-item-name b, .ikit-widget-twitter .twitter-item b, .ikit-widget-news .news-item-description b, .ikit-widget-events-internal .event-item-description b, .ikit-widget-events .event-item-description b, .ikit-widget-facebook .facebook-item-message b,
+.ikit-widget-facebook .facebook-item-name b, .ikit-widget-new-members .member-item-name b, .ikit-widget-eyeondesign .eyeondesign-item-title b, .ikit-widget-promo .promo-item-text b,
+.ikit-widget-quote .quote-item-attribution b, .ikit-widget-quote .quote-item-text b, .ikit-widget-page .page-content b, .page-layout-4-body-paragraph-text b, .footer-mailing-list-help b, .related-items .news-item-description b, .related-items .event-item-description b, .comments .comments-disclaimer b,
+.comments .nocomments b {
+  font-family: "freight-text-pro",serif;
+  font-style: normal;
+  font-weight: 900; }
+
+.font-style-8 strong em, .ikit-three-widget-featured-events-news-billboard .items .item-description strong em, .ikit-three-widget-latest-events-news-billboard .items .item-description strong em, .ikit-widget-featured-video strong em, .ikit-widget-mailing-list .mailing-list-description strong em, .ikit-widget-featured-portfolio .portfolio-item-author strong em, .ikit-widget-featured-portfolio .portfolio-item-project strong em, .ikit-widget-i-am-aiga .member-item-name strong em, .ikit-widget-twitter .twitter-item strong em, .ikit-widget-news .news-item-description strong em, .ikit-widget-events-internal .event-item-description strong em, .ikit-widget-events .event-item-description strong em, .ikit-widget-facebook .facebook-item-message strong em,
+.ikit-widget-facebook .facebook-item-name strong em, .ikit-widget-new-members .member-item-name strong em, .ikit-widget-eyeondesign .eyeondesign-item-title strong em, .ikit-widget-promo .promo-item-text strong em,
+.ikit-widget-quote .quote-item-attribution strong em, .ikit-widget-quote .quote-item-text strong em, .ikit-widget-page .page-content strong em, .page-layout-4-body-paragraph-text strong em, .footer-mailing-list-help strong em, .related-items .news-item-description strong em, .related-items .event-item-description strong em, .comments .comments-disclaimer strong em,
+.comments .nocomments strong em, .font-style-8 b em, .ikit-three-widget-featured-events-news-billboard .items .item-description b em, .ikit-three-widget-latest-events-news-billboard .items .item-description b em, .ikit-widget-featured-video b em, .ikit-widget-mailing-list .mailing-list-description b em, .ikit-widget-featured-portfolio .portfolio-item-author b em, .ikit-widget-featured-portfolio .portfolio-item-project b em, .ikit-widget-i-am-aiga .member-item-name b em, .ikit-widget-twitter .twitter-item b em, .ikit-widget-news .news-item-description b em, .ikit-widget-events-internal .event-item-description b em, .ikit-widget-events .event-item-description b em, .ikit-widget-facebook .facebook-item-message b em,
+.ikit-widget-facebook .facebook-item-name b em, .ikit-widget-new-members .member-item-name b em, .ikit-widget-eyeondesign .eyeondesign-item-title b em, .ikit-widget-promo .promo-item-text b em,
+.ikit-widget-quote .quote-item-attribution b em, .ikit-widget-quote .quote-item-text b em, .ikit-widget-page .page-content b em, .page-layout-4-body-paragraph-text b em, .footer-mailing-list-help b em, .related-items .news-item-description b em, .related-items .event-item-description b em, .comments .comments-disclaimer b em,
+.comments .nocomments b em,
+.font-style-8 strong i,
+.ikit-three-widget-featured-events-news-billboard .items .item-description strong i,
+.ikit-three-widget-latest-events-news-billboard .items .item-description strong i,
+.ikit-widget-featured-video strong i,
+.ikit-widget-mailing-list .mailing-list-description strong i,
+.ikit-widget-featured-portfolio .portfolio-item-author strong i,
+.ikit-widget-featured-portfolio .portfolio-item-project strong i,
+.ikit-widget-i-am-aiga .member-item-name strong i,
+.ikit-widget-twitter .twitter-item strong i,
+.ikit-widget-news .news-item-description strong i,
+.ikit-widget-events-internal .event-item-description strong i,
+.ikit-widget-events .event-item-description strong i,
+.ikit-widget-facebook .facebook-item-message strong i,
+.ikit-widget-facebook .facebook-item-name strong i,
+.ikit-widget-new-members .member-item-name strong i,
+.ikit-widget-eyeondesign .eyeondesign-item-title strong i,
+.ikit-widget-promo .promo-item-text strong i,
+.ikit-widget-quote .quote-item-attribution strong i,
+.ikit-widget-quote .quote-item-text strong i,
+.ikit-widget-page .page-content strong i,
+.page-layout-4-body-paragraph-text strong i,
+.footer-mailing-list-help strong i,
+.related-items .news-item-description strong i,
+.related-items .event-item-description strong i,
+.comments .comments-disclaimer strong i,
+.comments .nocomments strong i, .font-style-8 b i, .ikit-three-widget-featured-events-news-billboard .items .item-description b i, .ikit-three-widget-latest-events-news-billboard .items .item-description b i, .ikit-widget-featured-video b i, .ikit-widget-mailing-list .mailing-list-description b i, .ikit-widget-featured-portfolio .portfolio-item-author b i, .ikit-widget-featured-portfolio .portfolio-item-project b i, .ikit-widget-i-am-aiga .member-item-name b i, .ikit-widget-twitter .twitter-item b i, .ikit-widget-news .news-item-description b i, .ikit-widget-events-internal .event-item-description b i, .ikit-widget-events .event-item-description b i, .ikit-widget-facebook .facebook-item-message b i,
+.ikit-widget-facebook .facebook-item-name b i, .ikit-widget-new-members .member-item-name b i, .ikit-widget-eyeondesign .eyeondesign-item-title b i, .ikit-widget-promo .promo-item-text b i,
+.ikit-widget-quote .quote-item-attribution b i, .ikit-widget-quote .quote-item-text b i, .ikit-widget-page .page-content b i, .page-layout-4-body-paragraph-text b i, .footer-mailing-list-help b i, .related-items .news-item-description b i, .related-items .event-item-description b i, .comments .comments-disclaimer b i,
+.comments .nocomments b i,
+.font-style-8 em strong,
+.ikit-three-widget-featured-events-news-billboard .items .item-description em strong,
+.ikit-three-widget-latest-events-news-billboard .items .item-description em strong,
+.ikit-widget-featured-video em strong,
+.ikit-widget-mailing-list .mailing-list-description em strong,
+.ikit-widget-featured-portfolio .portfolio-item-author em strong,
+.ikit-widget-featured-portfolio .portfolio-item-project em strong,
+.ikit-widget-i-am-aiga .member-item-name em strong,
+.ikit-widget-twitter .twitter-item em strong,
+.ikit-widget-news .news-item-description em strong,
+.ikit-widget-events-internal .event-item-description em strong,
+.ikit-widget-events .event-item-description em strong,
+.ikit-widget-facebook .facebook-item-message em strong,
+.ikit-widget-facebook .facebook-item-name em strong,
+.ikit-widget-new-members .member-item-name em strong,
+.ikit-widget-eyeondesign .eyeondesign-item-title em strong,
+.ikit-widget-promo .promo-item-text em strong,
+.ikit-widget-quote .quote-item-attribution em strong,
+.ikit-widget-quote .quote-item-text em strong,
+.ikit-widget-page .page-content em strong,
+.page-layout-4-body-paragraph-text em strong,
+.footer-mailing-list-help em strong,
+.related-items .news-item-description em strong,
+.related-items .event-item-description em strong,
+.comments .comments-disclaimer em strong,
+.comments .nocomments em strong, .font-style-8 em b, .ikit-three-widget-featured-events-news-billboard .items .item-description em b, .ikit-three-widget-latest-events-news-billboard .items .item-description em b, .ikit-widget-featured-video em b, .ikit-widget-mailing-list .mailing-list-description em b, .ikit-widget-featured-portfolio .portfolio-item-author em b, .ikit-widget-featured-portfolio .portfolio-item-project em b, .ikit-widget-i-am-aiga .member-item-name em b, .ikit-widget-twitter .twitter-item em b, .ikit-widget-news .news-item-description em b, .ikit-widget-events-internal .event-item-description em b, .ikit-widget-events .event-item-description em b, .ikit-widget-facebook .facebook-item-message em b,
+.ikit-widget-facebook .facebook-item-name em b, .ikit-widget-new-members .member-item-name em b, .ikit-widget-eyeondesign .eyeondesign-item-title em b, .ikit-widget-promo .promo-item-text em b,
+.ikit-widget-quote .quote-item-attribution em b, .ikit-widget-quote .quote-item-text em b, .ikit-widget-page .page-content em b, .page-layout-4-body-paragraph-text em b, .footer-mailing-list-help em b, .related-items .news-item-description em b, .related-items .event-item-description em b, .comments .comments-disclaimer em b,
+.comments .nocomments em b,
+.font-style-8 i strong,
+.ikit-three-widget-featured-events-news-billboard .items .item-description i strong,
+.ikit-three-widget-latest-events-news-billboard .items .item-description i strong,
+.ikit-widget-featured-video i strong,
+.ikit-widget-mailing-list .mailing-list-description i strong,
+.ikit-widget-featured-portfolio .portfolio-item-author i strong,
+.ikit-widget-featured-portfolio .portfolio-item-project i strong,
+.ikit-widget-i-am-aiga .member-item-name i strong,
+.ikit-widget-twitter .twitter-item i strong,
+.ikit-widget-news .news-item-description i strong,
+.ikit-widget-events-internal .event-item-description i strong,
+.ikit-widget-events .event-item-description i strong,
+.ikit-widget-facebook .facebook-item-message i strong,
+.ikit-widget-facebook .facebook-item-name i strong,
+.ikit-widget-new-members .member-item-name i strong,
+.ikit-widget-eyeondesign .eyeondesign-item-title i strong,
+.ikit-widget-promo .promo-item-text i strong,
+.ikit-widget-quote .quote-item-attribution i strong,
+.ikit-widget-quote .quote-item-text i strong,
+.ikit-widget-page .page-content i strong,
+.page-layout-4-body-paragraph-text i strong,
+.footer-mailing-list-help i strong,
+.related-items .news-item-description i strong,
+.related-items .event-item-description i strong,
+.comments .comments-disclaimer i strong,
+.comments .nocomments i strong, .font-style-8 i b, .ikit-three-widget-featured-events-news-billboard .items .item-description i b, .ikit-three-widget-latest-events-news-billboard .items .item-description i b, .ikit-widget-featured-video i b, .ikit-widget-mailing-list .mailing-list-description i b, .ikit-widget-featured-portfolio .portfolio-item-author i b, .ikit-widget-featured-portfolio .portfolio-item-project i b, .ikit-widget-i-am-aiga .member-item-name i b, .ikit-widget-twitter .twitter-item i b, .ikit-widget-news .news-item-description i b, .ikit-widget-events-internal .event-item-description i b, .ikit-widget-events .event-item-description i b, .ikit-widget-facebook .facebook-item-message i b,
+.ikit-widget-facebook .facebook-item-name i b, .ikit-widget-new-members .member-item-name i b, .ikit-widget-eyeondesign .eyeondesign-item-title i b, .ikit-widget-promo .promo-item-text i b,
+.ikit-widget-quote .quote-item-attribution i b, .ikit-widget-quote .quote-item-text i b, .ikit-widget-page .page-content i b, .page-layout-4-body-paragraph-text i b, .footer-mailing-list-help i b, .related-items .news-item-description i b, .related-items .event-item-description i b, .comments .comments-disclaimer i b,
+.comments .nocomments i b {
+  font-family: "freight-text-pro",serif;
+  font-style: italic;
+  font-weight: 900; }
+
+/* Box shadow border, allows us to have borders that do not change the box model as they are inset */
+.box-shadow-border-color-0, .ikit-widget-i-am-aiga .link-block:hover .link-block-image::after, .ikit-widget-eyeondesign .link-block:hover .link-block-image::after {
+  box-shadow: none; }
+
+.box-shadow-border-color-5, .layout .link-block:hover .link-block-image::after {
+  box-shadow: inset 0 0 0px 2px #0000d2; }
+
+/* Placeholder colors */
+.placeholder-color-2::-webkit-input-placeholder, .header .header-compact-search input::-webkit-input-placeholder,
+.header .header-search-bar input::-webkit-input-placeholder {
+  color: white; }
+
+.placeholder-color-2::-moz-placeholder, .header .header-compact-search input::-moz-placeholder,
+.header .header-search-bar input::-moz-placeholder {
+  color: white; }
+
+.placeholder-color-2::-moz-placeholder, .header .header-compact-search input::-moz-placeholder,
+.header .header-search-bar input::-moz-placeholder {
+  color: white; }
+
+.placeholder-color-2::-ms-input-placeholder, .header .header-compact-search input::-ms-input-placeholder,
+.header .header-search-bar input::-ms-input-placeholder {
+  color: white; }
+
+/* Link underline colors */
+.link-underline-color-1, .header-layout .header-search-button:hover, .header-layout .header-menu-item-link:hover,
+.header-layout .header-menu-item-children-item-link:hover, .header-layout .header-menu-item-link.active, .toc-link.active, .toc-link:hover {
+  padding-bottom: 6px;
+  background-image: url("../../images/underline_color_1.svg");
+  -webkit-background-size: 2px 2px;
+  -moz-background-size: 2px 2px;
+  -o-background-size: 2px 2px;
+  background-size: 2px 2px;
+  background-repeat: repeat-x;
+  display: inline;
+  text-decoration: none !important;
+  background-position: 100% 100%; }
+
+.link-underline-color-2, .header-compact-menu-item[data-expanded="true"] .header-compact-menu-item-link-expand-title, .header-compact-menu-item-children-item-link:hover, .header-compact-menu a:hover, .header-layout-container-collapsed .header-layout .header-search-button:hover, .header-layout-container-collapsed .header-layout .header-menu-item-link:hover,
+.header-layout-container-collapsed .header-layout .header-menu-item-children-item-link:hover, .header-layout-container-collapsed .header-layout .header-menu-item-link.active, .header-layout .header-search-button-close:hover {
+  padding-bottom: 6px;
+  background-image: url("../../images/underline_color_2.svg");
+  -webkit-background-size: 2px 2px;
+  -moz-background-size: 2px 2px;
+  -o-background-size: 2px 2px;
+  background-size: 2px 2px;
+  background-repeat: repeat-x;
+  display: inline;
+  text-decoration: none !important;
+  background-position: 100% 100%; }
+
+.link-underline-color-3 {
+  padding-bottom: 6px;
+  background-image: url("../../images/underline_color_3.svg");
+  -webkit-background-size: 2px 2px;
+  -moz-background-size: 2px 2px;
+  -o-background-size: 2px 2px;
+  background-size: 2px 2px;
+  background-repeat: repeat-x;
+  display: inline;
+  text-decoration: none !important;
+  background-position: 100% 100%; }
+
+.link-underline-color-3a, .page-layout-4-body-description-inner a {
+  padding-bottom: 6px;
+  background-image: url("../../images/underline_color_3a.svg");
+  -webkit-background-size: 2px 2px;
+  -moz-background-size: 2px 2px;
+  -o-background-size: 2px 2px;
+  background-size: 2px 2px;
+  background-repeat: repeat-x;
+  display: inline;
+  text-decoration: none !important;
+  background-position: 100% 100%; }
+
+.link-underline-color-1b, .page-layout-4-body-description-inner a:hover {
+  padding-bottom: 6px;
+  background-image: url("../../images/underline_color_1b.svg");
+  -webkit-background-size: 2px 2px;
+  -moz-background-size: 2px 2px;
+  -o-background-size: 2px 2px;
+  background-size: 2px 2px;
+  background-repeat: repeat-x;
+  display: inline;
+  text-decoration: none !important;
+  background-position: 100% 100%; }
+
+/*********************************************/
+/* Editor
+/*********************************************/
+/*********************************************/
+/* Misc
+/*********************************************/
+/* No results for searches and filter lists */
+/* Page load indicator */
+/* Comments */
+/* SSO lock */
+/* Box button */
+/* Infinity loader */
+/* Box input */
+/* Box item */
+/* Link block */
+.layout .link-block:hover .link-block-image::after {
+  /* On hover will show a box shadow that replicates a border but does not change the box model */ }
+
+/* Social Share Component */
+/* Related items */
+/*********************************************/
+/* TOC
+/*********************************************/
+/*********************************************/
+/* Widget
+/*********************************************/
+/*********************************************/
+/* Page header 4 (Used on single pages as hero title)
+/*********************************************/
+/*********************************************/
+/* Page header 5 (Used on single pages as hero title when no image)
+/*********************************************/
+/*********************************************/
+/* Layout
+/*********************************************/
+/*********************************************/
+/* Footer
+/*********************************************/
+/*********************************************/
+/* Header
+/*********************************************/
+/* Eliminates gap between top level nav item and children and is transparent to allow underline to show */
+/* Header layout collapsed */
+/* Header compact styles */
+/* ********************************************/
+/* jQuery Selectbox plugin
+/* ********************************************/
+/*********************************************/
+/* Gravity form
+/*********************************************/
+/*********************************************/
+/* Page header 3
+/*********************************************/
+/*********************************************/
+/* Page layout 4
+/*********************************************/
+/*********************************************/
+/* Page layout 5
+/*********************************************/
+/*********************************************/
+/* Widgets
+/*********************************************/
+/* Page */
+/* Quote */
+/* Promo */
+/* Text */
+/* Eye on Design */
+.ikit-widget-eyeondesign .eyeondesign-item-image {
+  overflow: hidden;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background-clip: padding-box;
+  /* stops bg color from leaking outside the border: */ }
+
+.ikit-widget-eyeondesign .link-block:hover .link-block-image::after {
+  /* Disable as we will use the overlay as the circular border */ }
+
+.ikit-widget-eyeondesign .link-block:hover .link-block-image-overlay {
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background-clip: padding-box;
+  /* stops bg color from leaking outside the border: */ }
+
+/* New members */
+/* Instagram */
+/* Facebook */
+/* Events */
+/* Internal events */
+/* News */
+/* Twitter */
+/* I am AIGA */
+.ikit-widget-i-am-aiga .member-item-image {
+  overflow: hidden;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background-clip: padding-box;
+  /* stops bg color from leaking outside the border: */ }
+
+.ikit-widget-i-am-aiga .link-block:hover .link-block-image::after {
+  /* Disable as we will use the overlay as the circular border */ }
+
+.ikit-widget-i-am-aiga .link-block:hover .link-block-image-overlay {
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background-clip: padding-box;
+  /* stops bg color from leaking outside the border: */ }
+
+/* Featured portfolio */
+/* Featured job */
+/* Mailing list */
+/* Featured video */
+/* Latest events and news billboard */
+/* Featured events and news billboard */

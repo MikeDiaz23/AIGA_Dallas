@@ -1,0 +1,19 @@
+/*********************************************/
+/* TinyMCE styles (only appears in admin for reference)
+/*********************************************/
+
+#tinymce h1,
+#tinymce h2,
+#tinymce h3,
+#tinymce h4,
+#tinymce h5,
+#tinymce h6 {
+    margin:0;
+    padding:0;
+    font-family:Arial;
+}
+
+#tinymce p {
+    margin-top:0;
+    margin-bottom:1.5em;
+}

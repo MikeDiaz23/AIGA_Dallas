@@ -1,0 +1,45 @@
+{
+  "description": "Metadata only. Plugin source and embedded API configuration remain outside Git; macOS metadata was excluded during extraction.",
+  "imports": [
+    {
+      "plugin": "advanced-custom-fields",
+      "version": "4.4.7",
+      "archive": "advanced-custom-fields.zip",
+      "archive_sha256": "4bd25a6b05d7205a9d8d3f14449b544196f22f323921a6a856c769b149324bd1",
+      "files": 146,
+      "php_files": 42,
+      "storage": ".local/plugins/advanced-custom-fields",
+      "source_modified": false
+    },
+    {
+      "plugin": "acf-repeater",
+      "version": "1.1.1",
+      "archive": "acf-repeater.zip",
+      "archive_sha256": "80acc6e7fb1e0f7a06f2d03f3050a2ee7b5684aa3d6dd1162abcd9ab97d3036e",
+      "files": 9,
+      "php_files": 5,
+      "storage": ".local/plugins/acf-repeater",
+      "source_modified": false
+    },
+    {
+      "plugin": "acf-wordpress-wysiwyg-field-master",
+      "version": "1.0.2",
+      "archive": "acf-wordpress-wysiwyg-field-master.zip",
+      "archive_sha256": "08027ed76b77e6694bd320381cd5cb77ff1f8c1fee7f6b004c5f754dcc008582",
+      "files": 6,
+      "php_files": 4,
+      "storage": ".local/plugins/acf-wordpress-wysiwyg-field-master",
+      "source_modified": false
+    },
+    {
+      "plugin": "ikit",
+      "version": "1.0.0",
+      "archive": "ikit.zip",
+      "archive_sha256": "b7354372c99f07d70b5d96c1ae1298ee54b5db23d8897aad8e8fae2af10b208e",
+      "files": 146,
+      "php_files": 90,
+      "storage": ".local/plugins/ikit",
+      "source_modified": false
+    }
+  ]
+}
